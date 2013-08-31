@@ -242,23 +242,23 @@
         <h1>Thank you to our generous sponsors</h1>
         <table>
           <tr>
-            <td><a href="http://www.dpem.com/"><img src="images/sponsors/dpem.png" alt="DPEM"/></a></td>
-            <td><a href="http://purityorganic.com/"><img src="images/sponsors/purity.png" alt="Purity Organic"/></a></td>
-            <td><a href="https://www.sfcooking.com/"><img src="images/sponsors/san_francisco_cooking_school.png" alt="San Francisco Cooking School"/></a></td>
+            <td><a href="http://www.dpem.com/"><img src="/z_logos/sponsors/dpem.png" alt="DPEM"/></a></td>
+            <td><a href="http://purityorganic.com/"><img src="/z_logos/sponsors/purity.png" alt="Purity Organic"/></a></td>
+            <td><a href="https://www.sfcooking.com/"><img src="/z_logos/sponsors/san_francisco_cooking_school.png" alt="San Francisco Cooking School"/></a></td>
           </tr>
           <tr>
-            <td><a href="http://cater2.me/"><img src="images/sponsors/cater2me.png" alt="Cater2Me"/></a></td>
-            <td><a href="http://www.runa.org/"><img src="images/sponsors/runa.png" alt="Runa"/></a></td>
-            <td><a href="http://www.sfbg.com/"><img src="images/sponsors/sf_bay_guardian.png" alt="SF Bay Guardian"/></a></td>
+            <td><a href="http://cater2.me/"><img src="/z_logos/sponsors/cater2me.png" alt="Cater2Me"/></a></td>
+            <td><a href="http://www.runa.org/"><img src="/z_logos/sponsors/runa.png" alt="Runa"/></a></td>
+            <td><a href="http://www.sfbg.com/"><img src="/z_logos/sponsors/sf_bay_guardian.png" alt="SF Bay Guardian"/></a></td>
           </tr>
           <tr>
-            <td><a href="http://www.saveur.com/"><img src="images/sponsors/saveur.png" alt="Saveur"/></a></td>
-            <td><a href="http://www.southernfoodways.org/"><img src="images/sponsors/southern_foodways_alliance.png" alt="Southern Foodways Alliance"/></a></td>
-            <td><a href="http://www.fhlbsf.com/"><img src="images/sponsors/fhl_bank.png" alt="FHL Bank"/></a></td>
+            <td><a href="http://www.saveur.com/"><img src="/z_logos/sponsors/saveur.png" alt="Saveur"/></a></td>
+            <td><a href="http://www.southernfoodways.org/"><img src="/z_logos/sponsors/southern_foodways_alliance.png" alt="Southern Foodways Alliance"/></a></td>
+            <td><a href="http://www.fhlbsf.com/"><img src="/z_logos/sponsors/fhl_bank.png" alt="FHL Bank"/></a></td>
           </tr>
           <tr>
-            <td><a href="http://www.ssfllp.com/"><img src="images/sponsors/sensiba_san_filippo.png" alt="Sensiba San Filippo"/></a></td>
-            <td><a href="https://generalassemb.ly/"><img src="images/sponsors/general_assembly.png" alt="General Assembly"/></a></td>
+            <td><a href="http://www.ssfllp.com/"><img src="/z_logos/sponsors/sensiba_san_filippo.png" alt="Sensiba San Filippo"/></a></td>
+            <td><a href="https://generalassemb.ly/"><img src="/z_logos/sponsors/general_assembly.png" alt="General Assembly"/></a></td>
             <td></td>
           </tr>
         </table>

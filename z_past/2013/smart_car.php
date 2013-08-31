@@ -17,7 +17,7 @@
 
       <p>Delicious food and drink and a free car? Tastes like a winning combination.</p>
 
-      <p><a href="http://www.smartcentersanfrancisco.com/"><img src="images/sponsors/smart_car.png" alt="Smart Car San Francisco"></a></p>
+      <p><a href="http://www.smartcentersanfrancisco.com/"><img src="/z_logos/sponsors/smart_car.png" alt="Smart Car San Francisco"></a></p>
 
       <p>Visit the smart car tent at the festival to enter!</p>
 
