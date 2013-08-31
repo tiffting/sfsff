@@ -16,7 +16,7 @@
       <p>Congratulations to the winners!</p>
       <p>
         <img src="/z_photos/2013/local_forager_winners.jpg" alt="2013 Local Forager Contest winners" width="535" height="343"/>
-        <small class="caption">Photo credit to Jeff Spirer</small>
+        <small class="photo_caption"><span class="photo_credit">Photo credit: Jeff Spirer</span></small>
       </p>
 
       <ul class="text">

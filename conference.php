@@ -13,13 +13,13 @@
 
     <div class="extra_menu paper">
       <h3>Get involved</h3>
-      <p>We are still looking for volunteers. Scroll down for specific roles or fill out <a href="get_involved.php">the form</a> to sign up!</p>
+      <p>The 2013 Conference has come and gone but there are plenty of ways to get involved in food and entrepreneurship year round. Check out <a href="http://www.lacocinasf.org/">La Cocina</a>&rsquo;s <a href="http://www.lacocinasf.org/about-la-cocina/volunteerprogram/">volunteer page</a> for exciting opportunities year-round.</p>
 
       <h3>Tickets</h3>
-      <p>Tickets to the conference are available now! <a href="http://foodandentrepreneurshipconference2013-eorg.eventbrite.com/">Click here</a> to buy them now.</p>
+      <p>Tickets for the 2013 Conference are no longer available. Follow La Cocina on <a href="https://twitter.com/lacocinasf">Twitter</a>, and check out La Cocina&rsquo;s <a href="https://www.facebook.com/lacocinasforg">Facebook page</a> for continued updates on food and entrepreneurship all year long!</p>
       
       <h3>Scholarships available!</h3>
-      <p>Want to attend the conference but have economic hardship? We have tickets available at a sliding scale! Please email <a href="mailto:conference@lacocinasf.org">conference@lacocinasf.org</a> to get yours today.</p>
+      <p>La Cocina offers scholarships and tickets on a sliding scale for conference attendees who can&rsquo;t afford the full ticket price. For 2014 scholarship opportunities, check back here for more information starting in June 2014.</p>
       
     </div>
     <div class="inner">
@@ -34,17 +34,20 @@
       </div>
 
       <section id="intro">
-        <p style="font-size:18px; background-image:url(images/peach_kraft.jpg); padding:10px; border-radius:2px;"><a style="font-weight:bold;" href="http://foodandentrepreneurshipconference2013-eorg.eventbrite.com/">BUY YOUR TICKETS TODAY!</a></p>
         <p>La Cocina&rsquo;s Food &amp; Entrepreneurship Conference is a space to think about the place of food and entrepreneurship in urban and economic development. It is a celebration of the faces, spaces, policies and technologies and the way they all come together to create a vibrant environment where food businesses can grow and thrive&mdash;bringing economic development and jobs to our communities.</p>
+        
+        <p>The 2013 Conference has come to an end! Check out the information below for a 2013 recap. Pictures from the event are coming soon.</p>
+
         <p><strong>Conference date:</strong> Sunday, August 18</p>
         <p><strong>Themes/topics:</strong> This year, we&rsquo;re collaborating with the Southern Foodways Alliance to explore a theme of Women, Work &amp; Food.</p>
+
         <ul class="text">
-          <li>Celebrating Food Entrepreneurship
-          <li>Women Business Owners
-          <li>Diversity in Food
-          <li>Building Communities
-          <li>Leveraging Technology
-          <li>Economic Development and Job Creation through the Food Industry
+          <li>Celebrating Food Entrepreneurship</li>
+          <li>Women Business Owners</li>
+          <li>Diversity in Food</li>
+          <li>Building Communities</li>
+          <li>Leveraging Technology</li>
+          <li>Economic Development and Job Creation through the Food Industry</li>
         </ul>
 
         <p><strong>Target attendees:</strong>
@@ -75,6 +78,12 @@
         -->
         <h2>Brunch</h2>
         <h1>10:00AM &ndash; 1:00PM &ldquo;Southern Foodways Alliance in SF&rdquo;: A Californian Celebration of the Food Heritage of the American South</h1>
+
+        <p>
+          <img src="/z_photos/2013/conference-jarred.jpg" alt="Jarred SF" width="229" height="343"/>
+          <small class="photo_caption">Emiliana Puyana of Jarred SF serves bottomless Bloody Marys and mimosas at the 2013 Conference. <span class="photo_credit">Photo credit: Anthony Lindsey</span></small>
+        </p>
+
         <p>Includes a one-hour panel discussion with the chefs moderated by SFA.</p>
         <p><strong>Chefs:</strong></p>
         <ul class="text">
@@ -99,6 +108,12 @@
         -->
         <h2>Conference</h2>
         <h1>12:00PM &ndash; 1:00PM Oral histories &ndash; Southern food and its culinary heritage</h1>
+
+        <p>
+          <img src="/z_photos/2013/conference-sfa_panel.jpg" alt="SFA panel" width="535" height="357"/>
+          <small class="photo_caption">From left to right: Fernay McPherson of <a href="http://www.minniebells.com/">Minnie Bell&rsquo;s Soul Movement</a>, Helen Turner of <a href="http://www.southernfoodways.org/interview/helens-bar-b-q/">Helen&rsquo;s Bar-B-Q</a>, Chiefo Chukwudebe of <a href="http://www.chiefoskitchen.com/">Chiefo&rsquo;s Kitchen</a>, Amy Evans of <a href="http://www.southernfoodways.org/">The Southern Foodways Alliance</a>, Olivia Velazquez of <a href="http://www.eleganzacatering.com/">Eleganza Catering</a>, Maria del Carmen Flores of <a href="http://estrellitassnacks.com/">Estrellita&rsquo;s Snacks</a>, Alicia Villanueva of <a href="http://aliciatamaleslosmayas.com/">Alicia&rsquo;s Tamales los Mayas</a>, and Dionne Knox of <a href="http://zellassoulfulkitchen.com/">Zella&rsquo;s Soulful Kitchen</a> share their oral histories about their life in food. <span class="photo_credit">Photo credit: Anthony Lindsey</span></small>
+        </p>
+
         <p>Brunch tickets include this panel discussion.</p>
         <p><strong>Moderator:</strong> Amy Evans &ndash; oral historian at <a href="http://www.southernfoodways.org/">Southern Foodways Alliance</a></p>
         <p><strong>Panelists:</strong></p>
@@ -123,6 +138,12 @@
        
         <h1>1:15PM &ndash; 2:15PM Session One</h1>
         <h2>A) Food writing for business owners</h2>
+
+        <p>
+          <img src="/z_photos/2013/conference-samin_nosrat.jpg" alt="Samin Nosrat" width="229" height="343"/>
+          <small class="photo_caption">Samin Nosrat&mdash;writer, teacher, and chef&mdash;comments on the nuances of food writing in the modern digital age. <span class="photo_credit">Photo credit: Anthony Lindsey</span></small>
+        </p>
+
         <p><strong>Moderator:</strong> Michelle Fernandez &ndash; development and communications associate at <a href="http://www.lacocinasf.org/">La Cocina</a></p>
         <p><strong>Panelists:</strong></p>
         <ul class="text">
@@ -155,6 +176,12 @@
 
         <h1>2:30PM &ndash; 3:30PM Session Two</h1> 
         <h2>A) Financing a food business</h2>
+
+        <p>
+          <img src="/z_photos/2013/conference-financing.jpg" alt="Financing a food business" width="229" height="343"/>
+          <small class="photo_caption"><span class="photo_credit">Photo credit: La Cocina staff</span></small>
+        </p>
+
         <p><strong>Moderator:</strong> Caleb Zigas &ndash; executive director at <a href="http://www.lacocinasf.org/">La Cocina</a></p>
         <p><strong>Panelists:</strong></p>
         <ul class="text">
