@@ -12,6 +12,16 @@ a:hover{text-decoration:underline;}
 
 hr{height:1px; border:none; border-top:1px solid #000; margin:20px 0; }
 
+.caption {
+	color: #666;
+	font-style: italic;
+}
+.pull-left {
+	float: left;
+	margin-bottom: 1em;
+	margin-right: 1em;
+}
+
 #app-ribbon {
 	position: absolute; top: 0; right: 0;
 }
