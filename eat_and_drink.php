@@ -18,6 +18,20 @@
   });
 </script>
 
+<?php
+// BEGIN: post-festival content
+?>
+<section class="kraft">
+  <div class="inner">
+    <p>Thanks to all the vendors who made the 5th Annual San Francisco Street Food Festival one of the most delicious years yet! Click on the logos to find out more information on each vendor and where to find them year-round.</p>
+
+    <p><strong>Want to know where to find your favorite La Cocina businesses?</strong> We&rsquo;ve got the perfect guide for you. Use <a href="http://www.lacocinasf.org/where-to-find-la-cocina-businesses/">this key</a> so you can find Nepalese momos from <a href="http://biniskitchen.com/">Bini&rsquo;s Kitchen</a>, satisfying soul food from <a href="http://www.minniebells.com/">Minnie Bell&rsquo;s Soul Kitchen</a>, and so much more any day of the week. Get eating!</p>
+  </div>
+</section>
+<?php
+// END: post-festival content
+?>
+
 <section id="vendors">
 
   <ul id="vendor_posters" class="filter_container">
