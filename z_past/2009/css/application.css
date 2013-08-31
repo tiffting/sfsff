@@ -1,0 +1,87 @@
+*{margin:0; padding:0;}
+img{border:none;}
+body{font-family:arial; font-size:14px; line-height:1.25; background-image:url(../img/kraft2.jpg); background-position:50% 0;}
+p{margin-bottom:1.5em;}
+a, a:visited{color:#0c4f50;}
+a:hover, a:active{color:#386b6c;}
+abbr{border-bottom:none;}
+
+ol, ul {
+	margin-left: 3em; margin-bottom: 1em;
+	}
+li {
+	margin-bottom: .2em;
+	}
+
+h1, h2, h3 {color:#0c4f50;}
+h3 {margin: 2em 0 .5em 0; text-decoration:underline;}
+
+.nav{}
+.nav ul{list-style-type:none; margin:0;}
+.nav ul li{}
+.nav ul li a{cursor:pointer; display:block; width:150px; height:43px; text-align:center; text-indent:-9999px; background:transparent url(../img/nav_sprites.jpg) no-repeat -20px -30px;;}
+.nav.es ul li a{background-image:url(../img/nav_sprites_es.jpg);}
+
+#wrap{width:750px; margin:30px auto; position:relative;}
+
+#masthead{position:relative; height:305px; text-indent:-9999px; background:transparent url(../img/masthead.jpg) no-repeat top left;}
+#masthead.es{background-image:url(../img/masthead_es.jpg);}
+#masthead a#home_link{display:block; position:absolute; top:0; left:0; width:750px; height:305px;}
+
+#main_nav{margin-top:10px;}
+#main_nav.nav ul li{float:left; cursor:pointer;}
+#main_nav.nav ul li.food_vendors a{background-position:0 0;}
+#main_nav.nav ul li.food_vendors a:hover,
+#main_nav.nav ul li.food_vendors.active a{background-position:0 -43px;}
+#main_nav.nav ul li.silent_auction a{background-position:-150px 0;}
+#main_nav.nav ul li.silent_auction a:hover,
+#main_nav.nav ul li.silent_auction.active a{background-position:-150px -43px;}
+#main_nav.nav ul li.scavenger_hunt a{background-position:-300px 0;}
+#main_nav.nav ul li.scavenger_hunt a:hover,
+#main_nav.nav ul li.scavenger_hunt.active a{background-position:-300px -43px;}
+#main_nav.nav ul li.street_food_photo_contest a{background-position:-450px 0;}
+#main_nav.nav ul li.street_food_photo_contest a:hover,
+#main_nav.nav ul li.street_food_photo_contest.active a{background-position:-450px -43px;}
+#main_nav.nav ul li.food_and_drink_passports a{background-position:-600px 0;}
+#main_nav.nav ul li.food_and_drink_passports a:hover,
+#main_nav.nav ul li.food_and_drink_passports.active a{background-position:-600px -43px;}
+
+#content_clear{position:relative; margin-top:20px;}
+#content_clear #content{float:left; width:500px; margin-left:20px; margin-top:10px;}
+#content_clear #content h1{font-size:18px; margin-bottom:.5em; margin-top:1em;}
+#content_clear #sidebar{float:right; width:150px; }
+#content_clear #sidebar #sponsors img{display:block; margin:0 auto;}
+#content_clear #sidebar #foodbuzz{margin-top:30px;}
+#content_clear #sidebar .nav{margin-top:15px;}
+
+#content_clear #sidebar .nav li a{margin-bottom:7px;}
+#content_clear #sidebar .nav ul li.street_food_policy a{background-position:-750px 0;}
+#content_clear #sidebar .nav ul li.street_food_policy a:hover,
+#content_clear #sidebar .nav ul li.street_food_policy.active a{background-position:-750px -43px;}
+#content_clear #sidebar .nav ul li.questions_more_info a{background-position:-900px 0;}
+#content_clear #sidebar .nav ul li.questions_more_info a:hover,
+#content_clear #sidebar .nav ul li.questions_more_info.active a{background-position:-900px -43px;}
+#content_clear #sidebar .nav ul li.follow_us_on_twitter a{background-position:-1050px 0;}
+#content_clear #sidebar .nav ul li.follow_us_on_twitter a:hover{background-position:-1050px -43px;}
+
+
+
+
+
+
+
+
+
+
+
+.clearfix:after {
+	content:".";
+	display:block;
+	height:0;
+	clear:both;
+	visibility:hidden;
+}
+.clearfix {display:inline-block;}
+/* Hide from IE Mac \*/
+	.clearfix {display:block;}
+/* End hide from IE Mac */

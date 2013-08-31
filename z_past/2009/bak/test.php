@@ -1,0 +1,1 @@
+<img src="/images/eat_real_logo.png" />

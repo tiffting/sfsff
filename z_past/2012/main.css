@@ -1,0 +1,363 @@
+*{margin:0; padding:0;}
+body{font-size:14px; background-image:url(images/wood.jpg); background-position:50% 0; background-color:#423a34; font-family:helvetica, arial, sans-serif;}
+a img{border:none;}
+ul{list-style-type:none;}
+.cf:before,.cf:after{content:""; display:table;}
+.cf:after{clear:both;}
+.cf{zoom:1;}
+
+a{color:#085a56; text-decoration:none;}
+a:hover{text-decoration:underline;}
+
+hr{height:1px; border:none; border-top:1px solid #000; margin:20px 0; }
+
+#wrap{width:910px; margin:60px auto; margin-top:40px; padding-bottom:20px;}
+#wrap > header{z-index:20; position:relative; color:#fff; overflow:hidden; margin-bottom:30px; display:block;}
+#wrap > header .header_piece{text-indent:-9999px; height:93px; background-image:url(images/header.png);}
+#wrap > header #la_cocina_header{display:block; width:130px; float:left;}
+#wrap > header #la_cocina_header:hover{background-position:left -93px;}
+#wrap > header #streetfood_header{}
+#wrap > header #streetfood_header:hover{background-position:-131px -93px;}
+
+.kraft{position:relative; background-color:#A77D55; background-image:url(images/kraft.jpg); -webkit-box-shadow:0 2px 3px rgba(0,0,0,.5); -moz-box-shadow:0 2px 3px rgba(0,0,0,.5); box-shadow:0 2px 3px rgba(0,0,0,.5);}
+.kraft .inner{padding:20px;}
+.kraft.blue{background-image:url(images/blue_kraft.jpg);}
+.kraft h1{ text-transform:uppercase; font-family: "league-gothic-1","league-gothic-2"; font-size:22px; margin-bottom:15px;}
+.kraft h2{width:75%; margin-bottom:15px; text-transform:uppercase; font-size:14px;}
+.kraft p{margin-bottom:15px; line-height:1.3em; width:75%;}
+.kraft section{display:block; border-top:1px solid rgba(0,0,0,.3); padding-top:15px; margin-top:35px;}
+.kraft section:first-child{margin-top:0;}
+.kraft section img.mood_img{width:300px; float:left; margin-right:10px; margin-bottom:10px;}
+.kraft section#frequently_asked_questions h2{clear:both;}
+
+.kraft ul.text{margin-bottom:20px; list-style-type:disc; padding-left:15px;}
+.kraft ul.text li{margin-bottom:5px;}
+.kraft .navigation.pagenav{}
+.kraft .navigation.pagenav ul{overflow:hidden;}
+.kraft .navigation.pagenav ul li{}
+.kraft .navigation.pagenav ul li a{color:#fff; opacity:.8; font-family: "league-gothic-1","league-gothic-2"; font-size:22px; float:left; margin-left:35px;}
+.kraft .navigation.pagenav ul li:first-child a{margin-left:0;}
+.kraft .navigation.pagenav ul li a:hover{opacity:1;}
+.kraft .side_img{float:right; padding:0 0 20px 20px;}
+.kraft .extra_menu{position:absolute; top:-10px; right:-50px;width:160px; -webkit-box-shadow:0 2px 3px rgba(0,0,0,.5); -moz-box-shadow:0 2px 3px rgba(0,0,0,.5); box-shadow:0 2px 3px rgba(0,0,0,.5);}
+.kraft .extra_menu.paper{background-color:#dab766; padding:20px; text-align:center; }
+.kraft .extra_menu.paper h3{font-family:"rosewood-std-fill-1","rosewood-std-fill-2";}
+.kraft .extra_menu.paper p{width:auto; font-size:12px;}
+.kraft .extra_menu ul{ font-size:12px; margin-bottom:1em; }
+
+#content{}
+#content > .navigation.standard_nav{width:135px; float:left;}
+#content > .navigation.standard_nav ul{padding-top:7px; position:relative; padding-bottom:7px;}
+#content > .navigation.standard_nav ul li{}
+#content > .navigation.standard_nav ul li.press_kit{display:none;}
+#content > .navigation.standard_nav ul li.photo_contest{display:none;}
+#content > .navigation.standard_nav ul li.get_list_ready{display:none;}
+#content > .navigation.standard_nav ul li.social{position:absolute; left:20px; bottom:-55px; overflow:hidden; padding:0 5px;}
+#content > .navigation.standard_nav ul li.social a{margin-left:20px;text-indent:0; background-image:none; float:left; display:block; width:auto;}
+#content > .navigation.standard_nav ul li.social a:first-child{margin-left:0;}
+#content > .navigation.standard_nav ul li a{margin:0 auto; color:#bb8e64; text-decoration:none; font-size:24px; font-weight:bold; background-image:url(images/nav_sprites.png); display:block; text-indent:-9999px; width:111px; background-position:-111px 0;}
+#content > .navigation.standard_nav ul li a#nav_about                           {height:45px; background-position:-111px 0px;}
+#content > .navigation.standard_nav ul li a#nav_eat_and_drink                   {height:37px; background-position:-111px -45px;}
+#content > .navigation.standard_nav ul li a#nav_conference                      {height:35px; background-position:-111px -82px;}
+#content > .navigation.standard_nav ul li a#nav_scavenger_hunt                  {display:none; height:54px; background-position:-111px -116px;}
+#content > .navigation.standard_nav ul li a#nav_local_forager                   { height:52px; background-position:-111px -161px; margin-top:8px;}
+#content > .navigation.standard_nav ul li a#nav_news                            {height:37px; background-position:-111px -220px; margin-top:8px;}
+#content > .navigation.standard_nav ul li a#nav_passports                       {height:15px; background-position:-111px -258px;}
+#content > .navigation.standard_nav ul li a#nav_merchandise                     {height:15px; background-position:-111px -275px; margin-top:5px;}
+#content > .navigation.standard_nav ul li a#nav_sponsors                        {height:36px; background-position:-111px -307px;}
+#content > .navigation.standard_nav ul li a#nav_get_involved                    {height:30px; background-position:-111px -342px;}
+#content > .navigation.standard_nav ul li a#mission_neighbors                   {display:none;}
+#content > .navigation.standard_nav ul li a#nav_night_market                    {height:32px; background-position:-111px -377px; margin-top:7px;}
+#content > .navigation.standard_nav ul li.active a#nav_get_involved,
+#content > .navigation.standard_nav ul li a#nav_get_involved:hover              {height:30px; background-position:0px -342px;}
+#content > .navigation.standard_nav ul li.active a#nav_about,                                                     
+#content > .navigation.standard_nav ul li a#nav_about:hover                     {height:45px; background-position:0px 0px;}
+#content > .navigation.standard_nav ul li.active a#nav_eat_and_drink,                                                 
+#content > .navigation.standard_nav ul li a#nav_eat_and_drink:hover             {height:37px; background-position:0px -45px;}
+#content > .navigation.standard_nav ul li.active a#nav_conference,                                                
+#content > .navigation.standard_nav ul li a#nav_conference:hover                {height:35px; background-position:0px -82px;}
+#content > .navigation.standard_nav ul li.active a#nav_scavenger_hunt,                                            
+#content > .navigation.standard_nav ul li a#nav_scavenger_hunt:hover            {height:54px; background-position:0px -116px;}
+#content > .navigation.standard_nav ul li.active a#nav_local_forager,                                      
+#content > .navigation.standard_nav ul li a#nav_local_forager:hover             {height:52px; background-position:0px -161px;}
+#content > .navigation.standard_nav ul li.active a#nav_news,                                                      
+#content > .navigation.standard_nav ul li a#nav_news:hover                      {height:37px; background-position:0px -220px;}
+#content > .navigation.standard_nav ul li.active a#nav_passports,                                 
+#content > .navigation.standard_nav ul li a#nav_passports:hover {background-position:0px -258px;}
+#content > .navigation.standard_nav ul li.active a#nav_merchandise,                                 
+#content > .navigation.standard_nav ul li a#nav_merchandise:hover {background-position:0px -275px;}
+#content > .navigation.standard_nav ul li.active a#nav_sponsors,                                                  
+#content > .navigation.standard_nav ul li a#nav_sponsors:hover                  {height:36px; background-position:0px -307px;}
+#content > .navigation.standard_nav ul li.active a#nav_get_involved,                                              
+#content > .navigation.standard_nav ul li a#nav_get_involved:hover              {height:30px; background-position:0px -342px;}
+#content > .navigation.standard_nav ul li a#nav_night_market:hover,
+#content > .navigation.standard_nav ul li.active a#nav_night_market              {height:32px; background-position:0px -377px;}
+
+#content > section{width:755px; float:right;}
+
+
+#content > .navigation.full_nav{background-image:none; background-color:transparent; -webkit-box-shadow:none; -moz-box-shadow:none; box-shadow:none; margin-top:-150px;}
+#content > .navigation.full_nav ul{position:relative; background-image:url(images/home_nav/paint.png); background-position:0 70px; width:100%; height:773px;}
+#content > .navigation.full_nav ul li{}
+#content > .navigation.full_nav ul li.press_kit{ position:absolute; top:370px; left:725px; z-index:1;}
+#content > .navigation.full_nav ul li.press_kit a{background-image:url(images/home_nav/press_kit.png); width:263px; height:309px; }
+#content > .navigation.full_nav ul li.press_kit a:hover{background-position:0 -309px;}
+
+#content > .navigation.full_nav ul li.social{left:780px; position:relative; top:670px;background:url(images/home_nav/follow_banner.png); width:104px; height:14px; -webkit-box-shadow:none; -moz-box-shadow:none; box-shadow:none;}
+#content > .navigation.full_nav ul li.social a.facebook{position:absolute; top:24px; left:23px; background:url(images/home_nav/fb.png); width:27px; height:27px;}
+#content > .navigation.full_nav ul li.social a.twitter{position:absolute; top:24px; left:65px; background:url(images/home_nav/t.png); width:30px; height:24px;}
+#content > .navigation.full_nav ul li a{ position:absolute; display:block; text-indent:-9999px;}
+#content > .navigation.full_nav ul li a:hover{}
+#content > .navigation.full_nav ul li a#nav_list                      { display:none; width:864px; height:265px; background-image:url(images/home_nav/get_list_ready.png);}
+#content > .navigation.full_nav ul li a#nav_about                     { width:177px; height:161px; background-image:url(images/home_nav/about.png);}
+#content > .navigation.full_nav ul li a#nav_eat_and_drink             { width:299px; height:347px; background-image:url(images/home_nav/eat_and_drink.png);}
+#content > .navigation.full_nav ul li a#nav_conference                { width:179px; height:157px; background-image:url(images/home_nav/conference.png);}
+#content > .navigation.full_nav ul li a#nav_scavenger_hunt            { display:none; width:258px; height:233px; background-image:url(images/home_nav/scavenger_hunt.png);}
+#content > .navigation.full_nav ul li a#nav_local_forager             { width:186px; height:125px; background-image:url(images/home_nav/local_forager.png);}
+#content > .navigation.full_nav ul li a#nav_news                      { width:119px; height:88px; background-image:url(images/home_nav/news.png);}
+#content > .navigation.full_nav ul li a#nav_passports                 { width:243px; height:78px; background-image:url(images/home_nav/passports.png);}
+#content > .navigation.full_nav ul li a#nav_merchandise               { width:219px; height:58px; background-image:url(images/home_nav/merchandise.png);}
+#content > .navigation.full_nav ul li a#nav_sponsors                  { width:87px; height:271px; background-image:url(images/home_nav/sponsors.png);}
+#content > .navigation.full_nav ul li a#nav_get_involved              { width:181px; height:79px; background-image:url(images/home_nav/get_involved.png);}
+#content > .navigation.full_nav ul li a#nav_after_party               { display:none; width:227px; height:58px; background-image:url(images/home_nav/after_party.png);}
+#content > .navigation.full_nav ul li a#nav_photo_contest             { display:none; width:231px; height:69px; background-image:url(images/home_nav/photo_contest.png);}
+#content > .navigation.full_nav ul li a#mission_neighbors             { left:568px;top:359px;z-index:53; width:193px; height:99px; background-image:url(images/home_nav/mission_neighbors.png);}
+#content > .navigation.full_nav ul li a#nav_night_market              { left:519px;top:169px;z-index:52; width:232px; height:328px; background-image:url(images/home_nav/night_market.png);}
+
+#content > .navigation.full_nav ul li a#nav_about:hover                      {background-position:0 -161px;}
+#content > .navigation.full_nav ul li a#nav_list:hover                       {background-position:0 -265px;}
+#content > .navigation.full_nav ul li a#nav_eat_and_drink:hover              {background-position:0 -347px;}
+#content > .navigation.full_nav ul li a#nav_conference:hover                 {background-position:0 -157px;}
+#content > .navigation.full_nav ul li a#nav_scavenger_hunt:hover             {background-position:0 -233px;}
+#content > .navigation.full_nav ul li a#nav_local_forager:hover              {background-position:0 -125px;}
+#content > .navigation.full_nav ul li a#nav_news:hover                       {background-position:0 -88px; }
+#content > .navigation.full_nav ul li a#nav_passports:hover                  {background-position:0 -78px; }
+#content > .navigation.full_nav ul li a#nav_merchandise:hover                {background-position:0 -58px; }
+#content > .navigation.full_nav ul li a#nav_sponsors:hover                   {background-position:0 -271px;}
+#content > .navigation.full_nav ul li a#nav_get_involved:hover               {background-position:0 -79px; }
+#content > .navigation.full_nav ul li a#nav_after_party:hover                {background-position:0 -58px; }
+#content > .navigation.full_nav ul li a#nav_photo_contest:hover              {background-position:0 -69px; }
+#content > .navigation.full_nav ul li a#nav_photo_contest:hover              {background-position:0 -69px; }
+#content > .navigation.full_nav ul li a#mission_neighbors:hover              {background-position:0 -99px; }
+#content > .navigation.full_nav ul li a#nav_night_market:hover               {background-position:0 -328px; }
+
+/*positioning for full nav*/
+#content > .navigation.full_nav ul li a#nav_list{left:auto;top:auto;z-index:38;}
+#content > .navigation.full_nav ul li a#nav_about{left:317px;top:152px;z-index:48;}
+#content > .navigation.full_nav ul li a#nav_eat_and_drink{left:-5px;top:178px;z-index:50;}
+#content > .navigation.full_nav ul li a#nav_conference{left:320px;top:347px;z-index:49;}
+#content > .navigation.full_nav ul li a#nav_scavenger_hunt{left:262px;top:359px;z-index:45;}
+#content > .navigation.full_nav ul li a#nav_news{left:779px;top:169px;z-index:46;}
+#content > .navigation.full_nav ul li a#nav_sponsors{left:791px;top:257px;z-index:53;}
+#content > .navigation.full_nav ul li a#nav_get_involved{left:202px;top:666px;z-index:58;}
+#content > .navigation.full_nav ul li a#nav_night_market{left:515px;top:178px;z-index:51;}
+#content > .navigation.full_nav ul li a#nav_local_forager{left:590px;top:469px;z-index:52;}
+#content > .navigation.full_nav ul li a#nav_photo_contest{left:530px;top:115px;z-index:47;}
+#content > .navigation.full_nav ul li a#mission_neighbors{left:2px;top:669px;z-index:57;}
+#content > .navigation.full_nav ul li a#nav_passports{left:-29px;top:562px;z-index:54;}
+#content > .navigation.full_nav ul li a#nav_merchandise{left:161px;top:572px;z-index:55;}
+
+
+
+.extra_menu a.sign{position:absolute; text-indent:-9999px; display:block;}
+.extra_menu a.sign#missed_last_years_conference_sign{right:0; top:20px; background-image:url(images/missed_out.png); width:272px; height:98px;}
+.extra_menu a.sign#missed_last_years_conference_sign:hover{background-position:0 -98px;}
+.extra_menu a.sign#buy_conference_tickets_sign{right:0; top:100px; background-image:url(images/conference_tickets.png); width:214px; height:110px;}
+.extra_menu a.sign#buy_conference_tickets_sign:hover{background-position:0 -110px;}
+
+/* eat/drink page */
+section#vendors{height:3000px;}
+ul#vendor_posters{position:relative;}
+ul#vendor_posters li{z-index:2; position:absolute; background-image:url(images/kraft.jpg); box-shadow: 0 2px 3px rgba(0, 0, 0, .5); -webkit-box-shadow: 0 2px 3px rgba(0, 0, 0, .5); -moz-shadow: 0 2px 3px rgba(0, 0, 0, .5);}
+ul#vendor_posters li:hover{}
+ul#vendor_posters li a{display:block;}
+ul#vendor_posters li img.logo{margin:5px; display:block;}
+
+
+ul#vendor_posters li:nth-child(5n+0) img.logo, ul#vendor_posters li.red img.logo{background-image:url(images/red_kraft.jpg);}
+ul#vendor_posters li:nth-child(5n+1) img.logo, ul#vendor_posters li.peach img.logo{background-image:url(images/peach_kraft.jpg);}
+ul#vendor_posters li:nth-child(5n+2) img.logo, ul#vendor_posters li.yellow img.logo{background-image:url(images/yellow_kraft.jpg);}
+ul#vendor_posters li:nth-child(5n+3) img.logo, ul#vendor_posters li.green img.logo{background-image:url(images/green_kraft.jpg);}
+ul#vendor_posters li:nth-child(5n+4) img.logo, ul#vendor_posters li.teal img.logo{background-image:url(images/teal_kraft.jpg);}
+ul#vendor_posters li.no_effects{background-image:none; -webkit-box-shadow:none; -moz-box-shadow:none; box-shadow:none;}
+ul#vendor_posters li#scavenger_hunt a{z-index:1; display:block; width:255px; height:233px; background-image:url(images/home_nav/scavenger_hunt.png);}
+ul#vendor_posters li#scavenger_hunt a:hover{background-position:0 -233px;}
+
+ul#vendor_posters li.filters{height:45px; width:290px; overflow:hidden;}
+ul#vendor_posters li.filters .filter{display:none; float:left; margin-left:50px; margin-top:9px; color:#fff; cursor:pointer; font-family:"league-gothic-1","league-gothic-2"; font-size:24px;}
+ul#vendor_posters li.filters .filter:first-child{margin-left:20px;}
+ul#vendor_posters li.filters .filter.active{color:#2f5e58;}
+ul#vendor_posters li:not(.filters){-webkit-transition:opacity .5s ease-in-out;}
+ul#vendor_posters li.filtered_out:not(.filters){-moz-opacity:.10; filter:alpha(opacity=10); opacity:.10;}
+
+#modal_fade{display:none; cursor:pointer; width:100%; height:100%; z-index:1000; background-color:#000; position:fixed; top:0; left:0;}
+ul#vendor_posters li .payload{display:none;}
+ul#vendor_posters li .payload .inner{padding:40px;}
+ul#vendor_posters li .payload h1{ border-top:1px solid #000; padding-top:20px; text-transform:uppercase; font-family: "league-gothic-1","league-gothic-2"; font-size:22px; }
+ul#vendor_posters li .payload h2{width:75%; margin-bottom:15px; text-transform:uppercase; font-size:14px;}
+ul#vendor_posters li .payload p{margin-bottom:15px; line-height:1.3em; }
+ul#vendor_posters li .payload .menu_item{margin-bottom:15px; line-height:1.3em; margin-top:15px; font-style:italic;}
+
+
+#vendor_posters #embrace_sweets_llc img{width:277px;}
+#vendor_posters #el_huarache_loco img{height:89px;}
+#vendor_posters #kung_fu_tacos img{width:220px; height:81px;}
+#vendor_posters #chaac_mool img{width:182px; height:85px;}
+#vendor_posters #los_cilantros img{width:204px; height:67px;}
+#vendor_posters #kasa_indian_eatery img{width:125px; height:126px;}
+#vendor_posters #love__hummus_co img{width:125px; height:152px;}
+#vendor_posters #birite_creamery img{width:199px; height:86px;}
+#vendor_posters #wise_sons_deli{background-image:none; box-shadow:none;}
+#vendor_posters #wise_sons_deli img{width:289px; height:58px; background-image:none;}
+#vendor_posters #zepeda_foods img{width:186px; height:125px;}
+#vendor_posters #neo_cocoa_ img{width:199px; height:86px;}
+#vendor_posters #slanted_door img{width:282px; height:49px;}
+#vendor_posters #global_soul img{width:282px; height:49px;}
+#vendor_posters #minnie_bellrsquos_soul_food_movement img{background-image:none;}
+
+/*no images*/
+#vendor_posters #la_torta_gorda,
+#vendor_posters #zare_fly_trap,
+#vendor_posters #eurotrash,
+#vendor_posters #el_nuevo_fruitlandia
+{display:none;}
+
+
+/*positions*/
+#vendor_posters #get_your_passports{left:311px;top:458px;z-index:696;}
+#vendor_posters #boxing_room{left:12px;top:1397px;z-index:718;}
+#vendor_posters #brass_knuckles{left:612px;top:1590px;z-index:724;}
+#vendor_posters #el_nuevo_fruitlandia{left:632px;top:1594px;z-index:678;}
+#vendor_posters #global_soul{left:12px;top:1179px;z-index:713;}
+#vendor_posters #hawker_fare{left:221px;top:2200px;z-index:745;}
+#vendor_posters #heirloom_cafe{left:520px;top:1327px;z-index:717;}
+#vendor_posters #jarred{left:322px;top:1438px;z-index:721;}
+#vendor_posters #la_torta_gorda{left:459px;top:346px;z-index:680;}
+#vendor_posters #lalirsquos{left:607px;top:1840px;z-index:729;}
+#vendor_posters #a15_romolo{left:2px;top:0px;z-index:758;}
+#vendor_posters #a4505_meats{left:7px;top:425px;z-index:755;}
+#vendor_posters #a16{left:459px;top:578px;z-index:699;}
+#vendor_posters #aliciarsquos_tamales_los_mayas{left:171px;top:1823px;z-index:727;}
+#vendor_posters #azalinas{left:312px;top:154px;z-index:686;}
+#vendor_posters #beijing_restaurant_{left:613px;top:-2px;z-index:730;}
+#vendor_posters #birite_creamery{left:13px;top:2013px;z-index:737;}
+#vendor_posters #blue_bottle_coffee{left:153px;top:311px;z-index:690;}
+#vendor_posters #chaac_mool{left:395px;top:880px;z-index:710;}
+#vendor_posters #chiefos_kitchen{left:12px;top:1249px;z-index:716;}
+#vendor_posters #chile_lindo{left:310px;top:731px;z-index:756;}
+#vendor_posters #clairesquares{left:613px;top:152px;z-index:688;}
+#vendor_posters #creme_brulee_cart{left:161px;top:1250px;z-index:733;}
+#vendor_posters #curry_up_now{left:615px;top:1181px;z-index:715;}
+#vendor_posters #delicioso_creperie{left:12px;top:1691px;z-index:735;}
+#vendor_posters #don_bugito{left:154px;top:460px;z-index:692;}
+#vendor_posters #ejis_{left:614px;top:452px;z-index:697;}
+#vendor_posters #el_buen_comer{left:160px;top:757px;z-index:703;}
+#vendor_posters #el_huarache_loco{left:6px;top:313px;z-index:691;}
+#vendor_posters #el_tonayense{left:41px;top:2608px;z-index:754;}
+#vendor_posters #embrace_sweets_llc{left:2px;top:156px;z-index:681;}
+#vendor_posters #endless_summer_sweets{left:615px;top:742px;z-index:705;}
+#vendor_posters #estrellitas_snacks{left:13px;top:1545px;z-index:734;}
+#vendor_posters #good_foods_catering{left:480px;top:2415px;z-index:747;}
+#vendor_posters #hapa_ramen{left:448px;top:1595px;z-index:723;}
+#vendor_posters #hapa_sf{left:466px;top:305px;z-index:694;}
+#vendor_posters #hella_vegan_eats{left:315px;top:1093px;z-index:731;}
+#vendor_posters #il_cane_rosso{left:615px;top:306px;z-index:693;}
+#vendor_posters #inticing_creations{left:476px;top:2851px;z-index:765;}
+#vendor_posters #kasa_indian_eatery{left:614px;top:1034px;z-index:707;}
+#vendor_posters #kikas_treats{left:161px;top:0px;z-index:685;}
+#vendor_posters #kung_fu_tacos{left:358px;top:989px;z-index:711;}
+#vendor_posters #lrsquos_caffe{left:233px;top:1968px;z-index:742;}
+#vendor_posters #la_luna_cupcakes{left:614px;top:887px;z-index:706;}
+#vendor_posters #la_victoria_bakery_company{left:160px;top:1414px;z-index:719;}
+#vendor_posters #lers_ros{left:615px;top:1433px;z-index:720;}
+#vendor_posters #neo_cocoa_{left:387px;top:1949px;z-index:740;}
+#vendor_posters #nombe_izakaya{left:14px;top:1838px;z-index:736;}
+#vendor_posters #osha_thai{left:607px;top:1985px;z-index:738;}
+#vendor_posters #ritual_coffee_roasters{left:463px;top:1090px;z-index:714;}
+#vendor_posters #slanted_door{left:177px;top:1744px;z-index:726;}
+#vendor_posters #sweets_collection_{left:614px;top:598px;z-index:698;}
+#vendor_posters #three_twins_ice_cream{left:160px;top:991px;z-index:712;}
+#vendor_posters #zellarsquos_soulful_kitchen{left:317px;top:1244px;z-index:732;}
+#vendor_posters #zepeda_foods{left:546px;top:2271px;z-index:746;}
+#vendor_posters #eurotrash{left:130px;top:1705px;z-index:682;}
+#vendor_posters #leorsquos_hot_dogs{left:468px;top:800px;z-index:679;}
+#vendor_posters #letrsquos_be_frank{left:465px;top:153px;z-index:687;}
+#vendor_posters #liba_falafel{left:309px;top:578px;z-index:700;}
+#vendor_posters #local_mission_eatery{left:157px;top:609px;z-index:701;}
+#vendor_posters #los_cilantros{left:160px;top:902px;z-index:709;}
+#vendor_posters #love__hummus_co{left:10px;top:717px;z-index:702;}
+#vendor_posters #maite_catering{left:11px;top:2316px;z-index:749;}
+#vendor_posters #meda{left:10px;top:574px;z-index:695;}
+#vendor_posters #minnie_bellrsquos_soul_food_movement{left:480px;top:2562px;z-index:753;}
+#vendor_posters #namu{left:314px;top:0px;z-index:684;}
+#vendor_posters #nojo{left:14px;top:2462px;z-index:751;}
+#vendor_posters #onigilly{left:11px;top:890px;z-index:708;}
+#vendor_posters #peas_of_mind{left:14px;top:2192px;z-index:744;}
+#vendor_posters #pinx{left:477px;top:2706px;z-index:763;}
+#vendor_posters #radio_africa__kitchen{left:173px;top:2462px;z-index:752;}
+#vendor_posters #sabores_del_sur{left:463px;top:731px;z-index:704;}
+#vendor_posters #saint__olive{left:607px;top:2128px;z-index:739;}
+#vendor_posters #sajen{left:379px;top:2055px;z-index:741;}
+#vendor_posters #sal_de_vida_gourmet{left:620px;top:2705px;z-index:764;}
+#vendor_posters #state_bird_provisions{left:320px;top:1841px;z-index:728;}
+#vendor_posters #tacolicious{left:483px;top:1739px;z-index:725;}
+#vendor_posters #tainorsquos_puerto_rican_food{left:164px;top:1600px;z-index:722;}
+#vendor_posters #the_southern_sandwich_co{left:313px;top:305px;z-index:689;}
+#vendor_posters #to_hyang{left:329px;top:2758px;z-index:757;}
+#vendor_posters #turtle_tower{left:464px;top:-1px;z-index:683;}
+#vendor_posters #wise_sons_deli{left:15px;top:2117px;z-index:743;}
+#vendor_posters #womenrsquos_initiative{left:290px;top:2308px;z-index:750;}
+#vendor_posters #yvonnersquos_southern_sweets{left:11px;top:1033px;z-index:748;}
+#vendor_posters #zare_fly_trap{left:614px;top:1279px;z-index:677;}
+#vendor_posters #the_peached_tortilla{left:17px;top:2754px;z-index:761;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*night market*/
+
+#vendor_posters #night_market_scottrsquos_bbq{left:155px;top:150px;z-index:297;}
+#vendor_posters #night_market_whole_foods_steep_brew_craft_beer_garden{left:464px;top:0px;z-index:291;}
+#vendor_posters #night_market_rye_on_the_road{left:310px;top:754px;z-index:315;}
+#vendor_posters #night_market_maite_catering{left:487px;top:600px;z-index:310;}
+#vendor_posters #night_market_anda_piroshki{left:468px;top:752px;z-index:314;}
+#vendor_posters #night_market_azalinarsquos{left:151px;top:754px;z-index:320;}
+#vendor_posters #night_market_chaac_mool{left:250px;top:619px;z-index:312;}
+#vendor_posters #night_market_el_buen_comer{left:616px;top:-1px;z-index:290;}
+#vendor_posters #night_market_el_huarache_loco{left:155px;top:1px;z-index:293;}
+#vendor_posters #night_market_endless_summer_sweets{left:309px;top:1px;z-index:292;}
+#vendor_posters #night_market_estrellitarsquos_snacks{left:310px;top:151px;z-index:296;}
+#vendor_posters #night_market_jardiniere{left:463px;top:302px;z-index:301;}
+#vendor_posters #night_market_los_cilantros{left:12px;top:624px;z-index:311;}
+#vendor_posters #night_market_sabores_del_sur{left:2px;top:1px;z-index:294;}
+#vendor_posters #night_market_el_sur_empanadas{left:3px;top:752px;z-index:319;}
+#vendor_posters #night_market_onigilly{left:153px;top:456px;z-index:308;}
+#vendor_posters #night_market_don_bugito{left:308px;top:305px;z-index:302;}
+#vendor_posters #night_market_ken_ken_ramen{left:304px;top:455px;z-index:307;}
+#vendor_posters #night_market_tainorsquos_puerto_rican__jim_nrsquo_nickrsquos{left:5px;top:457px;z-index:309;}
+#vendor_posters #night_market_locanda_osteria_bar{left:619px;top:300px;z-index:300;}
+#vendor_posters #night_market_nopalito{left:465px;top:150px;z-index:298;}
+#vendor_posters #night_market_mision_19{left:619px;top:453px;z-index:305;}
+#vendor_posters #night_market_to_hyang{left:468px;top:458px;z-index:306;}
+#vendor_posters #night_market_soup_junkie{left:612px;top:750px;z-index:313;}
+#vendor_posters #night_market_bone__gristle_boys{left:8px;top:307px;z-index:304;}
+#vendor_posters #night_market_5th_floor_restaurant{left:4px;top:148px;z-index:295;}
+#vendor_posters #night_market_chieforsquos_kitchen{left:619px;top:150px;z-index:299;}
+#vendor_posters #night_market_juhu_beach_club{left:157px;top:306px;z-index:303;}
+

@@ -1,0 +1,67 @@
+*{margin:0; padding:0;}
+a img{border:none;}
+body{font-family:helvetica; background:transparent url(images/bg_pattern.png) center top;}
+a{color:#000;}
+a:hover{color:rgba(0,0,0,.7);}
+#wrap{background:#bc9166 url(images/kraft.jpg) top left repeat; padding-bottom:20px; width:640px; margin:10px auto; margin-bottom:10px; -webkit-box-shadow:5px 5px 10px #73909e; -moz-box-shadow:5px 5px 10px #73909e;}
+h1{color:#752500; font-size:26px; text-transform:uppercase; font-family: "neuzon-1","neuzon-2";}
+h2{font-family: "chunk-1","chunk-2"; font-size:28px; margin-bottom:10px;}
+p{margin-bottom:1em; font-size:12px;}
+.ribbon{background-image:url(images/ribbon.png); background-repeat:repeat-x; background-position:bottom; padding-bottom:15px; margin-bottom:15px;}
+
+#header{background:transparent url(images/header_graphics.png) bottom right no-repeat; height:130px; position:relative;}
+#header #lacocina_card{background:transparent url(images/lacocina_card.png) top left no-repeat; display:block; position:absolute; top:-25px; left:-55px; text-indent:-9999px; height:168px; width:200px;}
+#header #language_cloud{background:transparent url(images/ver_espanol.png) top left no-repeat; display:block; position:absolute; top:0px; right:-110px; text-indent:-9999px; height:117px; width:169px;}
+#header #language_cloud.english{background-image:url(images/ver_espanol.png);}
+#header a#home{ display:block; width:300px; height:120px; position:absolute; left:100px; top:15px;}
+#nav{margin-bottom:15px;}
+#nav ul{overflow:hidden; margin:0 auto; padding-left:15px; margin-top:10px; list-style-type:none; background:transparent url(images/nav_bg.jpg) center center no-repeat;}
+#nav ul li{float:left; margin-right:10px; font-size:12px;}
+#nav ul li:last-child{border-right:none;}
+#nav ul li a{text-decoration:none; display:block; padding:10px; color:#c2976b; text-transform:uppercase; font-weight:bold;}
+
+#canvas{overflow:hidden; width:610px; margin:0 auto;}
+
+#col1{float:left; width:230px;}
+#col2{width:340px; float:right; }
+
+.home #canvas{background:transparent url(images/center_lines.png) 235px 0 no-repeat;}
+.home #canvas #col1{width:230px;}
+.home #canvas #col1 #space_intro{margin-top:5px; font-size:16px;}
+.home #canvas #col1 .callout{background-position:center left; background-repeat:no-repeat; padding-left:50px; margin-bottom:30px; padding-top:10px; min-height:50px;}
+.home #canvas #col1 .callout a{text-decoration:none; display:block; font-size:22px; font-family:"chunk-1", "chunk-2"; padding-bottom:5px;}
+.home #canvas #col1 #food_drink_callout.callout{background-image:url(images/small_cart.png);}
+.home #canvas #col1 #lacocina_callout.callout{font-size:18px; background-position:top left; padding-top:0; background-image:url(images/small_bird_logo.png);}
+.home #canvas #col1 #lacocina_callout.callout a{font-size:18px;}
+.home #canvas #col1 #extra_nav_items.callout a.faq{font-size:30px; padding-top:10px;}
+.home #canvas #col2{width:340px;}
+
+.template1 #canvas{background:transparent url(images/temp1_center_lines.png) 200px top no-repeat;}
+.template1 #canvas #col1{width:190px;}
+.template1 #canvas #col1 ul{list-style-type:none;}
+.template1 #canvas #col1 ul li{}
+.template1 #canvas #col1 ul li a{text-decoration:none; font-weight:bold; display:block; padding:5px 0 5px 0;}
+.template1 #canvas #col1 ul li.selected a{color:#752500;}
+.template1 #canvas #col2{width:345px;}
+.template1 #canvas #col2 h1{ margin-bottom:15px; font-family:"chunk-1", "chunk-2"; color:#000; font-size:30px;}
+
+
+.template2 #canvas{background:transparent url(images/ribbon_v.png) 322px top repeat-y;}
+.template2 #canvas #col1{width:300px;}
+.template2 #canvas #col2{width:250px;}
+
+.template_blog #col2{float:left;}
+
+.shove{margin-left:20px;}
+
+.social_icons{color:#221f1f; margin-top:20px;}
+.social_icons strong{text-transform:uppercase; font-size:13px;}
+.social_icons img{margin-bottom:-4px;}
+
+.item{overflow:hidden; border-bottom:1px solid #000; margin-top:20px; padding-bottom:10px; margin-bottom:20px;}
+.item img{float:left;}
+.item .text{float:right; width:220px;}
+#col2 .item .text{float:right; width:170px;}
+.item .text p{}
+.item .text h3{text-transform:uppercase; font-size:12px;}
+
