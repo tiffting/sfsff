@@ -15,7 +15,7 @@
 
       <p>Congratulations to the winners!</p>
       <p>
-        <img src="/z_photos/2013/local_forager_winners.jpg" alt="2013 Local Forager Contest winners" width="535" height="343"/>
+        <img src="/z_photos/2013/local_forager-winners.jpg" alt="2013 Local Forager Contest winners" width="535" height="343"/>
         <small class="photo_caption"><span class="photo_credit">Photo credit: Jeff Spirer</span></small>
       </p>
 
@@ -26,6 +26,11 @@
         <li><a href="http://www.kamafoodlab.com/">Kama Food Lab</a></li>
         <li><a href="https://www.facebook.com/KoJaKitchen">Koja Kitchen</a></li>
       </ul>
+
+      <p>
+        <img src="/z_photos/2013/local_forager-festival.jpg" alt="Whole Foods Market at the festival" width="535" height="343"/>
+        <small class="photo_caption"><span class="photo_credit">Photo credit: Anna and Peter Photography</span></small>
+      </p>
 
       <p>For more information on how to participate in next year&rsquo;s contest and festival, check out the Street Food Festival <a href="https://www.facebook.com/sanfranciscostreetfoodfestival">Facebook page</a> and <a href="https://twitter.com/streetfoodsf">Twitter feed</a> for continued updates.</p>
 
