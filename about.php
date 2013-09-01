@@ -9,7 +9,6 @@
       <div class="navigation pagenav">
         <ul>
           <li><a href="#about_the_festival">About the festival</a></li>
-          <!-- <li><a href="#location_and_directions">Location &amp; Directions</a></li> -->
           <li><a href="#video">Video</a></li>
           <li><a href="#frequently_asked_questions">FAQs</a></li>
           <li><a href="#policy">Policy</a></li>
@@ -22,20 +21,25 @@
         <p>Like us on <a href="https://www.facebook.com/sanfranciscostreetfoodfestival">Facebook</a>, follow us on <a href="http://twitter.com/streetfoodsf">Twitter</a> and <a class="instagram" href="http://instagram.com/streetfoodsf">Instagram</a>.</p>
         
         <h3>&hellip;Set&hellip;</h3>
-        <p>Get a group of friends and family together and <a href="http://sfstreetfoodfestival2013.eventbrite.com/">check out ways to save money and time</a>!</p>
+        <p>Get a group of friends and family together and <a href="eat_and_drink.php">check out all the amazing vendors</a> who participated in 2013. The festival may be over, but you can find them all year-round serving amazing food all over the Bay!</p>
 
         <h3>Eat!</h3>
-        <p><a href="eat_and_drink.php">Get a sneak peek</a> of the day&rsquo;s tasty treats.</p>
+        <p>Check out the <a href="https://itunes.apple.com/us/app/sf-street-food-festival/id680018355?ls=1&mt=8">iPhone app</a> for a handy guide to the 2013 vendors. Use <a href="http://www.lacocinasf.org/where-to-find-la-cocina-businesses/">this map</a> to find all your favorite La Cocina entrepreneurs, and start eating!</p>
       </div>
 
       
       <section id="about_the_festival">
         <h1>About the festival</h1>
-        <p class="highlighted">
-          <a href="downloads/2013_sfsff_map.pdf">Download the festival map and guide!</a>
-        </p>
         <img class="mood_img" src="images/about_festival.jpg" width="300" alt="About The Festival" />
-        <p>La Cocina&rsquo;s <a href="http://sfstreetfoodfestival2013.eventbrite.com/"> San Francisco Street Food Festival </a> brings all of the best food (and music) in the Bay Area to one street, once a year, to celebrate the talent, the taste and the entrepreneurial spirit of people who make a living doing what they love to do. If you want to learn more about La Cocina&rsquo;s incubator program and our amazing <a href="http://www.lacocinasf.org/directory">program businesses</a>, visit our <a href="http://www.lacocinasf.org">website!</a></p>
+        <p>On August 17, 2013, La Cocina hosted the 5th Annual San Francisco Street Food Festival, presented by <a href="http://www.wholefoodsmarket.com/">Whole Foods Market</a>. Tens of thousands of people flocked to San Francisco&rsquo;s Mission District to eat incredible food from over 80 local vendors and celebrate food entrepreneurship. A huge thank you to everyone who attended the festival and to our sponsors who made the festival possible.</p>
+
+        <p>Guests left no block untouched, no menu item undigested, and no elastic pants unstretched. We saw evil genius in the form of <a href="https://www.facebook.com/photo.php?fbid=712895672070358&set=a.109576542402277.14469.108586905834574&type=1&theater">deep fried mac &rsquo;n&rsquo; cheese</a> from <a href="http://4505meats.com/">4505 Meats</a>, adorable umbrella-adorned <a href="https://www.facebook.com/photo.php?fbid=715123905180868&set=a.109576542402277.14469.108586905834574&type=1&theater">Doughnut Burger Supremes</a> from <a href="http://www.hellaveganeats.com/">Hella Vegan Eats</a>, to downright <a href="https://www.facebook.com/photo.php?fbid=713011278725464&set=a.109576542402277.14469.108586905834574&type=1&theater">heavenly homemade marshmallows and TCHO chocolate s&rsquo;mores</a> from <a href="http://kikastreats.com/">Kika&rsquo;s Treats</a>.</p>
+
+        <p>More importantly, we saw renowned Bay Area chefs cooking next to <a href="http://www.lacocinasf.org/">La Cocina</a> entrepreneurs&mdash;the women who drive and inspire the festival every year and serve food any street, neighborhood, and the whole Bay Area should be proud of. By serving food, they serve the community, and continue to make the Bay Area's foodscape one of the most vibrant and diverse communities out there.</p>
+        <?php
+        // TODO: add photo gallery link
+        // <p>For photos of this year&rsquo;s festival, check out the <a href="?">photo gallery</a>.</p>
+        ?>
       </section>
       
       <section id="location_and_directions">
@@ -100,7 +104,7 @@
         <p>We are going to have 80+ vendors, half of whom are part of La Cocina&rsquo;s incubator program. La Cocina works with low-income and immigrant entrepreneurs and is committed to creating this festival as an opportunity to show all of the city exactly how talented these entrepreneurs are and how delicious their food is. We fully believe that the tacos from Chaac Mool, Azalina&rsquo;s curry or down-home Mexican food from El Buen Comer are as good (and often better) than the foods made by this food-obsessed town&rsquo;s top chefs.</p>
 
         <h2 id="what_about_parking">What about parking?</h2>
-        <p>Due to the festival and the street closures, there will be no street parking available. Please keep in mind that any driveways on the affected streets will also not be accessible.  We encourage you to take public transportation or ride your bike in order to avoid any unnecessary headaches. </p>
+        <p>Due to the festival and the street closures, there will be no street parking available. Please keep in mind that any driveways on the affected streets will also not be accessible. We encourage you to take public transportation or ride your bike in order to avoid any unnecessary headaches. </p>
 
         <h2 id="how_much_is_it">How much is it to get in the festival?</h2>
         <p>The event is free, but is a fundraiser for La Cocina, so donations are encouraged at the door for those that are able to give.</p> 
