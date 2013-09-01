@@ -35,18 +35,20 @@
           <li>Free shuttles
           <li>All for charity
         </ul>
-
-        <p><a href="http://sfnightmarket2013.eventbrite.com/">Buy your tickets now</a>!</p>
       </div>
 
       <h1>San Francisco Night Market: A Fundraiser for La Cocina</h1>
-      <p style="font-size:18px; background-image:url(images/peach_kraft.jpg); padding:10px; border-radius:2px;"><a style="font-weight:bold;" href="http://sfnightmarket2013-eac2.eventbrite.com/">BUY YOUR TICKETS TODAY!</a></p>
-      <p>You&rsquo;ve just taken a free shuttle (yes, free public transportation in San Francisco&mdash;can it be?) and now you&rsquo;re walking through vibrant streets with the smells of food and the sounds of people making that food. Everywhere around you people are sitting, talking, and sharing steaming bowls of laksa, pozole, or ramen. A couple on a corner leans into a plate of momos, tamales, or empanadas.</p>
-      <p>You could be anywhere, or everywhere, in the world: Beijing? Bangkok? Mexico City? Instead, you are at <a href="http://www.lacocinasf.org/">La Cocina&rsquo;s</a> <a href="http://sfnightmarket2013.eventbrite.com/">2nd Annual San Francisco Night Market</a> at <a href="https://www.facebook.com/pages/Alemany-Farmers-Market/174235636769">Alemany Farmer&rsquo;s Market</a>, where the first farmer&rsquo;s market in California was founded in 1943. As you munch on <em>costillas con tomatillos</em> from <a href="http://www.mijitasf.com/">Chef Traci des Jardins</a>, you look over at the Mediterranean section and you catch someone grilling lamb kebabs served with couscous. You look closer and realize it&rsquo;s actually David Bazirgan of <a href="http://www.fifthfloorrestaurant.com/">The Fifth Floor</a> and Donna of <a href="http://loveandhummus.com/">Love and Hummus</a> is serving her organic, artisan hummus with pita and falafel next to him. <em>I&rsquo;ll diet tomorrow</em>, you think to yourself.</p>
-      <p>Mid-munch, you decide you&rsquo;re ready to move again, and not just your jaw. You walk by the American South region and someone is owning a game of corn hole. You want to save your arm for munching, so you keep walking and&mdash;wait a minute&mdash;is someone singing Neil Diamond&rsquo;s <em>Sweet Caroline</em>? That song is your jam. You pop into East Asia and join the karaoke fun. Mid-song, you find yourself munching on Kamikaze Tacos from <a href="http://onigilly.com/">Onigilly</a> and chatting with the folks from <a href="http://www.nojosf.com/">Nojo</a>.</p>
-      <p>There is music, food, games from around the world, and, most importantly, wonderful people. It is a San Francisco summer night so of course, you&rsquo;re in your natural state of constant shiver but fear not: someone is passing out blankets and heat lamps. You are happy. You are also really, really full.</p>
-      <p>Join <a href="http://www.lacocinasf.org/directory/">La Cocina entrepreneurs</a> and local Bay Area chefs who are collaborating to make delicious eats and experiences from all over the world. This event is a benefit for La Cocina, a non-profit incubator kitchen, changing San Francisco&rsquo;s foodscape by working with food entrepreneurs doing what they love to do. Entrance is a $35 donation, and all food and drink is priced under $10. Come hungry, and get ready to eat to your cart&rsquo;s content! Ticket holders will receive a ticket to the event and Street Food Festival swag, filled with memorable souvenirs of an unforgettable night. Purchase tickets <a href="http://sfnightmarket2013.eventbrite.com/">here</a>, and check out the line-up of vendors below!</p>
-      <p><img src="images/couple.jpg" alt="Couple enjoying a bite" width="536" height="357" /></p>
+      <p>On August 16, 2013, La Cocina hosted its 2nd Annual Night Market. We asked everyone to bring their &ldquo;Bay&rdquo;-Game, and without hesitation, you did. We saw some mighty battles in corn hole, some intense moves on the dance floor, the most inspired renditions of Whitney Houston we&rsquo;ve ever seen, and a lot of happy eating in all 6 regions.</p>
+
+      <p>There were a lot of standout moments beneath Alemany Market&rsquo;s stalls that evening, but we know it&rsquo;ll be a long time before we forget <a href="http://sf.eater.com/tags/alexander-ong">Alexander Ong</a> challenging the folks from <a href="http://mychinasf.com/">M.Y. China</a> to a <a href="https://twitter.com/AeroGenevieve/status/368587881129836545/photo/1">noodle-pulling dance-off</a>, or the four whole hogs that were completely devoured in the American South region, to <a href="http://tracidesjardins.com/">Traci des Jardins</a>&rsquo; <a href="http://www.examiner.com/slideshow/2013-la-cocina-night-market#slide=1">service with a smile</a> in the Am&eacute;rica Latina section. Move over, Caleb Zigas (winner of 7x7s Best Waiter), there&rsquo;s a new contender in town.</p>
+
+      <p>For those of you came, thank you for being a part of <a href="http://www.lacocinasf.org/">La Cocina</a>&rsquo;s 2nd Annual Night Market and fundraiser. La Cocina and <a href="http://www.lacocinasf.org/directory/">our entrepreneurs</a> thank each and everyone of you for your support and for making one very chilly night actually feel quite warm.</p>
+ 
+      <p>Catch your photos from the <a href="http://www.snapfiesta.com/">Snapfiesta</a> <a href="http://photos.snapfiesta.com/San-Francisco-Photo-Booth/La-Cocina-Night-Market-81613/31259427_BqvfP8#!i=2705543969&k=sVtwsvM">photo booth</a> that night! <!--And check out the official La Cocina <a href="photo_gallery.php">photo gallery</a>.--> You can also see the <a href="#vendors-header">full lineup of vendors</a> and info for the 2013 event.</p>
+
+      <p>
+        <img src="images/couple.jpg" alt="Couple enjoying a bite" width="536" height="357"/>
+      </p>
 
       <h2>Where</h2>
       <p>The night market will be at <a href="https://www.facebook.com/pages/Alemany-Farmers-Market/174235636769">Alemany Farmer&rsquo;s Market</a> from 6:00-10:00pm at <a href="https://www.google.com/maps?q=100+Alemany+Blvd,+94112&sll=37.73562449999997,-122.40982890000004&sspn=0.008483850424146547,0.017335923186957508&t=m&hnear=100+Alemany+Blvd,+San+Francisco,+California+94112&z=16">100 Alemany Blvd, Bernal Heights, San Francisco, CA 94112</a>.</p>
@@ -56,16 +58,16 @@
       <h2>How to get there</h2>
       <p>La Cocina will provide a free (yes, free!) round-trip ride from the 24th Street BART station to the Night Market. Be sure to register for your shuttle <strong>in advance</strong> when you purchase your ticket! All shuttles will be departing from <a href="http://missionpie.com/">Mission Pie</a> at the corner of 25th St and Mission St.</p>
       <p>Parking is available for a fee, but we recommend taking the shuttle for the full-on Night Market experience.</p>
+      <!--
       <p>Tickets are on sale now: don&rsquo;t miss out on this one-of-a-kind experience and <a href="http://sfnightmarket2013-eac2.eventbrite.com/">buy your tickets now</a>!</p>
-      <p><strong>Note:</strong> Free shuttles from <a href="http://missionpie.com/">Mission Pie</a> will sell out. <a href="http://nightmarketshuttle.eventbrite.com/">Please reserve in advance to save a spot</a>!</p>
+      <p><strong>Note:</strong> Free shuttles from <a href="http://missionpie.com/">Mission Pie</a> will sell out. <a href="http://nightmarketshuttle.eventbrite.com/">Please reserve in advance to save a spot</a>!</p>-->
     </div>
   </section>
 
 
-  <section class="kraft" style="margin-top:20px;">
+  <section class="kraft" style="margin-top:20px;" id="vendors-header">
     <div class="inner">
       <h1 style="margin:0;">Night Market Vendors</h1>
-      <p><a href="http://sfnightmarket2013-eac2.eventbrite.com/">Purchase your entrance tickets now</a> with a $35 donation to La Cocina. Bring cash or card to the event!</p>
     </div>
   </section>
 
