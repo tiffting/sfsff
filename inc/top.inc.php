@@ -12,7 +12,7 @@
     <script type="text/javascript" charset="utf-8" src="js/eat_drink.js"></script>
     <script type="text/javascript" src="js/imagesloaded.pkgd.min.js"></script>
     <script type="text/javascript" src="js/masonry.pkgd.min.js"></script>
-    <link rel="stylesheet" href="main.css" />
+    <link rel="stylesheet" href="css/main.css" />
     <link rel="icon" href="favicon.ico">
     <?php if($page_id == 'list'){ ?>
       <link rel="stylesheet" href="list.css" />

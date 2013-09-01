@@ -1,6 +1,6 @@
 
 *{margin:0; padding:0;}
-body{font-size:14px; background-image:url(images/wood.jpg); background-position:50% 0; background-color:#423a34; font-family:helvetica, arial, sans-serif;}
+body{font-size:14px; background-image:url(../images/wood.jpg); background-position:50% 0; background-color:#423a34; font-family:helvetica, arial, sans-serif;}
 a img{border:none;}
 ul{list-style-type:none;}
 .cf:before,.cf:after{content:""; display:table;}
@@ -55,15 +55,15 @@ hr{height:1px; border:none; border-top:1px solid #000; margin:20px 0; }
 
 #wrap{width:910px; margin:60px auto; margin-top:40px; padding-bottom:20px;}
 #wrap > header{z-index:20; position:relative; color:#fff; overflow:hidden; margin-bottom:30px; display:block;}
-#wrap > header .header_piece{text-indent:-9999px; height:93px; background-image:url(images/header.png);}
+#wrap > header .header_piece{text-indent:-9999px; height:93px; background-image:url(../images/header.png);}
 #wrap > header #la_cocina_header{display:block; width:130px; float:left;}
 #wrap > header #la_cocina_header:hover{background-position:left -93px;}
 #wrap > header #streetfood_header{}
 #wrap > header #streetfood_header:hover{background-position:-131px -93px;}
 
-.kraft{position:relative; background-color:#A77D55; background-image:url(images/kraft.jpg); -webkit-box-shadow:0 2px 3px rgba(0,0,0,.5); -moz-box-shadow:0 2px 3px rgba(0,0,0,.5); box-shadow:0 2px 3px rgba(0,0,0,.5);}
+.kraft{position:relative; background-color:#A77D55; background-image:url(../images/kraft.jpg); -webkit-box-shadow:0 2px 3px rgba(0,0,0,.5); -moz-box-shadow:0 2px 3px rgba(0,0,0,.5); box-shadow:0 2px 3px rgba(0,0,0,.5);}
 .kraft .inner{padding:20px;}
-.kraft.blue{background-image:url(images/blue_kraft.jpg);}
+.kraft.blue{background-image:url(../images/blue_kraft.jpg);}
 .kraft h1{ text-transform:uppercase; font-family: "league-gothic-1","league-gothic-2"; font-size:22px; margin-bottom:15px;}
 .kraft h2{width:75%; margin-bottom:15px; text-transform:uppercase; font-size:14px;}
 .kraft p{margin-bottom:15px; line-height:1.3em; width:75%;}
@@ -97,7 +97,7 @@ ul.text li{margin-bottom:5px;}
 #content > .navigation.standard_nav ul li.social{position:absolute; left:0px; bottom:-55px; overflow:hidden; padding:0px;}
 #content > .navigation.standard_nav ul li.social a{margin-left:26px;text-indent:0; background-image:none; float:left; display:block; width:auto;}
 #content > .navigation.standard_nav ul li.social a:first-child{margin-left:0;}
-#content > .navigation.standard_nav ul li a{margin:0 auto; color:#bb8e64; text-decoration:none; font-size:24px; font-weight:bold; background-image:url(images/nav_sprites.png); display:block; text-indent:-9999px; width:111px; background-position:-111px 0;}
+#content > .navigation.standard_nav ul li a{margin:0 auto; color:#bb8e64; text-decoration:none; font-size:24px; font-weight:bold; background-image:url(../images/nav_sprites.png); display:block; text-indent:-9999px; width:111px; background-position:-111px 0;}
 #content > .navigation.standard_nav ul li a#nav_about                           {height:45px; background-position:-111px 0px;}
 #content > .navigation.standard_nav ul li a#nav_eat_and_drink                   {height:37px; background-position:-111px -45px;}
 #content > .navigation.standard_nav ul li a#nav_conference                      {height:35px; background-position:-111px -82px;}
@@ -137,33 +137,33 @@ ul.text li{margin-bottom:5px;}
 
 
 #content > .navigation.full_nav{background-image:none; background-color:transparent; -webkit-box-shadow:none; -moz-box-shadow:none; box-shadow:none; margin-top:-150px;}
-#content > .navigation.full_nav ul{position:relative; background-image:url(images/home_nav/paint.png); background-position:-155px 70px; width:100%; height:773px; background-repeat: no-repeat;}
+#content > .navigation.full_nav ul{position:relative; background-image:url(../images/home_nav/paint.png); background-position:-155px 70px; width:100%; height:773px; background-repeat: no-repeat;}
 #content > .navigation.full_nav ul li{}
 #content > .navigation.full_nav ul li.press_kit{ position:absolute; top:370px; left:725px; z-index:1;}
-#content > .navigation.full_nav ul li.press_kit a{background-image:url(images/home_nav/press_kit.png); width:263px; height:309px; }
+#content > .navigation.full_nav ul li.press_kit a{background-image:url(../images/home_nav/press_kit.png); width:263px; height:309px; }
 #content > .navigation.full_nav ul li.press_kit a:hover{background-position:0 -309px;}
 
-#content > .navigation.full_nav ul li.social{left:780px; position:relative; top:670px;background:url(images/home_nav/follow_banner.png); width:104px; height:14px; -webkit-box-shadow:none; -moz-box-shadow:none; box-shadow:none;}
-#content > .navigation.full_nav ul li.social a.facebook{position:absolute; top:24px; left:0px; background:url(images/home_nav/fb.png); width:27px; height:27px;}
-#content > .navigation.full_nav ul li.social a.twitter{position:absolute; top:24px; left:42px; background:url(images/home_nav/t.png); width:30px; height:24px;}
-#content > .navigation.full_nav ul li.social a.instagram{position:absolute; top:24px; left:84px; background:url(images/home_nav/instagram.png); width:30px; height:24px;}
+#content > .navigation.full_nav ul li.social{left:780px; position:relative; top:670px;background:url(../images/home_nav/follow_banner.png); width:104px; height:14px; -webkit-box-shadow:none; -moz-box-shadow:none; box-shadow:none;}
+#content > .navigation.full_nav ul li.social a.facebook{position:absolute; top:24px; left:0px; background:url(../images/home_nav/fb.png); width:27px; height:27px;}
+#content > .navigation.full_nav ul li.social a.twitter{position:absolute; top:24px; left:42px; background:url(../images/home_nav/t.png); width:30px; height:24px;}
+#content > .navigation.full_nav ul li.social a.instagram{position:absolute; top:24px; left:84px; background:url(../images/home_nav/instagram.png); width:30px; height:24px;}
 #content > .navigation.full_nav ul li a{ position:absolute; display:block; text-indent:-9999px;}
 #content > .navigation.full_nav ul li a:hover{}
-#content > .navigation.full_nav ul li a#nav_list                      { display:none; width:864px; height:265px; background-image:url(images/home_nav/get_list_ready.png);}
-#content > .navigation.full_nav ul li a#nav_about                     { width:177px; height:161px; background-image:url(images/home_nav/about.png);}
-#content > .navigation.full_nav ul li a#nav_eat_and_drink             { width:299px; height:347px; background-image:url(images/home_nav/eat_and_drink.png);}
-#content > .navigation.full_nav ul li a#nav_conference                { width:179px; height:157px; background-image:url(images/home_nav/conference.png);}
-#content > .navigation.full_nav ul li a#nav_local_forager             { width:186px; height:125px; background-image:url(images/home_nav/local_forager.png);}
-#content > .navigation.full_nav ul li a#nav_news                      { width:119px; height:88px; background-image:url(images/home_nav/news.png);}
-#content > .navigation.full_nav ul li a#nav_passports                 { width:243px; height:78px; background-image:url(images/home_nav/passports.png);}
-#content > .navigation.full_nav ul li a#nav_merchandise               { width:219px; height:58px; background-image:url(images/home_nav/merchandise.png);}
-#content > .navigation.full_nav ul li a#nav_sponsors                  { width:87px; height:271px; background-image:url(images/home_nav/sponsors.png);}
-#content > .navigation.full_nav ul li a#nav_get_involved              { width:181px; height:79px; background-image:url(images/home_nav/get_involved.png);}
-#content > .navigation.full_nav ul li a#nav_after_party               { display:none; width:227px; height:58px; background-image:url(images/home_nav/after_party.png);}
-#content > .navigation.full_nav ul li a#nav_photo_contest             { display:none; width:231px; height:69px; background-image:url(images/home_nav/photo_contest.png);}
-#content > .navigation.full_nav ul li a#mission_neighbors             { width:193px; height:99px; background-image:url(images/home_nav/mission_neighbors.png);}
-#content > .navigation.full_nav ul li a#nav_night_market              { width:232px; height:328px; background-image:url(images/home_nav/night_market.png);}
-#content > .navigation.full_nav ul li.smart_car a 					  { width:180px; height:125px; background-image:url(images/home_nav/win_smart_car.png); }
+#content > .navigation.full_nav ul li a#nav_list                      { display:none; width:864px; height:265px; background-image:url(../images/home_nav/get_list_ready.png);}
+#content > .navigation.full_nav ul li a#nav_about                     { width:177px; height:161px; background-image:url(../images/home_nav/about.png);}
+#content > .navigation.full_nav ul li a#nav_eat_and_drink             { width:299px; height:347px; background-image:url(../images/home_nav/eat_and_drink.png);}
+#content > .navigation.full_nav ul li a#nav_conference                { width:179px; height:157px; background-image:url(../images/home_nav/conference.png);}
+#content > .navigation.full_nav ul li a#nav_local_forager             { width:186px; height:125px; background-image:url(../images/home_nav/local_forager.png);}
+#content > .navigation.full_nav ul li a#nav_news                      { width:119px; height:88px; background-image:url(../images/home_nav/news.png);}
+#content > .navigation.full_nav ul li a#nav_passports                 { width:243px; height:78px; background-image:url(../images/home_nav/passports.png);}
+#content > .navigation.full_nav ul li a#nav_merchandise               { width:219px; height:58px; background-image:url(../images/home_nav/merchandise.png);}
+#content > .navigation.full_nav ul li a#nav_sponsors                  { width:87px; height:271px; background-image:url(../images/home_nav/sponsors.png);}
+#content > .navigation.full_nav ul li a#nav_get_involved              { width:181px; height:79px; background-image:url(../images/home_nav/get_involved.png);}
+#content > .navigation.full_nav ul li a#nav_after_party               { display:none; width:227px; height:58px; background-image:url(../images/home_nav/after_party.png);}
+#content > .navigation.full_nav ul li a#nav_photo_contest             { display:none; width:231px; height:69px; background-image:url(../images/home_nav/photo_contest.png);}
+#content > .navigation.full_nav ul li a#mission_neighbors             { width:193px; height:99px; background-image:url(../images/home_nav/mission_neighbors.png);}
+#content > .navigation.full_nav ul li a#nav_night_market              { width:232px; height:328px; background-image:url(../images/home_nav/night_market.png);}
+#content > .navigation.full_nav ul li.smart_car a 					  { width:180px; height:125px; background-image:url(../images/home_nav/win_smart_car.png); }
 
 #content > .navigation.full_nav ul li a#nav_about:hover                      {background-position:0 -161px;}
 #content > .navigation.full_nav ul li a#nav_list:hover                       {background-position:0 -265px;}
@@ -201,24 +201,24 @@ ul.text li{margin-bottom:5px;}
 
 
 .extra_menu a.sign{position:absolute; text-indent:-9999px; display:block;}
-.extra_menu a.sign#missed_last_years_conference_sign{right:0; top:20px; background-image:url(images/missed_out.png); width:272px; height:98px;}
+.extra_menu a.sign#missed_last_years_conference_sign{right:0; top:20px; background-image:url(../images/missed_out.png); width:272px; height:98px;}
 .extra_menu a.sign#missed_last_years_conference_sign:hover{background-position:0 -98px;}
-.extra_menu a.sign#buy_conference_tickets_sign{right:0; top:100px; background-image:url(images/conference_tickets.png); width:214px; height:110px;}
+.extra_menu a.sign#buy_conference_tickets_sign{right:0; top:100px; background-image:url(../images/conference_tickets.png); width:214px; height:110px;}
 .extra_menu a.sign#buy_conference_tickets_sign:hover{background-position:0 -110px;}
 
 /* eat/drink page */
 .grid-sizer {width: 17%;}
 .gutter-sizer {width: 3%;}
 .kraft + #vendors {margin-top: 1em;}
-.vendor {background-image:url(images/kraft.jpg); box-shadow: 0 2px 3px rgba(0, 0, 0, .5); -webkit-box-shadow: 0 2px 3px rgba(0, 0, 0, .5); -moz-shadow: 0 2px 3px rgba(0, 0, 0, .5); margin-bottom: 1em;}
+.vendor {background-image:url(../images/kraft.jpg); box-shadow: 0 2px 3px rgba(0, 0, 0, .5); -webkit-box-shadow: 0 2px 3px rgba(0, 0, 0, .5); -moz-shadow: 0 2px 3px rgba(0, 0, 0, .5); margin-bottom: 1em;}
 .vendor img.logo{margin:5px; display:block;}
 
 
-.vendor:nth-child(5n+0) img.logo, .vendor.red img.logo{background-image:url(images/red_kraft.jpg);}
-.vendor:nth-child(5n+1) img.logo, .vendor.peach img.logo{background-image:url(images/peach_kraft.jpg);}
-.vendor:nth-child(5n+2) img.logo, .vendor.yellow img.logo{background-image:url(images/yellow_kraft.jpg);}
-.vendor:nth-child(5n+3) img.logo, .vendor.green img.logo{background-image:url(images/green_kraft.jpg);}
-.vendor:nth-child(5n+4) img.logo, .vendor.teal img.logo{background-image:url(images/teal_kraft.jpg);}
+.vendor:nth-child(5n+0) img.logo, .vendor.red img.logo{background-image:url(../images/red_kraft.jpg);}
+.vendor:nth-child(5n+1) img.logo, .vendor.peach img.logo{background-image:url(../images/peach_kraft.jpg);}
+.vendor:nth-child(5n+2) img.logo, .vendor.yellow img.logo{background-image:url(../images/yellow_kraft.jpg);}
+.vendor:nth-child(5n+3) img.logo, .vendor.green img.logo{background-image:url(../images/green_kraft.jpg);}
+.vendor:nth-child(5n+4) img.logo, .vendor.teal img.logo{background-image:url(../images/teal_kraft.jpg);}
 .vendor.no_effects{background-image:none; -webkit-box-shadow:none; -moz-box-shadow:none; box-shadow:none;}
 
 .vendor.filters{height:45px; width:290px; overflow:hidden;}
@@ -238,7 +238,7 @@ ul.text li{margin-bottom:5px;}
 div.menu_item, .menu_item dt {font-style: italic;}
 .menu_item dd {margin-left: 2em; opacity: 0.6;}
 
-.la-cocina-biz h1 a {display: inline-block; background: url(images/la_cocina_biz.png) no-repeat right; padding-right: 30px;}
+.la-cocina-biz h1 a {display: inline-block; background: url(../images/la_cocina_biz.png) no-repeat right; padding-right: 30px;}
 
 #modal_2013{
   background-color: rgba(0,0,0,0.7);
@@ -278,7 +278,7 @@ div.menu_item, .menu_item dt {font-style: italic;}
 .sponsor-logos td {text-align: center; padding-top: 20px;}
 .sponsor-logos tr:first-child td {padding-top: 0;}
 
-.highlighted {font-size:18px; background-image:url(images/peach_kraft.jpg); padding:10px; border-radius:2px; font-weight: bold;}
+.highlighted {font-size:18px; background-image:url(../images/peach_kraft.jpg); padding:10px; border-radius:2px; font-weight: bold;}
 
 /* smart car */
 .smart_car_rules {font-size: 0.8em; width: 75%;}

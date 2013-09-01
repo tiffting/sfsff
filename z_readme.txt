@@ -16,11 +16,11 @@ Past years
 Each year should be archived in its own folder under /z_past:
 
 /app/*
+/css/*
 /images/*
 /inc/*
 /js/*
 *.php
-main.css
 
 --------------
 Do not archive
