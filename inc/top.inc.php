@@ -7,13 +7,20 @@
     <title>San Francisco Street Food Festival<?php if(!empty($page_title)){ echo " - $page_title";}  ?></title>
     <script type="text/javascript" src="http://use.typekit.com/lyx5lil.js"></script>
     <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-    <script type="text/javascript" charset="utf-8" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js"></script>
-    <script type="text/javascript" charset="utf-8" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.13/jquery-ui.min.js"></script>
+    <script type="text/javascript" charset="utf-8" src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script type="text/javascript" charset="utf-8" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
     <script type="text/javascript" charset="utf-8" src="js/eat_drink.js"></script>
     <script type="text/javascript" src="js/imagesloaded.pkgd.min.js"></script>
     <script type="text/javascript" src="js/masonry.pkgd.min.js"></script>
+    <?php if($page_id == 'gallery') {?>
+      <script type="text/javascript" src="js/lightbox-2.6.min.js"></script>
+    <?php } ?>
     <link rel="stylesheet" href="css/main.css" />
     <link rel="icon" href="favicon.ico">
+    <?php if($page_id == 'gallery') {?>
+      <link rel="stylesheet" href="css/lightbox.css" />
+      <link rel="stylesheet" href="css/gallery.css" />
+    <?php } ?>
     <?php if($page_id == 'list'){ ?>
       <link rel="stylesheet" href="list.css" />
       <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;" />

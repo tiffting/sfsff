@@ -1,0 +1,19 @@
+h3 {
+	font-size: 1em;
+	font-style: italic;
+	font-weight: normal;
+}
+
+.photo_gallery {
+	margin-bottom: 2em;
+}
+.photo_gallery li {
+	display: inline-block;
+	margin: 0.5em 1em 0.5em 0;
+}
+.photo_gallery a img {
+	border: 5px solid #eee;
+}
+.photo_gallery a:hover img {
+	border-color: white;
+}

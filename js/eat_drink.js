@@ -42,9 +42,9 @@ var vendorPopups = function(){
       var payloadHeight = payload.show().height();
       payload.hide();
       payload.css('height','0').show().animate({'height':payloadHeight+'px'}, aniSpeed, aniEasing);
-      var top = $('body').scrollTop()-100;
+      var top = $('body').scrollTop()-400;
       if($('body').is('#night_market')){
-        top -= 2250;
+        top -= 1500;
       }
       target.animate({ 'width':'460px', 'left':'150px', 'top':top + 'px'}, aniSpeed, aniEasing);
       target.addClass('active');
