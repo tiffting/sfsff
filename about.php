@@ -31,9 +31,9 @@
       <section id="about_the_festival">
         <h1>About the festival</h1>
         <img class="mood_img" src="images/about_festival.jpg" width="300" alt="About The Festival" />
-        <p>On August 17, 2013, La Cocina hosted the 5th Annual San Francisco Street Food Festival, presented by <a href="http://www.wholefoodsmarket.com/">Whole Foods Market</a>. Tens of thousands of people flocked to San Francisco&rsquo;s Mission District to eat incredible food from over 80 local vendors and celebrate food entrepreneurship. A huge thank you to everyone who attended the festival and to our sponsors who made the festival possible.</p>
+        <p>Aaaaaand we&rsquo;re back! On Saturday, August 18th, <a href="http://www.lacocina.org/">La Cocina</a> will be hosting the 6th Annual Street Food Festival in San Francisco&rsquo;s Mission District with over 80 local vendors to celebrate food entrepreneurs in the Bay. We&rsquo;re still working on all the details for this year&rsquo;s epic festival, but read more below on last year&rsquo;s event and what makes this day so special.</p>
 
-        <p>Guests left no block untouched, no menu item undigested, and no elastic pants unstretched. We saw evil genius in the form of <a href="https://www.facebook.com/photo.php?fbid=712895672070358&set=a.109576542402277.14469.108586905834574&type=1&theater">deep fried mac &rsquo;n&rsquo; cheese</a> from <a href="http://4505meats.com/">4505 Meats</a>, adorable umbrella-adorned <a href="https://www.facebook.com/photo.php?fbid=715123905180868&set=a.109576542402277.14469.108586905834574&type=1&theater">Doughnut Burger Supremes</a> from <a href="http://www.hellaveganeats.com/">Hella Vegan Eats</a>, to downright <a href="https://www.facebook.com/photo.php?fbid=713011278725464&set=a.109576542402277.14469.108586905834574&type=1&theater">heavenly homemade marshmallows and TCHO chocolate s&rsquo;mores</a> from <a href="http://kikastreats.com/">Kika&rsquo;s Treats</a>.</p>
+        <p>In 2013, guests left no block untouched, no menu item undigested, and no elastic pants unstretched. We saw evil genius in the form of <a href="https://www.facebook.com/photo.php?fbid=712895672070358&set=a.109576542402277.14469.108586905834574&type=1&theater">deep fried mac &rsquo;n&rsquo; cheese</a> from <a href="http://4505meats.com/">4505 Meats</a>, adorable umbrella-adorned <a href="https://www.facebook.com/photo.php?fbid=715123905180868&set=a.109576542402277.14469.108586905834574&type=1&theater">Doughnut Burger Supremes</a> from <a href="http://www.hellaveganeats.com/">Hella Vegan Eats</a>, to downright <a href="https://www.facebook.com/photo.php?fbid=713011278725464&set=a.109576542402277.14469.108586905834574&type=1&theater">heavenly homemade marshmallows and TCHO chocolate s&rsquo;mores</a> from <a href="http://kikastreats.com/">Kika&rsquo;s Treats</a>.</p>
 
         <p>More importantly, we saw renowned Bay Area chefs cooking next to <a href="http://www.lacocinasf.org/">La Cocina</a> entrepreneurs&mdash;the women who drive and inspire the festival every year and serve food any street, neighborhood, and the whole Bay Area should be proud of. By serving food, they serve the community, and continue to make the Bay Area's foodscape one of the most vibrant and diverse communities out there.</p>
         <?php
@@ -51,7 +51,7 @@
         <p>The Festival will take place in the Mission District from 11 a.m until 7p.m on Folsom St. from 20th to 26th, 21st and 25th from Treat St. to Shotwell St., as well as the Cesar Chavez Elementary School parking lot, Parque de los Ninos Unidos and Jose Coronada Playground.</p>
 
         <h2>And how do I get there?</h2>
-        <p>Skydiving, paddleboat, lawnchair with a million balloons&hellip;but these methods are&nbsp;probably safer:</p>
+        <p>Skydiving, paddleboat, lawnchair with a million balloons&hellip;but these methods are probably safer:</p>
       
         <p><strong>BART:</strong>&nbsp;24th St Bart Station</p>
         <p><strong>MUNI:</strong>&nbsp;12, 14, 14L, 27, 48, 67</p>
@@ -104,7 +104,9 @@
         <p>We are going to have 80+ vendors, half of whom are part of La Cocina&rsquo;s incubator program. La Cocina works with low-income and immigrant entrepreneurs and is committed to creating this festival as an opportunity to show all of the city exactly how talented these entrepreneurs are and how delicious their food is. We fully believe that the tacos from Chaac Mool, Azalina&rsquo;s curry or down-home Mexican food from El Buen Comer are as good (and often better) than the foods made by this food-obsessed town&rsquo;s top chefs.</p>
 
         <h2 id="what_about_parking">What about parking?</h2>
-        <p>Due to the festival and the street closures, there will be no street parking available. Please keep in mind that any driveways on the affected streets will also not be accessible. We encourage you to take public transportation or ride your bike in order to avoid any unnecessary headaches. </p>
+        <p>Due to the festival and the street closures, there will be no street parking available. Please keep in mind that any driveways on the affected streets will also not be accessible. We encourage you to take public transportation or ride your bike in order to avoid any unnecessary headaches.</p>
+
+        <p>Are you a Mission neighbor? Check out <a href="mission_neighbors.php">our neighbor page</a> for details on the big day.</p>
 
         <h2 id="how_much_is_it">How much is it to get in the festival?</h2>
         <p>The event is free, but is a fundraiser for La Cocina, so donations are encouraged at the door for those that are able to give.</p> 
@@ -112,7 +114,7 @@
         </p>
 
         <h2 id="interested_in_participating">I&rsquo;m a food vendor and interested in participating in the festival: whom do I get in touch with?</h2>
-        <p>La Cocina will hold our annual Vote your Vendor contest for food vendors interested in having a booth. We invite the public to nominate their favorite food truck, trailer, cart, informal entrepreneur or home cook to participate in this year&#x27;s Festival. This could be you! The top 4 vote getters will receive a free space at the festival, free kitchen time and small business assistance. Winners will be announced on July 27th. Please <a href="https://docs.google.com/a/lacocinasf.org/spreadsheet/viewform?formkey=dHBQYm9tQzRVdFRpaG5yTlF0XzMtQmc6MQ">sign up here</a> to receive Vote Your Vendor contest updates and alerts.</p>
+        <p>We love new vendors! We&rsquo;re already in the process of reviewing vendor applications for this year, but to be considered or take part in a future contest to enter, please <a href="https://docs.google.com/a/lacocinasf.org/forms/d/1cgASrqYool-UDBCyQbnKb26phCvKcGkM_NT_C7qMaOI/viewform">sign up here</a>!</p>
         
       </section>
       
