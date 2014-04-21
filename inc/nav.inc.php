@@ -8,7 +8,9 @@
   <li class="<?= $page_id == "news" ? 'active' : '' ?>"><a id="nav_news" href="https://www.facebook.com/sanfranciscostreetfoodfestival">News</a></li>
   <li class="<?= $page_id == "sponsors" ? 'active' : '' ?>"><a id="nav_sponsors" href="sponsors.php">Sponsors</a></li>
   <li class="<?= $page_id == "get_involved" ? 'active' : '' ?>"><a id="nav_get_involved" href="get_involved.php">Get Involved</a></li>
-  <li class="<?= $page_id == "night_market" ? 'active' : '' ?>"><a id="nav_night_market" href="night_market.php">Night Market</a></li>
+  <?php 
+  /*<li class="<?= $page_id == "night_market" ? 'active' : '' ?>"><a id="nav_night_market" href="night_market.php">Night Market</a></li>*/
+  ?>
   <li class="<?= $page_id == "local_forager_contest" ? 'active' : '' ?>"><a id="nav_local_forager" href="local_forager_contest.php">Local Forager Contest</a></li>
   <li class="photo_contest"><a href="app.php" id="nav_photo_contest">Photo Contest</a></li>
   <li class="mission_neighbors"><a id="mission_neighbors" href="mission_neighbors.php">Mission Neighbors</a></li>
@@ -17,5 +19,4 @@
     <a class="facebook" href="https://www.facebook.com/pages/San-Francisco-Street-Food-Festival/108586905834574"><img src="images/home_nav/fb.png" /></a>
     <a class="instagram" href="http://instagram.com/streetfoodsf"><img src="images/home_nav/instagram.png" /></a>
   </li>
-  <li class="smart_car"><a href="smart_car.php">Learn how to win a smart car</a></li>
 </ul>

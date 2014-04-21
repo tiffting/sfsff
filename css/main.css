@@ -2,6 +2,7 @@
 *{margin:0; padding:0;}
 body{font-size:14px; background-image:url(../images/wood.jpg); background-position:50% 0; background-color:#423a34; font-family:helvetica, arial, sans-serif;}
 a img{border:none;}
+a.tel{color: #000; text-decoration: none; cursor: default;}
 ul{list-style-type:none;}
 .cf:before,.cf:after{content:""; display:table;}
 .cf:after{clear:both;}
@@ -131,7 +132,6 @@ ul.text li{margin-bottom:5px;}
 #content > .navigation.standard_nav ul li a#nav_get_involved:hover              {height:30px; background-position:0px -342px;}
 #content > .navigation.standard_nav ul li a#nav_night_market:hover,
 #content > .navigation.standard_nav ul li.active a#nav_night_market             {height:32px; background-position:0px -377px;}
-#content > .navigation.standard_nav ul li.smart_car a 					        {display: none;}
 
 #content > section {width:755px; float:right;}
 
@@ -163,7 +163,6 @@ ul.text li{margin-bottom:5px;}
 #content > .navigation.full_nav ul li a#nav_photo_contest             { display:none; width:231px; height:69px; background-image:url(../images/home_nav/photo_contest.png);}
 #content > .navigation.full_nav ul li a#mission_neighbors             { width:193px; height:99px; background-image:url(../images/home_nav/mission_neighbors.png);}
 #content > .navigation.full_nav ul li a#nav_night_market              { width:232px; height:328px; background-image:url(../images/home_nav/night_market.png);}
-#content > .navigation.full_nav ul li.smart_car a 					  { width:180px; height:125px; background-image:url(../images/home_nav/win_smart_car.png); }
 
 #content > .navigation.full_nav ul li a#nav_about:hover                      {background-position:0 -161px;}
 #content > .navigation.full_nav ul li a#nav_list:hover                       {background-position:0 -265px;}
@@ -180,23 +179,21 @@ ul.text li{margin-bottom:5px;}
 #content > .navigation.full_nav ul li a#nav_photo_contest:hover              {background-position:0 -69px; }
 #content > .navigation.full_nav ul li a#mission_neighbors:hover              {background-position:0 -99px; }
 #content > .navigation.full_nav ul li a#nav_night_market:hover               {background-position:0 -328px;}
-#content > .navigation.full_nav ul li.smart_car a:hover    					 {background-position:0 -126px;}
 
 /*positioning for full nav*/
 #content > .navigation.full_nav ul li a#nav_list               {left: auto;top: auto;z-index:38;}
-#content > .navigation.full_nav ul li a#nav_about              {left:317px;top:152px;z-index:48;}
+#content > .navigation.full_nav ul li a#nav_about              {left:337px;top:172px;z-index:48;}
 #content > .navigation.full_nav ul li a#nav_eat_and_drink      {left: -5px;top:178px;z-index:50;}
-#content > .navigation.full_nav ul li a#nav_conference         {left:320px;top:347px;z-index:49;}
-#content > .navigation.full_nav ul li a#nav_news               {left:779px;top:169px;z-index:46;}
-#content > .navigation.full_nav ul li a#nav_sponsors           {left:791px;top:257px;z-index:53;}
-#content > .navigation.full_nav ul li a#nav_get_involved       {left:202px;top:666px;z-index:58;}
+#content > .navigation.full_nav ul li a#nav_conference         {left:420px;top:347px;z-index:49;}
+#content > .navigation.full_nav ul li a#nav_news               {left:659px;top:169px;z-index:46;}
+#content > .navigation.full_nav ul li a#nav_sponsors           {left:731px;top:257px;z-index:53;}
+#content > .navigation.full_nav ul li a#nav_get_involved       {left:352px;top:666px;z-index:58;}
 #content > .navigation.full_nav ul li a#nav_night_market       {left:515px;top:178px;z-index:51;}
-#content > .navigation.full_nav ul li a#nav_local_forager      {left:590px;top:469px;z-index:52;}
+#content > .navigation.full_nav ul li a#nav_local_forager      {left:500px;top:519px;z-index:52;}
 #content > .navigation.full_nav ul li a#nav_photo_contest      {left:530px;top:115px;z-index:47;}
 #content > .navigation.full_nav ul li a#mission_neighbors      {left:  2px;top:669px;z-index:57;}
 #content > .navigation.full_nav ul li a#nav_passports          {left:-29px;top:562px;z-index:54;}
 #content > .navigation.full_nav ul li a#nav_merchandise        {left:161px;top:572px;z-index:55;}
-#content > .navigation.full_nav ul li.smart_car a              {left:420px;top:600px;z-index:56;}
 
 
 
@@ -279,16 +276,6 @@ div.menu_item, .menu_item dt {font-style: italic;}
 .sponsor-logos tr:first-child td {padding-top: 0;}
 
 .highlighted {font-size:18px; background-image:url(../images/peach_kraft.jpg); padding:10px; border-radius:2px; font-weight: bold;}
-
-/* smart car */
-.smart_car_rules {font-size: 0.8em; width: 75%;}
-.smart_car_rules h1 {font-size: 1.5em;}
-.smart_car_rules h2 {font-size: 1em;}
-.smart_car_rules ol {margin-left: 1.25em;}
-.smart_car_rules li, .smart_car_rules p {margin-top: 1em;}
-.smart_car_rules p {width: auto;}
-.shout {text-transform: uppercase;}
-.legal_term {text-decoration: underline;}
 
 /*conference*/
 #conference .kraft p {width: auto;}
