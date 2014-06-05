@@ -11,7 +11,6 @@
   <?php 
   /*<li class="<?= $page_id == "night_market" ? 'active' : '' ?>"><a id="nav_night_market" href="night_market.php">Night Market</a></li>*/
   ?>
-  <li class="<?= $page_id == "local_forager_contest" ? 'active' : '' ?>"><a id="nav_local_forager" href="local_forager_contest.php">Local Forager Contest</a></li>
   <li class="photo_contest"><a href="app.php" id="nav_photo_contest">Photo Contest</a></li>
   <li class="mission_neighbors"><a id="mission_neighbors" href="mission_neighbors.php">Mission Neighbors</a></li>
   <li class="social">

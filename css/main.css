@@ -102,7 +102,7 @@ ul.text li{margin-bottom:5px;}
 #content > .navigation.standard_nav ul li a#nav_about                           {height:45px; background-position:-111px 0px;}
 #content > .navigation.standard_nav ul li a#nav_eat_and_drink                   {height:37px; background-position:-111px -45px;}
 #content > .navigation.standard_nav ul li a#nav_conference                      {height:35px; background-position:-111px -82px;}
-#content > .navigation.standard_nav ul li a#nav_local_forager                   { height:52px; background-position:-111px -161px; margin-top:8px;}
+/*#content > .navigation.standard_nav ul li a#nav_local_forager                   { height:52px; background-position:-111px -161px; margin-top:8px;}*/
 #content > .navigation.standard_nav ul li a#nav_news                            {height:37px; background-position:-111px -220px; margin-top:8px;}
 #content > .navigation.standard_nav ul li a#nav_passports                       {height:15px; background-position:-111px -258px;}
 #content > .navigation.standard_nav ul li a#nav_merchandise                     {height:15px; background-position:-111px -275px; margin-top:5px;}
@@ -118,8 +118,8 @@ ul.text li{margin-bottom:5px;}
 #content > .navigation.standard_nav ul li a#nav_eat_and_drink:hover             {height:37px; background-position:0px -45px;}
 #content > .navigation.standard_nav ul li.active a#nav_conference,                                                
 #content > .navigation.standard_nav ul li a#nav_conference:hover                {height:35px; background-position:0px -82px;}
-#content > .navigation.standard_nav ul li.active a#nav_local_forager,                                      
-#content > .navigation.standard_nav ul li a#nav_local_forager:hover             {height:52px; background-position:0px -161px;}
+/*#content > .navigation.standard_nav ul li.active a#nav_local_forager,                                      */
+/*#content > .navigation.standard_nav ul li a#nav_local_forager:hover             {height:52px; background-position:0px -161px;}*/
 #content > .navigation.standard_nav ul li.active a#nav_news,                                                      
 #content > .navigation.standard_nav ul li a#nav_news:hover                      {height:37px; background-position:0px -220px;}
 #content > .navigation.standard_nav ul li.active a#nav_passports,                                 
@@ -153,7 +153,7 @@ ul.text li{margin-bottom:5px;}
 #content > .navigation.full_nav ul li a#nav_about                     { width:177px; height:161px; background-image:url(../images/home_nav/about.png);}
 #content > .navigation.full_nav ul li a#nav_eat_and_drink             { width:299px; height:347px; background-image:url(../images/home_nav/eat_and_drink.png);}
 #content > .navigation.full_nav ul li a#nav_conference                { width:179px; height:157px; background-image:url(../images/home_nav/conference.png);}
-#content > .navigation.full_nav ul li a#nav_local_forager             { width:186px; height:125px; background-image:url(../images/home_nav/local_forager.png);}
+/*#content > .navigation.full_nav ul li a#nav_local_forager             { width:186px; height:125px; background-image:url(../images/home_nav/local_forager.png);}*/
 #content > .navigation.full_nav ul li a#nav_news                      { width:119px; height:88px; background-image:url(../images/home_nav/news.png);}
 #content > .navigation.full_nav ul li a#nav_passports                 { width:243px; height:78px; background-image:url(../images/home_nav/passports.png);}
 #content > .navigation.full_nav ul li a#nav_merchandise               { width:219px; height:58px; background-image:url(../images/home_nav/merchandise.png);}
@@ -168,7 +168,7 @@ ul.text li{margin-bottom:5px;}
 #content > .navigation.full_nav ul li a#nav_list:hover                       {background-position:0 -265px;}
 #content > .navigation.full_nav ul li a#nav_eat_and_drink:hover              {background-position:0 -347px;}
 #content > .navigation.full_nav ul li a#nav_conference:hover                 {background-position:0 -157px;}
-#content > .navigation.full_nav ul li a#nav_local_forager:hover              {background-position:0 -125px;}
+/*#content > .navigation.full_nav ul li a#nav_local_forager:hover              {background-position:0 -125px;}*/
 #content > .navigation.full_nav ul li a#nav_news:hover                       {background-position:0 -88px; }
 #content > .navigation.full_nav ul li a#nav_passports:hover                  {background-position:0 -78px; }
 #content > .navigation.full_nav ul li a#nav_merchandise:hover                {background-position:0 -58px; }
@@ -189,7 +189,7 @@ ul.text li{margin-bottom:5px;}
 #content > .navigation.full_nav ul li a#nav_sponsors           {left:731px;top:257px;z-index:53;}
 #content > .navigation.full_nav ul li a#nav_get_involved       {left:352px;top:666px;z-index:58;}
 #content > .navigation.full_nav ul li a#nav_night_market       {left:515px;top:178px;z-index:51;}
-#content > .navigation.full_nav ul li a#nav_local_forager      {left:500px;top:519px;z-index:52;}
+/*#content > .navigation.full_nav ul li a#nav_local_forager      {left:500px;top:519px;z-index:52;}*/
 #content > .navigation.full_nav ul li a#nav_photo_contest      {left:530px;top:115px;z-index:47;}
 #content > .navigation.full_nav ul li a#mission_neighbors      {left:  2px;top:669px;z-index:57;}
 #content > .navigation.full_nav ul li a#nav_passports          {left:-29px;top:562px;z-index:54;}
