@@ -13,69 +13,52 @@
 
     <div class="extra_menu paper">
       <h3>Get involved</h3>
-      <p>The 2013 Conference has come and gone but there are plenty of ways to get involved in food and entrepreneurship year round. Check out <a href="http://www.lacocinasf.org/">La Cocina</a>&rsquo;s <a href="http://www.lacocinasf.org/about-la-cocina/volunteerprogram/">volunteer page</a> for exciting opportunities year-round.</p>
+      <p>We are looking for volunteers to help with this year&rsquo;s conference. Scroll down for specific roles or <a href="https://docs.google.com/a/lacocinasf.org/forms/d/1wjE9LY5L8mzKnBayDSq79HpGW9vyZv08-smI1tlfVhc/viewform">fill out the form to sign up</a>!
+      <!-- <p>The 2013 Conference has come and gone but there are plenty of ways to get involved in food and entrepreneurship year round. Check out <a href="http://www.lacocinasf.org/">La Cocina</a>&rsquo;s <a href="http://www.lacocinasf.org/about-la-cocina/volunteerprogram/">volunteer page</a> for exciting opportunities year-round.</p> -->
 
       <h3>Tickets</h3>
-      <p>Tickets for the 2013 Conference are no longer available. Follow La Cocina on <a href="https://twitter.com/lacocinasf">Twitter</a>, and check out La Cocina&rsquo;s <a href="https://www.facebook.com/lacocinasforg">Facebook page</a> for continued updates on food and entrepreneurship all year long!</p>
-      
-      <h3>Scholarships available!</h3>
-      <p>La Cocina offers scholarships and tickets on a sliding scale for conference attendees who can&rsquo;t afford the full ticket price. For 2014 scholarship opportunities, check back here for more information starting in June 2014.</p>
-      
+      <p>Tickets to the conference are available. <a href="http://foodandentrepreneurshipconference2014.eventbrite.com/">Buy yours</a> before July 31 for the early bird discount!</p>
+      <!-- <p>Tickets for the 2013 Conference are no longer available. Follow La Cocina on <a href="https://twitter.com/lacocinasf">Twitter</a>, and check out La Cocina&rsquo;s <a href="https://www.facebook.com/lacocinasforg">Facebook page</a> for continued updates on food and entrepreneurship all year long!</p> -->
     </div>
+
     <div class="inner">
       <div class="navigation pagenav">
         <ul>
+          <!--
           <li><a href="#brunch">Brunch</a></li>
           <li><a href="#conf">Conference</a></li>
           <li><a href="#sessions">Breakout Sessions</a></li>
+          -->
           <li><a href="#sponsors">Sponsors</a></li>
           <li><a href="#volunteer">Volunteer</a></li>
         </ul>
       </div>
 
       <section id="intro">
-        <p>La Cocina&rsquo;s Food &amp; Entrepreneurship Conference is a space to think about the place of food and entrepreneurship in urban and economic development. It is a celebration of the faces, spaces, policies and technologies and the way they all come together to create a vibrant environment where food businesses can grow and thrive&mdash;bringing economic development and jobs to our communities.</p>
-        
-        <p>The 2013 Conference has come to an end! Check out the information below for a 2013 recap. Pictures from the event are coming soon.</p>
+        <p class="callout"><a href="http://foodandentrepreneurshipconference2014.eventbrite.com/">Buy your tickets today!</a></p>
 
-        <p><strong>Conference date:</strong> Sunday, August 18</p>
-        <p><strong>Themes/topics:</strong> This year, we&rsquo;re collaborating with the Southern Foodways Alliance to explore a theme of Women, Work &amp; Food.</p>
-
-        <ul class="text">
-          <li>Celebrating Food Entrepreneurship</li>
-          <li>Women Business Owners</li>
-          <li>Diversity in Food</li>
-          <li>Building Communities</li>
-          <li>Leveraging Technology</li>
-          <li>Economic Development and Job Creation through the Food Industry</li>
-        </ul>
-
-        <p><strong>Target attendees:</strong>
-        <ul class="text">
-          <li>People who currently own or want to begin food businesses
-          <li>The people who help make it possible&mdash;employees of non-profit economic development organizations, city government officials, policy makers, and food enthusiasts in general
-          <li>Other non-profits working specifically within the food industry on job creation
-        </ul>
+        <p><strong>Conference date:</strong> Sunday, August 17, 9:30am-6:30pm</p>
 
         <p><strong>Location:</strong> <a href="http://www.somarts.org/">SoMArts</a> (<a href="https://www.google.com/maps?q=somarts&sll=30.3077609,-97.75340140000002&sspn=0.4553749008071801,0.7034107808632009&t=m&hq=somarts&radius=15000&z=16">934 Brannan St, San Francisco, CA 94103</a>)</p>
         <iframe width="536" height="358" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps?sll=30.3077609,-97.75340140000002&amp;sspn=0.4553749008071801,0.7034107808632009&amp;t=m&amp;q=somarts&amp;ie=UTF8&amp;hq=somarts&amp;hnear=&amp;radius=15000&amp;ll=37.773717,-122.405484&amp;spn=0.006072,0.01148&amp;z=16&amp;iwloc=A&amp;output=embed"></iframe><p><small><a href="https://www.google.com/maps?sll=30.3077609,-97.75340140000002&amp;sspn=0.4553749008071801,0.7034107808632009&amp;t=m&amp;q=somarts&amp;ie=UTF8&amp;hq=somarts&amp;hnear=&amp;radius=15000&amp;ll=37.773717,-122.405484&amp;spn=0.006072,0.01148&amp;z=16&amp;iwloc=A&amp;source=embed">View larger map</a></small></p>
 
-        <p><strong>Tickets:</strong></p>
-        <ul class="text">
-          <li>Food Heritage of the American South Brunch (10:00am-1:00pm): $75
-          <li>Food &amp; Entrepreneurship Conference (12:00pm-6:30pm): $100
-          <li>Brunch + Conference (10:00am-6:30pm): $150
-        </ul>
-        <p>Scholarships are available to the Food &amp; Entrepreneurship Conference to anyone who demonstrates economic need. Please email <a href="mailto:conference@sfstreetfoodfest.com">conference@sfstreetfoodfest.com</a>. to apply.</p>
+        <blockquote>
+          <p>One of the very nicest things about life is the way we must regularly stop whatever it is we are doing and devote our attention to eating.</p>
+          <footer>&mdash; Luciano Pavaroti</footer>
+        </blockquote>
+
+        <p>Food has the power to build and shape families, communities and cities. Closer to home, here in San Francisco, food entrepreneurs have transformed this city into a boiling pot of deliciousness. But their work has also brought to attention issues that we need to address to make our society more inclusive, sustainable, and equal.  Whether it is a question of improving healthy food access, buying local versus affordability, or the stigmas around the cost of ethnic food, our conference sets out to foster creative discussion about these important issues. We hope you&rsquo;ll join us.</p>
+
+        <p><strong><a href="http://foodandentrepreneurshipconference2014.eventbrite.com/">Tickets</a>:</strong> $100 ($80 early bird discount through July 31, 2014)<br/>
+        <a href="http://foodandentrepreneurshipconference2014.eventbrite.com/">Your ticket</a> will include a full day&rsquo;s menu of conversations, activities and opportunities to meet people who are all working on food and entrepreneurship, as well as breakfast, lunch and happy hour. Our ticket cost is meant to keep this conference accessible but does not fully cover the cost of the event. Donations are appreciated. <a href="http://foodandentrepreneurshipconference2014.eventbrite.com/">Buy your tickets today!</a></p>
       </section>
 
+      <!--
       <section id="brunch">
-        <!--
         <p>
           <img src="images/azalina_suvir.jpg" alt="Azalina and Suvir" width="536" height="303"/>
           <em>Photo by <a href="http://www.anthonylindsey.com">Anthony Lindsey Photography</a></em>
         </p>
-        -->
         <h2>Brunch</h2>
         <h1>10:00AM &ndash; 1:00PM &ldquo;Southern Foodways Alliance in SF&rdquo;: A Californian Celebration of the Food Heritage of the American South</h1>
 
@@ -98,14 +81,14 @@
         <p>This exciting mix of chefs will be setting up stations and making Southern brunch favorites, including freshly griddled pancakes, BBQ pork, Andoille sausage, farm egg casserole, and much more, plus bottomless mimosas &amp; Bloody Marys and espresso drinks &amp; tea.</p>
         <p>All proceeds from the brunch benefit La Cocina&rsquo;s Incubator Program.</p>
       </section>
+      -->
 
+      <!--
       <section id="conf">
-        <!--
         <p>
           <img src="images/panelists.jpg" alt="panelists" width="536" height="183"/>
           <em>Photo by <a href="http://www.anthonylindsey.com">Anthony Lindsey Photography</a></em>
         </p>
-        -->
         <h2>Conference</h2>
         <h1>12:00PM &ndash; 1:00PM Oral histories &ndash; Southern food and its culinary heritage</h1>
 
@@ -127,7 +110,9 @@
           <li>Maria del Carmen Flores &ndash; owner of <a href="http://estrellitassnacks.com/">Estrellita&rsquo;s Snacks</a></li>
         </ul>
       </section>
+      -->
 
+      <!--
       <section id="sessions">
         <h2>Breakout sessions</h2>
         <ul class="text">
@@ -263,34 +248,26 @@
         <h1>5:00PM &ndash; 6:30PM Specialty Food Association Happy Hour</h1>
         <p>An opportunity for conference attendees and panelists to wind down and have informal conversations over snacks provided by members of <a href="http://www.specialtyfood.com/">The Specialty Food Association</a> and drinks (alcoholic and non-alcoholic).</p>
       </section>
-
+      -->
 
       <section id="sponsors">
         <h1>Thank you to our generous sponsors</h1>
-        <table>
-          <tr>
-            <td><a href="http://www.dpem.com/"><img src="/z_logos/sponsors/dpem.png" alt="DPEM"/></a></td>
-            <td><a href="http://purityorganic.com/"><img src="/z_logos/sponsors/purity.png" alt="Purity Organic"/></a></td>
-            <td><a href="https://www.sfcooking.com/"><img src="/z_logos/sponsors/san_francisco_cooking_school.png" alt="San Francisco Cooking School"/></a></td>
-          </tr>
-          <tr>
-            <td><a href="http://cater2.me/"><img src="/z_logos/sponsors/cater2me.png" alt="Cater2Me"/></a></td>
-            <td><a href="http://www.runa.org/"><img src="/z_logos/sponsors/runa.png" alt="Runa"/></a></td>
-            <td><a href="http://www.sfbg.com/"><img src="/z_logos/sponsors/sf_bay_guardian.png" alt="SF Bay Guardian"/></a></td>
-          </tr>
-          <tr>
-            <td><a href="http://www.saveur.com/"><img src="/z_logos/sponsors/saveur.png" alt="Saveur"/></a></td>
-            <td><a href="http://www.southernfoodways.org/"><img src="/z_logos/sponsors/southern_foodways_alliance.png" alt="Southern Foodways Alliance"/></a></td>
-            <td><a href="http://www.fhlbsf.com/"><img src="/z_logos/sponsors/fhl_bank.png" alt="FHL Bank"/></a></td>
-          </tr>
-          <tr>
-            <td><a href="http://www.ssfllp.com/"><img src="/z_logos/sponsors/sensiba_san_filippo.png" alt="Sensiba San Filippo"/></a></td>
-            <td><a href="https://generalassemb.ly/"><img src="/z_logos/sponsors/general_assembly.png" alt="General Assembly"/></a></td>
-            <td></td>
-          </tr>
-        </table>
 
-        <p>La Cocina&rsquo;s Food &amp; Entrepreneurship Conference is supported by the SOMArts Cultural Center&rsquo;s Affordable Space Program, which provides subsidized, large-scale affordable space and technical assistance to non-profits. SOMArts receives support from the San Francisco Arts Commission&rsquo;s Community Arts and Education Program with funding from Grants for the Arts/The Hotel Tax Fund. The mission of SOMArts is to promote and nurture art on the community level and foster an appreciation of and respect for all cultures. To find out about SOMArts classes, events, and exhibitions, please visit <a href="http://www.somarts.org">www.somarts.org</a>.</p>
+        <div class="sponsor-logos clear">
+          <div class="logo logo-3"><a href="http://teamproevent.com/"><img src="/z_logos/sponsors/proevent.png" alt="Team Pro Event"/></a></div>
+          <div class="logo logo-3"><a href="http://purityorganic.com/"><img src="/z_logos/sponsors/purity.png" alt="Purity Organic"/></a></div>
+          <div class="logo logo-3"><a href="https://www.sfcooking.com/"><img src="/z_logos/sponsors/san_francisco_cooking_school.png" alt="San Francisco Cooking School"/></a></div>
+          <div class="logo logo-3"><a href="http://cater2.me/"><img src="/z_logos/sponsors/cater2me.png" alt="Cater2Me"/></a></div>
+          <!-- <div class="logo logo-3"><a href="http://www.runa.org/"><img src="/z_logos/sponsors/runa.png" alt="Runa"/></a></div> -->
+          <div class="logo logo-3"><a href="http://www.sfbg.com/"><img src="/z_logos/sponsors/sf_bay_guardian.png" alt="SF Bay Guardian"/></a></div>
+          <div class="logo logo-3"><a href="http://www.saveur.com/"><img src="/z_logos/sponsors/saveur.png" alt="Saveur"/></a></div>
+          <div class="logo logo-3"><a href="http://www.fhlbsf.com/"><img src="/z_logos/sponsors/fhl_bank.png" alt="FHL Bank"/></a></div>
+          <div class="logo logo-3"><a href="http://www.ssfllp.com/"><img src="/z_logos/sponsors/sensiba_san_filippo.png" alt="Sensiba San Filippo"/></a></div>
+          <div class="logo logo-3"><a href="https://generalassemb.ly/"><img src="/z_logos/sponsors/general_assembly.png" alt="General Assembly"/></a></div>
+          <div class="logo logo-3"><a href="http://www.southernfoodways.org/"><img src="/z_logos/sponsors/southern_foodways_alliance.png" alt="Southern Foodways Alliance"/></a></div>
+        </div>
+
+        <p style="margin-top: 1em;">La Cocina&rsquo;s Food &amp; Entrepreneurship Conference is supported by the SOMArts Cultural Center&rsquo;s Affordable Space Program, which provides subsidized, large-scale affordable space and technical assistance to non-profits. SOMArts receives support from the San Francisco Arts Commission&rsquo;s Community Arts and Education Program with funding from Grants for the Arts/The Hotel Tax Fund. The mission of SOMArts is to promote and nurture art on the community level and foster an appreciation of and respect for all cultures. To find out about SOMArts classes, events, and exhibitions, please visit <a href="http://www.somarts.org">www.somarts.org</a>.</p>
       </section>
 
 
@@ -298,9 +275,9 @@
       <section id="volunteer">
         <h1>Available volunteer roles</h1>
 
-        <p>If you&#x27;d like to volunteer for the conference, please take a look at the available positions below and fill out the volunteer application on the <a href="get_involved.php">get involved page</a>.</p>
+        <p>If you&rsquo;d like to volunteer for the conference, please take a look at the available positions below and <a href="https://docs.google.com/a/lacocinasf.org/forms/d/1wjE9LY5L8mzKnBayDSq79HpGW9vyZv08-smI1tlfVhc/viewform">fill out the volunteer application</a>.</p>
 
-        <p>La Cocina&rsquo; Food &amp; Entrepreneurship Conference 2013: Volunteer Roles &amp; Responsibilities</p>
+        <p>La Cocina&rsquo; Food &amp; Entrepreneurship Conference 2014: Volunteer Roles &amp; Responsibilities</p>
 
         <h2>Collateral Management</h2>
         <ul class="text">

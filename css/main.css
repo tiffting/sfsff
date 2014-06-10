@@ -1,8 +1,6 @@
 
 *{margin:0; padding:0;}
 body{font-size:14px; background-image:url(../images/wood.jpg); background-position:50% 0; background-color:#423a34; font-family:helvetica, arial, sans-serif;}
-a img{border:none;}
-a[href^="tel:"] {white-space: nowrap;}
 ul{list-style-type:none;}
 .cf:before,.cf:after{content:""; display:table;}
 .cf:after{clear:both;}
@@ -10,6 +8,31 @@ ul{list-style-type:none;}
 
 a{color:#085a56; text-decoration:none;}
 a:hover{text-decoration:underline;}
+a img{border:none;}
+a[href^="tel:"] {white-space: nowrap;}
+
+blockquote, .callout {
+	background: #c16e46 url(../images/peach_kraft.jpg);
+	border-radius: 2px;
+	box-shadow: 0 0 6px rgba(0,0,0,0.5);
+	margin: 0 0 1em;
+	padding: 0.75em 0.5em 0.75em 0.75em;
+}
+blockquote {
+	margin-left: 2em;
+}
+blockquote:before {
+	color: white;
+	content: "“";
+	display: block;
+	font: italic 400%/1 Georgia, "Times New Roman", serif;
+	height: 0;
+	margin-left: -0.8em;
+	opacity: 0.6;
+}
+.callout {
+	font-size: 1.5em;
+}
 
 hr{height:1px; border:none; border-top:1px solid #000; margin:20px 0; }
 
@@ -274,7 +297,7 @@ div.menu_item, .menu_item dt {font-style: italic;}
   font-weight: bold;
 }
 
-.sponsor-logos {margin-top: 20px; width: 710px; border-top: 1px solid #000; padding-top: 20px;}
+.sponsor-logos {margin-top: 20px; border-top: 1px solid #000; padding-top: 20px;}
 .sponsor-logos .logo {float: left; min-height: 11em; text-align: center;}
 .sponsor-logos .logo-1 {width: 100%;}
 .sponsor-logos .logo-2 {width: 50%;}
