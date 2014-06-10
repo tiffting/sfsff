@@ -13,7 +13,7 @@
         <img src="/z_photos/2013/mission_neighbors-friends.jpg" alt="Five friends sitting on the sidewalk eating street food." width="535" height="321"/>
       </p>
 
-      <p>To sign up for parking for the 2014 festival, please <a href="https://docs.google.com/forms/d/1Q1XOATz96Rqnj2kZzQjxh0laA9W3NeKsInQqMzu8OpE/viewform">fill out the form here</a> no later than June 2nd</p>
+      <p>To sign up for parking for the 2014 festival, please <a href="https://docs.google.com/forms/d/1Q1XOATz96Rqnj2kZzQjxh0laA9W3NeKsInQqMzu8OpE/viewform">fill out the form here</a> no later than July 1, 2014.</p>
     </div>
   </section>
 <?php require 'inc/bottom.inc.php'; ?>
