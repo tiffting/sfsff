@@ -50,7 +50,11 @@ hr{height:1px; border:none; border-top:1px solid #000; margin:20px 0; }
 .bold {
 	font-weight: bold;
 }
-.clear {
+.clear:before, .clear:after {
+	content: " ";
+	display: table;
+}
+.clear:after {
 	clear: both;
 }
 
@@ -270,10 +274,11 @@ div.menu_item, .menu_item dt {font-style: italic;}
   font-weight: bold;
 }
 
-.sponsor-logos {margin-top: 20px; margin-bottom: 3em; width: 710px; border-top: 1px solid #000; padding-top: 20px;}
-.sponsor-logos th {text-align: left; vertical-align: top;}
-.sponsor-logos td {text-align: center; padding-top: 20px;}
-.sponsor-logos tr:first-child td {padding-top: 0;}
+.sponsor-logos {margin-top: 20px; width: 710px; border-top: 1px solid #000; padding-top: 20px;}
+.sponsor-logos .logo {float: left; min-height: 11em; text-align: center;}
+.sponsor-logos .logo-1 {width: 100%;}
+.sponsor-logos .logo-2 {width: 50%;}
+.sponsor-logos .logo-3 {width: 33%;}
 
 .highlighted {font-size:18px; background-image:url(../images/peach_kraft.jpg); padding:10px; border-radius:2px; font-weight: bold;}
 
