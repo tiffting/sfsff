@@ -4,7 +4,7 @@
   <li class="<?= $page_id == "about" ? 'active' : '' ?>"><a id="nav_about" href="about.php">About</a></li>
   <li class="<?= $page_id == "eat_and_drink" ? 'active' : '' ?>"><a id="nav_eat_and_drink" href="eat_and_drink.php">Eat/Drink</a></li>
   <li class="<?= $page_id == "conference" ? 'active' : '' ?>"><a id="nav_conference" href="conference.php">Conference</a></li>
-  <li class="passports"><a id="nav_passports" alt="Check back to buy your passport for the 2014 festival!" title="Check back to buy your passport for the 2014 festival!">Passports</a></li>
+  <li class="passports"><a id="nav_passports" href="http://sfstreetfoodfestival2014.eventbrite.com/">Passports</a></li>
   <li class="<?= $page_id == "news" ? 'active' : '' ?>"><a id="nav_news" href="https://www.facebook.com/sanfranciscostreetfoodfestival">News</a></li>
   <li class="<?= $page_id == "sponsors" ? 'active' : '' ?>"><a id="nav_sponsors" href="sponsors.php">Sponsors</a></li>
   <li class="<?= $page_id == "get_involved" ? 'active' : '' ?>"><a id="nav_get_involved" href="get_involved.php">Get Involved</a></li>
