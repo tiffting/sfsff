@@ -52,7 +52,7 @@
         <!-- <div class="logo logo-3"><a href="https://www.airbnb.com/"><img src="/z_logos/sponsors/airbnb.png" alt="Airbnb"></a></div> -->
         <!-- <div class="logo logo-3"><a href="http://www.avanthousing.com/"><img src="/z_logos/sponsors/avant_housing.png" alt="Avant Housing"></a></div> -->
         <!-- <div class="logo logo-3"><a href="http://www.charbroil.com/"><img src="/z_logos/sponsors/char_broil.png" alt="Char-Broil"></a></div> -->
-        <!-- <div class="logo logo-3"><a href="http://www.macys.com/"><img src="/z_logos/sponsors/macys.png" alt="Macy's"></a></div> -->
+        <div class="logo logo-3"><a href="http://www.macys.com/"><img src="/z_logos/sponsors/macys.png" alt="Macy's"></a></div>
         <div class="logo logo-3"><a href="http://poachedjobs.com/"><img src="/z_logos/sponsors/poached.png" alt="Poached Jobs"></a></div>
         <!-- <div class="logo logo-3"><a href="http://www.goodfoodmerchantsguild.org/"><img src="/z_logos/sponsors/gfmg.png" alt="Good Food Merchants Guild"></a></div> -->
         <!-- <div class="logo logo-3"><a href="http://www.smartcentersanfrancisco.com/"><img src="/z_logos/sponsors/smart_car.png" alt="Smart Car San Francisco"></a></div> -->
