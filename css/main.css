@@ -119,6 +119,7 @@ ul.text li{margin-bottom:5px;}
 #content > .navigation.standard_nav{width:135px; float:left;}
 #content > .navigation.standard_nav ul{padding-top:7px; position:relative; padding-bottom:7px;}
 #content > .navigation.standard_nav ul li{}
+#content > .navigation.standard_nav ul li.friday_night{display:none;}
 #content > .navigation.standard_nav ul li.press_kit{display:none;}
 #content > .navigation.standard_nav ul li.photo_contest{display:none;}
 #content > .navigation.standard_nav ul li.get_list_ready{display:none;}
@@ -136,8 +137,8 @@ ul.text li{margin-bottom:5px;}
 #content > .navigation.standard_nav ul li a#nav_sponsors                        {height:36px; background-position:-111px -307px;}
 #content > .navigation.standard_nav ul li a#nav_get_involved                    {height:30px; background-position:-111px -342px;}
 #content > .navigation.standard_nav ul li a#mission_neighbors                   {display:none;}
-#content > .navigation.standard_nav ul li a#nav_night_market                    {height:32px; background-position:-111px -377px; margin-top:7px;}
-#content > .navigation.standard_nav ul li.active a#nav_get_involved,
+/*#content > .navigation.standard_nav ul li a#nav_night_market                    {height:32px; background-position:-111px -377px; margin-top:7px;}
+*/#content > .navigation.standard_nav ul li.active a#nav_get_involved,
 #content > .navigation.standard_nav ul li a#nav_get_involved:hover              {height:30px; background-position:0px -342px;}
 #content > .navigation.standard_nav ul li.active a#nav_about,                                                     
 #content > .navigation.standard_nav ul li a#nav_about:hover                     {height:45px; background-position:0px 0px;}
@@ -157,9 +158,9 @@ ul.text li{margin-bottom:5px;}
 #content > .navigation.standard_nav ul li a#nav_sponsors:hover                  {height:36px; background-position:0px -307px;}
 #content > .navigation.standard_nav ul li.active a#nav_get_involved,                                              
 #content > .navigation.standard_nav ul li a#nav_get_involved:hover              {height:30px; background-position:0px -342px;}
-#content > .navigation.standard_nav ul li a#nav_night_market:hover,
+/*#content > .navigation.standard_nav ul li a#nav_night_market:hover,
 #content > .navigation.standard_nav ul li.active a#nav_night_market             {height:32px; background-position:0px -377px;}
-
+*/
 #content > section {width:755px; float:right;}
 
 
@@ -189,7 +190,8 @@ ul.text li{margin-bottom:5px;}
 #content > .navigation.full_nav ul li a#nav_after_party               { display:none; width:227px; height:58px; background-image:url(../images/home_nav/after_party.png);}
 #content > .navigation.full_nav ul li a#nav_photo_contest             { display:none; width:231px; height:69px; background-image:url(../images/home_nav/photo_contest.png);}
 #content > .navigation.full_nav ul li a#mission_neighbors             { width:193px; height:99px; background-image:url(../images/home_nav/mission_neighbors.png);}
-#content > .navigation.full_nav ul li a#nav_night_market              { width:232px; height:328px; background-image:url(../images/home_nav/night_market.png);}
+/*#content > .navigation.full_nav ul li a#nav_night_market              { width:232px; height:328px; background-image:url(../images/home_nav/night_market.png);}*/
+#content > .navigation.full_nav ul li.friday_night a                  { width:314px; height:100px; background-image:url(../images/home_nav/friday_night.png);} 
 
 #content > .navigation.full_nav ul li a#nav_about:hover                      {background-position:0 -161px;}
 #content > .navigation.full_nav ul li a#nav_list:hover                       {background-position:0 -265px;}
@@ -205,7 +207,8 @@ ul.text li{margin-bottom:5px;}
 #content > .navigation.full_nav ul li a#nav_photo_contest:hover              {background-position:0 -69px; }
 #content > .navigation.full_nav ul li a#nav_photo_contest:hover              {background-position:0 -69px; }
 #content > .navigation.full_nav ul li a#mission_neighbors:hover              {background-position:0 -99px; }
-#content > .navigation.full_nav ul li a#nav_night_market:hover               {background-position:0 -328px;}
+/*#content > .navigation.full_nav ul li a#nav_night_market:hover               {background-position:0 -328px;}*/
+#content > .navigation.full_nav ul li.friday_night a:hover					 {background-position:0 -100px;}
 
 /*positioning for full nav*/
 #content > .navigation.full_nav ul li a#nav_list               {left: auto;top: auto;z-index:38;}
@@ -215,7 +218,8 @@ ul.text li{margin-bottom:5px;}
 #content > .navigation.full_nav ul li a#nav_news               {left:659px;top:169px;z-index:46;}
 #content > .navigation.full_nav ul li a#nav_sponsors           {left:731px;top:257px;z-index:53;}
 #content > .navigation.full_nav ul li a#nav_get_involved       {left:352px;top:666px;z-index:58;}
-#content > .navigation.full_nav ul li a#nav_night_market       {left:515px;top:178px;z-index:51;}
+/*#content > .navigation.full_nav ul li a#nav_night_market       {left:515px;top:178px;z-index:51;}*/
+#content > .navigation.full_nav ul li.friday_night a 		   {left:450px;top:541px;z-index:51;}
 /*#content > .navigation.full_nav ul li a#nav_local_forager      {left:500px;top:519px;z-index:52;}*/
 #content > .navigation.full_nav ul li a#nav_photo_contest      {left:530px;top:115px;z-index:47;}
 #content > .navigation.full_nav ul li a#mission_neighbors      {left:  2px;top:669px;z-index:57;}

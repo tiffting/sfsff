@@ -11,6 +11,7 @@
   <?php 
   /*<li class="<?= $page_id == "night_market" ? 'active' : '' ?>"><a id="nav_night_market" href="night_market.php">Night Market</a></li>*/
   ?>
+  <li class="friday_night"><a href="friday_night.php">Friday Night Family Meal</a></li>
   <li class="photo_contest"><a href="app.php" id="nav_photo_contest">Photo Contest</a></li>
   <li class="mission_neighbors"><a id="mission_neighbors" href="mission_neighbors.php">Mission Neighbors</a></li>
   <li class="social">
