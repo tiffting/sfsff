@@ -96,7 +96,7 @@ hr{height:1px; border:none; border-top:1px solid #000; margin:20px 0; }
 .kraft h2{width:75%; margin-bottom:15px; text-transform:uppercase; font-size:14px;}
 .kraft p{margin-bottom:15px; line-height:1.3em; width:75%;}
 .kraft section{display:block; border-top:1px solid rgba(0,0,0,.3); padding-top:15px; margin-top:35px;}
-.kraft section:first-child{margin-top:0;}
+.kraft section:first-child{border-top: 0; margin-top:0;}
 .kraft section img.mood_img{width:300px; float:left; margin-right:10px; margin-bottom:10px;}
 .kraft section#frequently_asked_questions h2{clear:both;}
 
@@ -311,5 +311,4 @@ div.menu_item, .menu_item dt {font-style: italic;}
 
 /*conference*/
 #conference .kraft p {width: auto;}
-#conference section {width: 75%;}
-#conference section#sponsors {width: auto;}
+#conference #intro {width: 75%;}
