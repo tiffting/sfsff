@@ -1,5 +1,8 @@
       </div>
     </div>
+    <footer>
+      <img src="images/home_nav/presented_by_wf.png" alt="Presented by Whole Foods!" title="Presented by Whole Foods" width="150" height="57"/>
+    </footer>
     <?php
     /*
     <div id="app-ribbon">
