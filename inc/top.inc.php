@@ -41,7 +41,7 @@ function googleTranslateElementInit() {
         
     <div id="wrap">
       <header>
-        <a href="index.php" id="streetfood_header"><img src="images/<?= ($page_id == 'night_market') ? 'market_' : '' ?>header_2013.png" /></a>
+        <a href="index.php" id="streetfood_header"><img src="images/<?= ($page_id == 'night_market') ? 'market_' : '' ?>header_2014.png" /></a>
       </header>
       <div id="content" class="cf">
         <div class="navigation kraft blue<?= $full_nav ? " full_nav" : " standard_nav" ?>">
