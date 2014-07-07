@@ -13,7 +13,7 @@
 
     <div class="extra_menu paper">
       <h3>Tickets</h3>
-      <p>Tickets to the conference are available. <a href="http://foodandentrepreneurshipconference2014.eventbrite.com/">Buy yours</a> before July 31 for the early bird discount!</p>
+      <p>Tickets to the conference are available. <a href="http://foodandentrepreneurshipconference2014.eventbrite.com/">Buy yours</a> before July 15th for the early bird discount! This year, thanks to Wells Fargo, the La Cocina Food & Entrepreneurship Conference has several scholarships available. In the spirit of creating an inclusive conference, we are going to be offering scholarships to low-income entrepreneurs and individuals who are not able to afford a full-price ticket, and yet would add a lot to the conversations and debates if they had the opportunity to do so. If you are interested in applying for a scholarship, then please fill out this <a href="https://docs.google.com/forms/d/1YUPW5ocM3fspYPEIkDWrWKhlzP9Si-mqJqdNHN5p1IE/viewform">short form</a> and we'll be in touch with your shortly (application deadline Aug 8th).</p>
       <!-- <p>Tickets for the 2013 Conference are no longer available. Follow La Cocina on <a href="https://twitter.com/lacocinasf">Twitter</a>, and check out La Cocina&rsquo;s <a href="https://www.facebook.com/lacocinasforg">Facebook page</a> for continued updates on food and entrepreneurship all year long!</p> -->
     </div>
 
@@ -43,7 +43,7 @@
           <footer>&mdash; Luciano Pavaroti</footer>
         </blockquote>
 
-        <p><strong><a href="http://foodandentrepreneurshipconference2014.eventbrite.com/">Tickets</a>:</strong> $100 ($80 early bird discount through July 31, 2014)<br/>
+        <p><strong><a href="http://foodandentrepreneurshipconference2014.eventbrite.com/">Tickets</a>:</strong> $100 ($80 early bird discount through July 15, 2014)<br/>
         <a href="http://foodandentrepreneurshipconference2014.eventbrite.com/">Your ticket</a> will include a full day&rsquo;s menu of conversations, activities and opportunities to meet people who are all working on food and entrepreneurship, as well as breakfast, lunch and happy hour. Our ticket cost is meant to keep this conference accessible but does not fully cover the cost of the event. Donations are appreciated. <a href="http://foodandentrepreneurshipconference2014.eventbrite.com/">Buy your tickets today!</a></p>
       </section>
 
@@ -247,19 +247,19 @@
       <section id="sponsors">
         <h1>Thank you to our generous sponsors</h1>
 
-        <div class="sponsor-logos clear">
+        <!-- <div class="sponsor-logos clear">
           <div class="logo logo-3"><a href="http://teamproevent.com/"><img src="/z_logos/sponsors/proevent.png" alt="Team Pro Event"/></a></div>
           <div class="logo logo-3"><a href="http://purityorganic.com/"><img src="/z_logos/sponsors/purity.png" alt="Purity Organic"/></a></div>
           <div class="logo logo-3"><a href="https://www.sfcooking.com/"><img src="/z_logos/sponsors/san_francisco_cooking_school.png" alt="San Francisco Cooking School"/></a></div>
           <div class="logo logo-3"><a href="http://cater2.me/"><img src="/z_logos/sponsors/cater2me.png" alt="Cater2Me"/></a></div>
           <!-- <div class="logo logo-3"><a href="http://www.runa.org/"><img src="/z_logos/sponsors/runa.png" alt="Runa"/></a></div> -->
-          <div class="logo logo-3"><a href="http://www.sfbg.com/"><img src="/z_logos/sponsors/sf_bay_guardian.png" alt="SF Bay Guardian"/></a></div>
+          <!--<div class="logo logo-3"><a href="http://www.sfbg.com/"><img src="/z_logos/sponsors/sf_bay_guardian.png" alt="SF Bay Guardian"/></a></div>
           <div class="logo logo-3"><a href="http://www.saveur.com/"><img src="/z_logos/sponsors/saveur.png" alt="Saveur"/></a></div>
           <div class="logo logo-3"><a href="http://www.fhlbsf.com/"><img src="/z_logos/sponsors/fhl_bank.png" alt="FHL Bank"/></a></div>
           <div class="logo logo-3"><a href="http://www.ssfllp.com/"><img src="/z_logos/sponsors/sensiba_san_filippo.png" alt="Sensiba San Filippo"/></a></div>
           <div class="logo logo-3"><a href="https://generalassemb.ly/"><img src="/z_logos/sponsors/general_assembly.png" alt="General Assembly"/></a></div>
           <div class="logo logo-3"><a href="http://www.southernfoodways.org/"><img src="/z_logos/sponsors/southern_foodways_alliance.png" alt="Southern Foodways Alliance"/></a></div>
-        </div>
+        </div>-->
 
         <p style="margin-top: 1em;">La Cocina&rsquo;s Food &amp; Entrepreneurship Conference is supported by the SOMArts Cultural Center&rsquo;s Affordable Space Program, which provides subsidized, large-scale affordable space and technical assistance to non-profits. SOMArts receives support from the San Francisco Arts Commission&rsquo;s Community Arts and Education Program with funding from Grants for the Arts/The Hotel Tax Fund. The mission of SOMArts is to promote and nurture art on the community level and foster an appreciation of and respect for all cultures. To find out about SOMArts classes, events, and exhibitions, please visit <a href="http://www.somarts.org">www.somarts.org</a>.</p>
       </section>
