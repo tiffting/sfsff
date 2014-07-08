@@ -13,7 +13,7 @@
 
     <div class="extra_menu paper">
       <h3>Tickets</h3>
-      <p>Tickets to the conference are available. <a href="http://foodandentrepreneurshipconference2014.eventbrite.com/">Buy yours</a> before July 31 for the early bird discount!</p>
+      <p>Tickets to the conference are available. <a href="http://foodandentrepreneurshipconference2014.eventbrite.com/">Buy yours</a> before July 15 for the early bird discount! This year, thanks to Wells Fargo, the La Cocina Food & Entrepreneurship Conference has several scholarships available. In the spirit of creating an inclusive conference, we are going to be offering scholarships to low-income entrepreneurs and individuals who are not able to afford a full-price ticket, and yet would add a lot to the conversations and debates if they had the opportunity to do so. If you are interested in applying for a scholarship, then please fill out this <a href="https://docs.google.com/forms/d/1YUPW5ocM3fspYPEIkDWrWKhlzP9Si-mqJqdNHN5p1IE/viewform">short form</a> and we'll be in touch with your shortly. Apply before August 8th</p>
       <!-- <p>Tickets for the 2013 Conference are no longer available. Follow La Cocina on <a href="https://twitter.com/lacocinasf">Twitter</a>, and check out La Cocina&rsquo;s <a href="https://www.facebook.com/lacocinasforg">Facebook page</a> for continued updates on food and entrepreneurship all year long!</p> -->
     </div>
 
