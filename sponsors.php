@@ -21,6 +21,7 @@
       </div>
                 
       <div class="sponsor-logos clear">
+        <div class="logo logo-3"><a href="http://www.soyvay.com/"><img src="/z_logos/sponsors/soy_vay.png" alt="Soy Vay"></a></div>
         <div class="logo logo-3"><a href="http://fosterfarms.com/"><img src="/z_logos/sponsors/foster_farms.png" alt="Foster Farms"></a></div>
         <div class="logo logo-3"><a href="http://www.tabasco.com/"><img src="/z_logos/sponsors/tabasco.png" alt="Tabasco"></a></div>
         <div class="logo logo-3"><a href="http://www.forestcity.net/"><img src="/z_logos/sponsors/forest_city.png" alt="Forest City"></a></div>
@@ -39,13 +40,14 @@
         <div class="logo logo-3"><a href="http://www.intersticearchitects.com/"><img src="/z_logos/sponsors/interstice.png" alt="Interstice"/></a></div>
         <div class="logo logo-3"><a href="http://www.modernluxury.com/san-francisco"><img src="/z_logos/sponsors/sf_magazine.png" alt="SF Magazine"></a></div>
         <!-- <div class="logo logo-3"><a href="http://www.cupcakevineyards.com/"><img src="/z_logos/sponsors/cupcake_vineyards.png" alt="Cupcake Vineyards"></a></div> -->
+        <div class="logo logo-3"><a href="http://petalumapoultry.com/"><img src="/z_logos/sponsors/petaluma_poultry.png" alt="Petaluma Poultry"></a></div>
         <div class="logo logo-3"><a href="http://offthegridsf.com/"><img src="/z_logos/sponsors/off_the_grid_round.png" alt="Off the Grid"></a></div>
         <div class="logo logo-3"><a href="http://cater2.me/"><img src="/z_logos/sponsors/cater2me.png" alt="Cater2.me"></a></div>
         <!-- <div class="logo logo-3"><a href="http://www.runa.org/"><img src="/z_logos/sponsors/runa.png" alt="Runa"/></a></div> -->
         <div class="logo logo-3"><a href="http://www.liifund.org/"><img src="/z_logos/sponsors/liif.png" alt="LIIF"></a></div>
         <div class="logo logo-3"><a href="http://calicraft.com/"><img src="/z_logos/sponsors/calicraft.png" alt="Calicraft Brewing Co."></a></div>
         <div class="logo logo-3"><a href="http://www.fhlbsf.com/"><img src="/z_logos/sponsors/fhl_bank.png" alt="FHL Bank"/></div>
-        <div class="logo logo-3"><a href="http://www.ssfllp.com/"><img src="/z_logos/sponsors/sensiba_san_filippo.png" alt="Sensiba San Filippo"></a></div>
+        <!-- <div class="logo logo-3"><a href="http://www.ssfllp.com/"><img src="/z_logos/sponsors/sensiba_san_filippo.png" alt="Sensiba San Filippo"></a></div> -->
         <!-- <div class="logo logo-3"><a href="http://redboatfishsauce.com/"><img src="/z_logos/sponsors/red_boat_fish_sauce.png" alt="Red Boat Fish Sauce"></a></div> -->
         <!-- <div class="logo logo-3"><a href="http://www.americanlamb.com/"><img src="/z_logos/sponsors/american_lamb.png" alt="American Lamb Board"></a></div> -->
         <div class="logo logo-3"><a href="http://www.sfbg.com/"><img src="/z_logos/sponsors/sf_bay_guardian.png" alt="SF Bay Guardian"></a></div>
@@ -53,18 +55,17 @@
         <!-- <div class="logo logo-3"><a href="http://www.avanthousing.com/"><img src="/z_logos/sponsors/avant_housing.png" alt="Avant Housing"></a></div> -->
         <!-- <div class="logo logo-3"><a href="http://www.charbroil.com/"><img src="/z_logos/sponsors/char_broil.png" alt="Char-Broil"></a></div> -->
         <div class="logo logo-3"><a href="http://www.macys.com/"><img src="/z_logos/sponsors/macys.png" alt="Macy's"></a></div>
-        <div class="logo logo-3"><a href="http://poachedjobs.com/"><img src="/z_logos/sponsors/poached.png" alt="Poached Jobs"></a></div>
+        <!-- <div class="logo logo-3"><a href="http://poachedjobs.com/"><img src="/z_logos/sponsors/poached.png" alt="Poached Jobs"></a></div> -->
         <!-- <div class="logo logo-3"><a href="http://www.goodfoodmerchantsguild.org/"><img src="/z_logos/sponsors/gfmg.png" alt="Good Food Merchants Guild"></a></div> -->
         <!-- <div class="logo logo-3"><a href="http://www.smartcentersanfrancisco.com/"><img src="/z_logos/sponsors/smart_car.png" alt="Smart Car San Francisco"></a></div> -->
         <div class="logo logo-3"><a href="http://www.thegraphicsresource.com/"><img src="/z_logos/sponsors/tgr.png" alt="The Graphics Resource"></a></div>
-        <div class="logo logo-3"><a href="http://www.thebolditalic.com/"><img src="/z_logos/sponsors/the_bold_italic.png" alt="The Bold Italic"></a></div>
+        <!-- <div class="logo logo-3"><a href="http://www.thebolditalic.com/"><img src="/z_logos/sponsors/the_bold_italic.png" alt="The Bold Italic"></a></div> -->
         <!-- <div class="logo logo-3"><a href="http://www.sfexaminer.com/"><img src="/z_logos/sponsors/sf_examiner.png" alt="The San Francisco Examiner"></a></div> -->
         <div class="logo logo-3"><a href="http://www.williams-sonoma.com/"><img src="/z_logos/sponsors/williams_sonoma.png" alt="Williams-Sonoma"></a></div>
         <div class="logo logo-3"><a href="http://www.zipcar.com/"><img src="/z_logos/sponsors/zipcar.png" alt="Zipcar"></a></div>
         <div class="logo logo-3"><a href="http://www.specialtyfood.com/"><img src="/z_logos/sponsors/specialty_food.png" alt="Specialty Food Association"></a></div>
         <div class="logo logo-3"><a href="http://www.square.com/"><img src="/z_logos/sponsors/square.png" alt="Square"></a></div>
         <!-- <div class="logo logo-3"><a href="http://www.sfweekly.com/"><img src="/z_logos/sponsors/sf_weekly.gif" alt="SF Weekly"></a></div> -->
-        <!-- <div class="logo logo-3"><a href="http://petalumapoultry.com/"><img src="/z_logos/sponsors/petaluma_poultry.png" alt="Petaluma Poultry"></a></div> -->
         <!-- <div class="logo logo-3"><a href="http://www.plated.com/"><img src="/z_logos/sponsors/plated.png" alt="Plated"></a></div> -->
         <!-- <div class="logo logo-3"><a href="http://www.tastemade.com/"><img src="/z_logos/sponsors/tastemade.png" alt="Tastemade"></a></div> -->
         <!-- <div class="logo logo-3"><a href="http://giantagency.com/"><img src="/z_logos/sponsors/giant.png" alt="Giant Creative/Strategy, LLC"></a></div> -->
