@@ -31,21 +31,31 @@
 
       <section id="intro">
         <p class="callout"><a href="http://foodandentrepreneurshipconference2014.eventbrite.com/" target="_blank">Buy your tickets today!</a></p>
-
-        <p>Food has the power to build and shape families, communities and cities. Closer to home, here in San Francisco, food entrepreneurs have transformed this city into a boiling pot of deliciousness. But their work has also brought to attention issues that we need to address to make our society more inclusive, sustainable, and equal.  Whether it is a question of improving healthy food access, buying local versus affordability, or the stigmas around the cost of ethnic food, our conference sets out to foster creative discussion about these important issues. We hope you&rsquo;ll join us.</p>
-
-        <p><strong>Conference date:</strong> Sunday, August 17, 10am-6pm</p>
-
-        <p><strong>Location:</strong> <a href="http://www.somarts.org/" target="_blank">SOMArts</a> (<a href="https://www.google.com/maps?q=somarts&sll=30.3077609,-97.75340140000002&sspn=0.4553749008071801,0.7034107808632009&t=m&hq=somarts&radius=15000&z=16" target=_"_blank">934 Brannan St, San Francisco, CA 94103</a>)</p>
-
-        <blockquote>
-          <p>One of the very nicest things about life is the way we must regularly stop whatever it is we are doing and devote our attention to eating.</p>
-          <footer>&mdash; Luciano Pavaroti</footer>
+        
+         <blockquote>
+          <p>La Cocina Food and Entrepreneurship Conference 2014.</p>
+          <p>Bringing Home the Chicharrones: Making it in Food</p>
         </blockquote>
+        
+        <br><p><strong>Conference date:</strong> Sunday, August 17, 10am-6pm</p></br>
+
+        <p><strong>Location:</strong> <a href="http://www.somarts.org/" target="_blank">SOMArts</a> (<a href="https://www.google.com/maps?q=somarts&sll=30.3077609,-97.75340140000002&sspn=0.4553749008071801,0.7034107808632009&t=m&hq=somarts&radius=15000&z=16" target="_blank">934 Brannan St, San Francisco, CA 94103</a>)</p>
 
         <p><strong><a href="http://foodandentrepreneurshipconference2014.eventbrite.com/" target="_blank">Tickets</a>:</strong> $100 ($80 early bird discount through July 15, 2014). This year, thanks to Wells Fargo, the La Cocina Food & Entrepreneurship Conference has several scholarships available. In the spirit of creating an inclusive conference, we are going to be offering scholarships to low-income entrepreneurs and individuals who are not able to afford a full-price ticket, and yet would add a lot to the conversations and debates if they had the opportunity to do so. If you are interested in applying for a scholarship, then please fill out this <a href="https://docs.google.com/forms/d/1YUPW5ocM3fspYPEIkDWrWKhlzP9Si-mqJqdNHN5p1IE/viewform" target="_blank">short form</a> and we'll be in touch with your shortly. Apply before August 8th.<br/>
         <a href="http://foodandentrepreneurshipconference2014.eventbrite.com/" target="_blank">Your ticket</a> will include a full day&rsquo;s menu of conversations, activities and opportunities to meet people who are all working on food and entrepreneurship, as well as breakfast, lunch and happy hour. Our ticket cost is meant to keep this conference accessible but does not fully cover the cost of the event. Donations are appreciated. <a href="http://foodandentrepreneurshipconference2014.eventbrite.com/" target="_blank">Buy your tickets today!</a></p>
-      </section>
+        <p><strong>What is the conference about?</strong></p>
+        <br><p> Here in San Francisco  you are just as likely to find bacon on the table, as you are to find chicharrones or choila.  At the heart of this city’s diverse food culture are the enterprising culinary entrepreneurs from all walks of life.  
+        As local, small-batch, and artisanal foods trends are capturing everyone’s attention, the question remains, can you make it making great food? Since its inception in 2009, La Cocina’s Food & Entrepreneurship conference has looked at how we can best cultivate food entrepreneurs and how that in turn results in thriving and inclusive communities.
+        We hope that you will join us on August 17th for a Sunday Thoughtluck discussing the future of food systems, alongside food entrepreneurs, restaurateurs, city officials, culinary experts, and community organizations from all over the world. 
+        Alongside thoughtful dialog and hands on workshops, there will be an Art+Food Expo, and of course, oodles of eats!</p></br>
+        <br><p> Conference Sneak Peak:</p>
+        <p><i>1. The Value of Ethnic Food:</i> Join <a href="https://www.facebook.com/sanfranciscochronicle" target="_blank">San Francisco Chronicle's</a> Jonathan Kauffman and <a href="https://www.facebook.com/haparamen" target="_blank">Hapa Ramen's</a> Richie Nakano, along with other panelists, in this engaging discussion on paying a fair price for ethnic food.</p>
+        <p><i>2. Making Made in SF Real:</i> SF Planning and <a href="http://www.spur.org/" target="_blank">SPUR</a> will present their finding on what it would take to make San Francisco a hub for food manufacturing, and invite the audience to brainstorm solutions.</p>
+        <p><i>3. Cities + Festival + Foods:</i> A mélange of ethnicities and cultures discussing how they’re using food + food festivals as a tool to bring communities together in their home cities. We’ll have food festival hosts from Brazil, New Zealand, and Sweden!</p>
+        <p><i>4. Packaging + Branding:</i> interactive session with <a href="http://www.ideo.com/" target="_blank">IDEO</a> working on prototyping for food packaging, as well as insight into what makes a strong and successful food brand.</p>
+        <p><i>5. Investment Readiness for Food Businesses:</i> An interactive workshop hosted by Friday Consulting will talk about investment readiness and help producers work on their personal pitches.</p></br>
+        <br><p>Our newest addition this year is the Art + Food Expo, which will be running alongside the lunch break; it will be a chance for the conference attendees to interact with ideas around food and city spaces through art and activities. We will have <a href="http://www.madelenefarin.com/" target="_blank">Madelene Farin</a> with her Foodscapes exhibition, <a href="http://www.nomadgardens.org/" target="_blank">Nomad Gardens</a> holding a fun, hands-on activity, Eat Bugs! by <a href="http://www.donbugito.com/" target="_blank">Don Bugito</a>, amongst others!</p> 
+        <p>And, it wouldn’t be a La Cocina event without fantastic food now would it? We will have “Around the World in a Lunchbox” presented by <a href="http://andapiroshki.com/" target="_blank">Anda Piroshki</a>, <a href="http://www.ejisethiopian.com/" target="_blank">Eji’s Ethiopian</a>, <a href="http://www.saldevidagourmet.com/" target="_blank">Sal De Vida</a>, and <a href="http://www.aedansf.com/" target="_blank">Aedan Fermented Foods</a>. We will also be serving breakfast, have enough caffeine to power you through a Sunday Conference, an ice cream social (why not?), and a happy hour to wrap things up.</p></br></section>
 
       <!--
       <section id="brunch">
