@@ -43,7 +43,7 @@
       </section>
       
       <section id="location_and_directions">
-        <h1>LOCATION/DIRECTIONS</h1>
+        <h1>Location/directions</h1>
 
         <a class="side_img right" href="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=2948+folsom+san+francisco&sll=37.0625,-95.677068&sspn=19.588751,56.513672&ie=UTF8&hq=&hnear=2948+Folsom+St,+San+Francisco,+California+94110&ll=37.755821,-122.413874&spn=0.0095,0.027595&z=15&iwloc=A"><img src="images/location_map.png" width="" height="" alt="map" /></a>
         

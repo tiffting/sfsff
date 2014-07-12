@@ -96,8 +96,8 @@ hr{height:1px; border:none; border-top:1px solid #000; margin:20px 0; }
 .kraft h1 {font-family: "chunk-1","league-gothic-1","league-gothic-2"; font-size: 34px; margin: 0 0 15px;}
 .kraft h2 {font-size: 14px; margin: 0 0 15px; text-transform: uppercase; width: 75%;}
 .kraft p {margin: 0 0 15px; line-height: 1.3em; width: 75%;}
-.kraft section {display: block; padding-top: 35px;}
-.kraft section:first-of-type {padding-top: 0;}
+.kraft section {border-top: 1px solid rgb(0, 0, 0, 0.3); display: block; padding-top: 35px;}
+.kraft section:first-child {border-top: 0; padding-top: 0;}
 .kraft section img.mood_img{width:300px; float:left; margin-right:10px; margin-bottom:10px;}
 .kraft section#frequently_asked_questions h2{clear:both;}
 
