@@ -3,13 +3,6 @@
   require 'inc/top.inc.php';
 ?>
   <section class="kraft">
-      <style type="text/css" media="screen">
-        table {width: 100%;}
-        table tr td {text-align: center; padding-top: 20px;}
-        table tr:first-child td {padding-top: 0;}
-        table th {text-align: left; vertical-align: top;}
-      </style>
-
     <div class="extra_menu paper">
       <h3>Tickets</h3>
       <p>Tickets to the conference are available. <a href="http://foodandentrepreneurshipconference2014.eventbrite.com/">Buy yours</a> before July 15 for the early bird discount!</p>
@@ -30,11 +23,15 @@
 
         <p><strong><a href="http://foodandentrepreneurshipconference2014.eventbrite.com/">Tickets</a>:</strong> $100 ($80 early bird discount through July 15, 2014). This year, thanks to Wells Fargo, the La Cocina Food &amp; Entrepreneurship Conference has several scholarships available. In the spirit of creating an inclusive conference, we are going to be offering scholarships to low-income entrepreneurs and individuals who are not able to afford a full-price ticket, and yet would add a lot to the conversations and debates if they had the opportunity to do so. If you are interested in applying for a scholarship, then please fill out this <a href="https://docs.google.com/forms/d/1YUPW5ocM3fspYPEIkDWrWKhlzP9Si-mqJqdNHN5p1IE/viewform">short form</a> and we'll be in touch with your shortly. Apply before August 8th.</p>
         <p><a href="http://foodandentrepreneurshipconference2014.eventbrite.com/">Your ticket</a> will include a full day&rsquo;s menu of conversations, activities and opportunities to meet people who are all working on food and entrepreneurship, as well as breakfast, lunch and happy hour. Our ticket cost is meant to keep this conference accessible but does not fully cover the cost of the event. Donations are appreciated. <a href="http://foodandentrepreneurshipconference2014.eventbrite.com/">Buy your tickets today!</a></p>
+      </section>
 
+      <section id="overview">
         <h1>What is the conference about?</h1>
         <p>Here in San Francisco, you are just as likely to find bacon on the table, as you are to find chicharrones or choila. At the heart of this city&rsquo;s diverse food culture are the enterprising culinary entrepreneurs from all walks of life. As local, small-batch, and artisanal foods trends are capturing everyone&rsquo;s attention, the question remains, can you make it making great food? Since its inception in 2009, La Cocina&rsquo;s Food &amp; Entrepreneurship conference has looked at how we can best cultivate food entrepreneurs and how that in turn results in thriving and inclusive communities. We hope that you will join us on August 17th for a Sunday Thoughtluck discussing the future of food systems, alongside food entrepreneurs, restaurateurs, city officials, culinary experts, and community organizations from all over the world. 
         Alongside thoughtful dialog and hands on workshops, there will be an Art+Food Expo, and of course, oodles of eats!</p>
-        
+      </section>
+
+      <section id="details">
         <h1>Conference sneak peek</h1>
         <ol>
           <li><em>The Value of Ethnic Food:</em> Join <a href="https://www.facebook.com/sanfranciscochronicle">San Francisco Chronicle&rsquo;s</a> Jonathan Kauffman and <a href="https://www.facebook.com/haparamen">Hapa Ramen&rsquo;s</a> Richie Nakano, along with other panelists, in this engaging discussion on paying a fair price for ethnic food.</li>

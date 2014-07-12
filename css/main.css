@@ -90,19 +90,20 @@ hr{height:1px; border:none; border-top:1px solid #000; margin:20px 0; }
 #wrap > header #streetfood_header{}
 #wrap > header #streetfood_header:hover{background-position:-131px -93px;}
 
-.kraft{position:relative; background-color:#A77D55; background-image:url(../images/kraft.jpg); -webkit-box-shadow:0 2px 3px rgba(0,0,0,.5); -moz-box-shadow:0 2px 3px rgba(0,0,0,.5); box-shadow:0 2px 3px rgba(0,0,0,.5);}
+.kraft {position:relative; background-color:#A77D55; background-image:url(../images/kraft.jpg); -webkit-box-shadow:0 2px 3px rgba(0,0,0,.5); -moz-box-shadow:0 2px 3px rgba(0,0,0,.5); box-shadow:0 2px 3px rgba(0,0,0,.5);}
 .kraft .inner {padding: 20px;}
 .kraft.blue {background-image: url(../images/blue_kraft.jpg);}
 .kraft h1 {font-family: "chunk-1","league-gothic-1","league-gothic-2"; font-size: 34px; margin: 0 0 15px;}
 .kraft h2 {font-size: 14px; margin: 0 0 15px; text-transform: uppercase; width: 75%;}
 .kraft p {margin: 0 0 15px; line-height: 1.3em; width: 75%;}
-.kraft section {border-top: 1px solid rgb(0, 0, 0, 0.3); display: block; padding-top: 35px;}
-.kraft section:first-child {border-top: 0; padding-top: 0;}
+.kraft section {border-bottom: 1px solid rgba(0, 0, 0, 0.3); display: block; margin-bottom: 2rem; padding-bottom: 1rem;}
+.kraft section:last-of-type {border-bottom: 0; margin-bottom: 0; padding-bottom: 0;}
 .kraft section img.mood_img{width:300px; float:left; margin-right:10px; margin-bottom:10px;}
 .kraft section#frequently_asked_questions h2{clear:both;}
 
 ul.text {margin: 0 0 20px; list-style-type: disc; padding: 0 0 0 15px;}
 ul.text li {margin: 0 0 5px;}
+.kraft .navigation.pagenav {border-bottom: 1px solid rgba(0, 0, 0, 0.3); margin-bottom: 1rem;}
 .kraft .navigation.pagenav ul {margin-top: 0; overflow: hidden; padding: 0;}
 .kraft .navigation.pagenav ul li a {color:#fff; opacity:.8; font-family: "league-gothic-1","league-gothic-2"; font-size:22px; float:left; margin-left:35px;}
 .kraft .navigation.pagenav ul li:first-child a{margin-left:0;}
@@ -298,7 +299,6 @@ div.menu_item, .menu_item dt {font-style: italic;}
   font-weight: bold;
 }
 
-.sponsor-logos {margin-top: 20px; border-top: 1px solid #000; padding-top: 20px;}
 .sponsor-logos .logo {float: left; text-align: center;}
 .sponsor-logos .logo-1 {width: 100%;}
 .sponsor-logos .logo-2 {width: 50%;}
