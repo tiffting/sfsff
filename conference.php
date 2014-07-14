@@ -12,10 +12,10 @@
       <section id="intro">
         <p class="callout"><a href="http://foodandentrepreneurshipconference2014.eventbrite.com/">Buy your tickets today!</a></p>
         
-         <blockquote>
-          <p>La Cocina Food and Entrepreneurship Conference 2014.</p>
-          <p>Bringing Home the Chicharrones: Making it in Food</p>
-        </blockquote>
+         <br>
+          <p><strong>La Cocina Food and Entrepreneurship Conference 2014.</p>
+          <p><i>Bringing Home the Chicharrones: Making it in Food</i></strong></p>
+        </br>
         
         <p><strong>Conference date:</strong> Sunday, August 17, 10am-6pm</p>
 
@@ -45,7 +45,160 @@
 
         <p>And, it wouldn&rsquo;t be a La Cocina event without fantastic food now would it? We will have &ldquo;Around the World in a Lunchbox&rdquo; presented by <a href="http://andapiroshki.com/">Anda Piroshki</a>, <a href="http://www.ejisethiopian.com/">Eji&rsquo;s Ethiopian</a>, <a href="http://www.saldevidagourmet.com/">Sal De Vida</a>, and <a href="http://www.aedansf.com/">Aedan Fermented Foods</a>. We will also be serving breakfast, have enough caffeine to power you through a Sunday Conference, an ice cream social (why not?), and a happy hour to wrap things up.</p>
       </section>
-
+      
+      <section id="schedule">
+      <h1>Conference Schedule*</h1>
+      <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg .tg-oxu2{background-color:#4d0050}
+.tg .tg-lsnz{font-weight:bold;background-color:#4d0050;color:#ffffff}
+.tg .tg-vj6a{background-color:#4d0050;color:#ffffff}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 1027px">
+<colgroup>
+<col style="width: 115px">
+<col style="width: 333px">
+<col style="width: 284px">
+<col style="width: 295px">
+</colgroup>
+  <tr>
+    <th class="tg-lsnz">09:30-10:00</th>
+    <th class="tg-lsnz">Registration &amp; Breakfast</th>
+    <th class="tg-oxu2"></th>
+    <th class="tg-oxu2"></th>
+  </tr>
+  <tr>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+  </tr>
+  <tr>
+    <td class="tg-lsnz">10:00-11:00</td>
+    <td class="tg-lsnz">Welcome</td>
+    <td class="tg-vj6a"></td>
+    <td class="tg-vj6a"></td>
+  </tr>
+  <tr>
+    <td class="tg-031e"></td>
+    <td class="tg-031e">A Day in the Life of a Food Entrepreneur</td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+  </tr>
+  <tr>
+    <td class="tg-031e"></td>
+    <td class="tg-031e">Barriers to Food Entrepreneurship in San Francisco</td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+  </tr>
+  <tr>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+  </tr>
+  <tr>
+    <td class="tg-lsnz">11:15-12:30</td>
+    <td class="tg-lsnz">LEARN</td>
+    <td class="tg-lsnz">DO</td>
+    <td class="tg-lsnz">DISCUSS</td>
+  </tr>
+  <tr>
+    <td class="tg-031e"></td>
+    <td class="tg-031e">Financing to Scale a Food Business</td>
+    <td class="tg-031e">Making it Local: Solutions for San Francisco</td>
+    <td class="tg-031e">The Future of How We Will Buy Food</td>
+  </tr>
+  <tr>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+  </tr>
+  <tr>
+    <td class="tg-lsnz">12:30-14:00</td>
+    <td class="tg-lsnz">Lunch with Food + Art Expo</td>
+    <td class="tg-vj6a"></td>
+    <td class="tg-vj6a"></td>
+  </tr>
+  <tr>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+  </tr>
+  <tr>
+    <td class="tg-lsnz">14:15-15:30</td>
+    <td class="tg-lsnz">LEARN</td>
+    <td class="tg-lsnz">DO</td>
+    <td class="tg-lsnz">DISCUSS</td>
+  </tr>
+  <tr>
+    <td class="tg-031e"></td>
+    <td class="tg-031e">Is Ethnic Food Undervalued?</td>
+    <td class="tg-031e">Getting Ready for Investment</td>
+    <td class="tg-031e">Navigating Ways People Eat</td>
+  </tr>
+  <tr>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e">Brand and Product Prototyping</td>
+    <td class="tg-031e"></td>
+  </tr>
+  <tr>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+  </tr>
+  <tr>
+    <td class="tg-lsnz">15:30-16:00</td>
+    <td class="tg-lsnz">Coffee Break</td>
+    <td class="tg-vj6a"></td>
+    <td class="tg-vj6a"></td>
+  </tr>
+  <tr>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+  </tr>
+  <tr>
+    <td class="tg-lsnz">16:15-17:30</td>
+    <td class="tg-lsnz">LEARN</td>
+    <td class="tg-lsnz">DO</td>
+    <td class="tg-lsnz">DISCUSS</td>
+  </tr>
+  <tr>
+    <td class="tg-031e"></td>
+    <td class="tg-031e">Real Estate Development for Small Business Retail</td>
+    <td class="tg-031e">Staying on the Shelves</td>
+    <td class="tg-031e">How Festivals and Food Culture Shape Cities</td>
+  </tr>
+  <tr>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e">Getting Customers in the Door</td>
+    <td class="tg-031e"></td>
+  </tr>
+  <tr>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+  </tr>
+  <tr>
+    <td class="tg-lsnz">17:30-18:30</td>
+    <td class="tg-lsnz">Specialty Food Association Happy Hour</td>
+    <td class="tg-vj6a"></td>
+    <td class="tg-vj6a"></td>
+  </tr>
+</table>
+<p><i> *This is a preliminary schedule for the Conference and is subject to change</i></p></section>
+      
+      
       <section id="sponsors">
         <div class="sponsor-logos clear">
           <h1>Thank you to our generous sponsors</h1>
