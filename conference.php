@@ -205,6 +205,7 @@
 
           <div class="logo logo-3"><a href="http://www.liifund.org/"><img src="/z_logos/sponsors/liif.png" alt="Low Income Investment Fund"/></a></div>
           <div class="logo logo-3"><a href="http://www.wellsfargo.com/"><img src="/z_logos/sponsors/wells.png" alt="Wells Fargo"/></a></div>
+          <div class="logo logo-3"><a href="http://www.sfbar.org/lawyerreferrals/index.aspx"><img src="/z_logos/sponsors/LRISl_logoBW.png" alt="LRIS"/></a></div>
           <!-- <div class="logo logo-3"><a href="http://teamproevent.com/"><img src="/z_logos/sponsors/proevent.png" alt="Team Pro Event"/></a></div> -->
           <!-- <div class="logo logo-3"><a href="http://purityorganic.com/"><img src="/z_logos/sponsors/purity.png" alt="Purity Organic"/></a></div> -->
           <!-- <div class="logo logo-3"><a href="https://www.sfcooking.com/"><img src="/z_logos/sponsors/san_francisco_cooking_school.png" alt="San Francisco Cooking School"/></a></div> -->
