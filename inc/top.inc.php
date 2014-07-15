@@ -3,7 +3,7 @@
 <html>
   <head>
     <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
-    <meta name="description" content="La Cocina Presents the 5th Annual San Francisco Street Food Festival, August 17 11am-7pm" />
+    <meta name="description" content="La Cocina Presents the 6th Annual San Francisco Street Food Festival, August 16 11am-7pm" />
     <title>San Francisco Street Food Festival<?php if(!empty($page_title)){ echo " - $page_title";}  ?></title>
     <script type="text/javascript" src="http://use.typekit.com/lyx5lil.js"></script>
     <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
