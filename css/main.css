@@ -310,6 +310,8 @@ div.menu_item, .menu_item dt {font-style: italic;}
 /*conference*/
 #conference .kraft p {width: auto;}
 #conference #intro {width: 75%;}
+#schedule table {border-collapse: collapse;}
+#schedule table td {padding: 0.5%;}
 #schedule .primary {background-color: #4d0050; color: #fff;}
 #schedule .time {width: 19%;}
 #schedule .header {text-transform: uppercase;}
