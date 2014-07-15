@@ -310,6 +310,12 @@ div.menu_item, .menu_item dt {font-style: italic;}
 /*conference*/
 #conference .kraft p {width: auto;}
 #conference #intro {width: 75%;}
+.tg  {border-collapse: collapse; border-spacing: 0;}
+.tg th,
+.tg td {border-style: solid; border-width: 1px; font-family: Arial, sans-serif; font-size: 14px; font-weight: normal; padding: 10px 5px; overflow:hidden; word-break: normal;}
+.tg .tg-oxu2 {background-color: #4d0050;}
+.tg .tg-lsnz {font-weight: bold; background-color: #4d0050; color:#fff;}
+.tg .tg-vj6a {background-color: #4d0050; color:#fff;}
 
 
 

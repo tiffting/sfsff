@@ -12,16 +12,14 @@
       <section id="intro">
         <p class="callout"><a href="http://foodandentrepreneurshipconference2014.eventbrite.com/">Buy your tickets today!</a></p>
         
-         <br>
-          <p><strong>La Cocina Food and Entrepreneurship Conference 2014.</p>
-          <p><i>Bringing Home the Chicharrones: Making it in Food</i></strong></p>
-        </br>
+        <h1>La Cocina Food and Entrepreneurship Conference 2014.</h1>
+        <h2>Bringing Home the Chicharrones: Making it in Food</h2>
         
         <p><strong>Conference date:</strong> Sunday, August 17, 10am-6pm</p>
 
         <p><strong>Location:</strong> <a href="http://www.somarts.org/">SOMArts</a> (<a href="https://www.google.com/maps?q=somarts&sll=30.3077609,-97.75340140000002&sspn=0.4553749008071801,0.7034107808632009&t=m&hq=somarts&radius=15000&z=16">934 Brannan St, San Francisco, CA 94103</a>)</p>
 
-        <p><strong><a href="http://foodandentrepreneurshipconference2014.eventbrite.com/">Tickets</a>:</strong> $100 ($80 early bird discount through July 15, 2014). This year, thanks to Wells Fargo, the La Cocina Food &amp; Entrepreneurship Conference has several scholarships available. In the spirit of creating an inclusive conference, we are going to be offering scholarships to low-income entrepreneurs and individuals who are not able to afford a full-price ticket, and yet would add a lot to the conversations and debates if they had the opportunity to do so. If you are interested in applying for a scholarship, then please fill out this <a href="https://docs.google.com/forms/d/1YUPW5ocM3fspYPEIkDWrWKhlzP9Si-mqJqdNHN5p1IE/viewform">short form</a> and we'll be in touch with your shortly. Apply before August 8th.</p>
+        <p><strong><a href="http://foodandentrepreneurshipconference2014.eventbrite.com/">Tickets</a>:</strong> $100 ($80 early bird discount through July 15, 2014). This year, thanks to Wells Fargo, the La Cocina Food &amp; Entrepreneurship Conference has several scholarships available. In the spirit of creating an inclusive conference, we are going to be offering scholarships to low-income entrepreneurs and individuals who are not able to afford a full-price ticket, and yet would add a lot to the conversations and debates if they had the opportunity to do so. If you are interested in applying for a scholarship, then please fill out this <a href="https://docs.google.com/forms/d/1YUPW5ocM3fspYPEIkDWrWKhlzP9Si-mqJqdNHN5p1IE/viewform">short form</a> and we&rsquo;ll be in touch with your shortly. Apply before August 8th.</p>
         <p><a href="http://foodandentrepreneurshipconference2014.eventbrite.com/">Your ticket</a> will include a full day&rsquo;s menu of conversations, activities and opportunities to meet people who are all working on food and entrepreneurship, as well as breakfast, lunch and happy hour. Our ticket cost is meant to keep this conference accessible but does not fully cover the cost of the event. Donations are appreciated. <a href="http://foodandentrepreneurshipconference2014.eventbrite.com/">Buy your tickets today!</a></p>
       </section>
 
@@ -47,158 +45,150 @@
       </section>
       
       <section id="schedule">
-      <h1>Conference Schedule*</h1>
-      <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg .tg-oxu2{background-color:#4d0050}
-.tg .tg-lsnz{font-weight:bold;background-color:#4d0050;color:#ffffff}
-.tg .tg-vj6a{background-color:#4d0050;color:#ffffff}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 1027px">
-<colgroup>
-<col style="width: 115px">
-<col style="width: 333px">
-<col style="width: 284px">
-<col style="width: 295px">
-</colgroup>
-  <tr>
-    <th class="tg-lsnz">09:30-10:00</th>
-    <th class="tg-lsnz">Registration &amp; Breakfast</th>
-    <th class="tg-oxu2"></th>
-    <th class="tg-oxu2"></th>
-  </tr>
-  <tr>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-  </tr>
-  <tr>
-    <td class="tg-lsnz">10:00-11:00</td>
-    <td class="tg-lsnz">Welcome</td>
-    <td class="tg-vj6a"></td>
-    <td class="tg-vj6a"></td>
-  </tr>
-  <tr>
-    <td class="tg-031e"></td>
-    <td class="tg-031e">A Day in the Life of a Food Entrepreneur</td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-  </tr>
-  <tr>
-    <td class="tg-031e"></td>
-    <td class="tg-031e">Barriers to Food Entrepreneurship in San Francisco</td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-  </tr>
-  <tr>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-  </tr>
-  <tr>
-    <td class="tg-lsnz">11:15-12:30</td>
-    <td class="tg-lsnz">LEARN</td>
-    <td class="tg-lsnz">DO</td>
-    <td class="tg-lsnz">DISCUSS</td>
-  </tr>
-  <tr>
-    <td class="tg-031e"></td>
-    <td class="tg-031e">Financing to Scale a Food Business</td>
-    <td class="tg-031e">Making it Local: Solutions for San Francisco</td>
-    <td class="tg-031e">The Future of How We Will Buy Food</td>
-  </tr>
-  <tr>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-  </tr>
-  <tr>
-    <td class="tg-lsnz">12:30-14:00</td>
-    <td class="tg-lsnz">Lunch with Food + Art Expo</td>
-    <td class="tg-vj6a"></td>
-    <td class="tg-vj6a"></td>
-  </tr>
-  <tr>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-  </tr>
-  <tr>
-    <td class="tg-lsnz">14:15-15:30</td>
-    <td class="tg-lsnz">LEARN</td>
-    <td class="tg-lsnz">DO</td>
-    <td class="tg-lsnz">DISCUSS</td>
-  </tr>
-  <tr>
-    <td class="tg-031e"></td>
-    <td class="tg-031e">Is Ethnic Food Undervalued?</td>
-    <td class="tg-031e">Getting Ready for Investment</td>
-    <td class="tg-031e">Navigating Ways People Eat</td>
-  </tr>
-  <tr>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e">Brand and Product Prototyping</td>
-    <td class="tg-031e"></td>
-  </tr>
-  <tr>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-  </tr>
-  <tr>
-    <td class="tg-lsnz">15:30-16:00</td>
-    <td class="tg-lsnz">Coffee Break</td>
-    <td class="tg-vj6a"></td>
-    <td class="tg-vj6a"></td>
-  </tr>
-  <tr>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-  </tr>
-  <tr>
-    <td class="tg-lsnz">16:15-17:30</td>
-    <td class="tg-lsnz">LEARN</td>
-    <td class="tg-lsnz">DO</td>
-    <td class="tg-lsnz">DISCUSS</td>
-  </tr>
-  <tr>
-    <td class="tg-031e"></td>
-    <td class="tg-031e">Real Estate Development for Small Business Retail</td>
-    <td class="tg-031e">Staying on the Shelves</td>
-    <td class="tg-031e">How Festivals and Food Culture Shape Cities</td>
-  </tr>
-  <tr>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e">Getting Customers in the Door</td>
-    <td class="tg-031e"></td>
-  </tr>
-  <tr>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-  </tr>
-  <tr>
-    <td class="tg-lsnz">17:30-18:30</td>
-    <td class="tg-lsnz">Specialty Food Association Happy Hour</td>
-    <td class="tg-vj6a"></td>
-    <td class="tg-vj6a"></td>
-  </tr>
-</table>
-<p><i> *This is a preliminary schedule for the Conference and is subject to change</i></p></section>
-      
-      
+        <h1>Conference Schedule*</h1>
+        <table class="tg" style="table-layout: fixed; width: 1027px;">
+          <colgroup>
+            <col style="width: 115px">
+            <col style="width: 333px">
+            <col style="width: 284px">
+            <col style="width: 295px">
+          </colgroup>
+          <tr>
+            <th class="tg-lsnz">09:30-10:00</th>
+            <th class="tg-lsnz">Registration &amp; Breakfast</th>
+            <th class="tg-oxu2"></th>
+            <th class="tg-oxu2"></th>
+          </tr>
+          <tr>
+            <td class="tg-031e"></td>
+            <td class="tg-031e"></td>
+            <td class="tg-031e"></td>
+            <td class="tg-031e"></td>
+          </tr>
+          <tr>
+            <td class="tg-lsnz">10:00-11:00</td>
+            <td class="tg-lsnz">Welcome</td>
+            <td class="tg-vj6a"></td>
+            <td class="tg-vj6a"></td>
+          </tr>
+          <tr>
+            <td class="tg-031e"></td>
+            <td class="tg-031e">A Day in the Life of a Food Entrepreneur</td>
+            <td class="tg-031e"></td>
+            <td class="tg-031e"></td>
+          </tr>
+          <tr>
+            <td class="tg-031e"></td>
+            <td class="tg-031e">Barriers to Food Entrepreneurship in San Francisco</td>
+            <td class="tg-031e"></td>
+            <td class="tg-031e"></td>
+          </tr>
+          <tr>
+            <td class="tg-031e"></td>
+            <td class="tg-031e"></td>
+            <td class="tg-031e"></td>
+            <td class="tg-031e"></td>
+          </tr>
+          <tr>
+            <td class="tg-lsnz">11:15-12:30</td>
+            <td class="tg-lsnz">LEARN</td>
+            <td class="tg-lsnz">DO</td>
+            <td class="tg-lsnz">DISCUSS</td>
+          </tr>
+          <tr>
+            <td class="tg-031e"></td>
+            <td class="tg-031e">Financing to Scale a Food Business</td>
+            <td class="tg-031e">Making it Local: Solutions for San Francisco</td>
+            <td class="tg-031e">The Future of How We Will Buy Food</td>
+          </tr>
+          <tr>
+            <td class="tg-031e"></td>
+            <td class="tg-031e"></td>
+            <td class="tg-031e"></td>
+            <td class="tg-031e"></td>
+          </tr>
+          <tr>
+            <td class="tg-lsnz">12:30-14:00</td>
+            <td class="tg-lsnz">Lunch with Food + Art Expo</td>
+            <td class="tg-vj6a"></td>
+            <td class="tg-vj6a"></td>
+          </tr>
+          <tr>
+            <td class="tg-031e"></td>
+            <td class="tg-031e"></td>
+            <td class="tg-031e"></td>
+            <td class="tg-031e"></td>
+          </tr>
+          <tr>
+            <td class="tg-lsnz">14:15-15:30</td>
+            <td class="tg-lsnz">LEARN</td>
+            <td class="tg-lsnz">DO</td>
+            <td class="tg-lsnz">DISCUSS</td>
+          </tr>
+          <tr>
+            <td class="tg-031e"></td>
+            <td class="tg-031e">Is Ethnic Food Undervalued?</td>
+            <td class="tg-031e">Getting Ready for Investment</td>
+            <td class="tg-031e">Navigating Ways People Eat</td>
+          </tr>
+          <tr>
+            <td class="tg-031e"></td>
+            <td class="tg-031e"></td>
+            <td class="tg-031e">Brand and Product Prototyping</td>
+            <td class="tg-031e"></td>
+          </tr>
+          <tr>
+            <td class="tg-031e"></td>
+            <td class="tg-031e"></td>
+            <td class="tg-031e"></td>
+            <td class="tg-031e"></td>
+          </tr>
+          <tr>
+            <td class="tg-lsnz">15:30-16:00</td>
+            <td class="tg-lsnz">Coffee Break</td>
+            <td class="tg-vj6a"></td>
+            <td class="tg-vj6a"></td>
+          </tr>
+          <tr>
+            <td class="tg-031e"></td>
+            <td class="tg-031e"></td>
+            <td class="tg-031e"></td>
+            <td class="tg-031e"></td>
+          </tr>
+          <tr>
+            <td class="tg-lsnz">16:15-17:30</td>
+            <td class="tg-lsnz">LEARN</td>
+            <td class="tg-lsnz">DO</td>
+            <td class="tg-lsnz">DISCUSS</td>
+          </tr>
+          <tr>
+            <td class="tg-031e"></td>
+            <td class="tg-031e">Real Estate Development for Small Business Retail</td>
+            <td class="tg-031e">Staying on the Shelves</td>
+            <td class="tg-031e">How Festivals and Food Culture Shape Cities</td>
+          </tr>
+          <tr>
+            <td class="tg-031e"></td>
+            <td class="tg-031e"></td>
+            <td class="tg-031e">Getting Customers in the Door</td>
+            <td class="tg-031e"></td>
+          </tr>
+          <tr>
+            <td class="tg-031e"></td>
+            <td class="tg-031e"></td>
+            <td class="tg-031e"></td>
+            <td class="tg-031e"></td>
+          </tr>
+          <tr>
+            <td class="tg-lsnz">17:30-18:30</td>
+            <td class="tg-lsnz">Specialty Food Association Happy Hour</td>
+            <td class="tg-vj6a"></td>
+            <td class="tg-vj6a"></td>
+          </tr>
+        </table>
+        <p><i>* This is a preliminary schedule for the conference and is subject to change</i></p>
+      </section>
+
       <section id="sponsors">
         <div class="sponsor-logos clear">
           <h1>Thank you to our generous sponsors</h1>
