@@ -5,7 +5,7 @@
   <section class="kraft">
     <div class="extra_menu paper">
       <h3>Tickets</h3>
-      <p>Tickets to the conference are available. <a href="http://foodandentrepreneurshipconference2014.eventbrite.com/">Buy yours</a> before July 15 for the early bird discount!</p>
+      <p>Tickets to the conference are available. <a href="http://foodandentrepreneurshipconference2014.eventbrite.com/">Buy yours today</a></p>
     </div>
 
     <div class="inner">
@@ -19,7 +19,7 @@
 
         <p><strong>Location:</strong> <a href="http://www.somarts.org/">SOMArts</a> (<a href="https://www.google.com/maps?q=somarts&sll=30.3077609,-97.75340140000002&sspn=0.4553749008071801,0.7034107808632009&t=m&hq=somarts&radius=15000&z=16">934 Brannan St, San Francisco, CA 94103</a>)</p>
 
-        <p><strong><a href="http://foodandentrepreneurshipconference2014.eventbrite.com/">Tickets</a>:</strong> $100 ($80 early bird discount through July 15, 2014). This year, thanks to Wells Fargo, the La Cocina Food &amp; Entrepreneurship Conference has several scholarships available. In the spirit of creating an inclusive conference, we are going to be offering scholarships to low-income entrepreneurs and individuals who are not able to afford a full-price ticket, and yet would add a lot to the conversations and debates if they had the opportunity to do so. If you are interested in applying for a scholarship, then please fill out this <a href="https://docs.google.com/forms/d/1YUPW5ocM3fspYPEIkDWrWKhlzP9Si-mqJqdNHN5p1IE/viewform">short form</a> and we&rsquo;ll be in touch with your shortly. Apply before August 8th.</p>
+        <p><strong><a href="http://foodandentrepreneurshipconference2014.eventbrite.com/">Tickets</a>:</strong> Priced at $100. This year, thanks to Wells Fargo, the La Cocina Food &amp; Entrepreneurship Conference has several scholarships available. In the spirit of creating an inclusive conference, we are going to be offering scholarships to low-income entrepreneurs and individuals who are not able to afford a full-price ticket, and yet would add a lot to the conversations and debates if they had the opportunity to do so. If you are interested in applying for a scholarship, then please fill out this <a href="https://docs.google.com/forms/d/1YUPW5ocM3fspYPEIkDWrWKhlzP9Si-mqJqdNHN5p1IE/viewform">short form</a> and we&rsquo;ll be in touch with your shortly. Apply before August 8th.</p>
         <p><a href="http://foodandentrepreneurshipconference2014.eventbrite.com/">Your ticket</a> will include a full day&rsquo;s menu of conversations, activities and opportunities to meet people who are all working on food and entrepreneurship, as well as breakfast, lunch and happy hour. Our ticket cost is meant to keep this conference accessible but does not fully cover the cost of the event. Donations are appreciated. <a href="http://foodandentrepreneurshipconference2014.eventbrite.com/">Buy your tickets today!</a></p>
       </section>
 
