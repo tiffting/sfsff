@@ -38,7 +38,7 @@
       
       <table>
         <tr>
-          <td><a href="http://wellsfargo.com"><img src="images/sponsors/wells.png" alt="Wells Fargo" /></a></td>
+          <td><a href="http://wellsfargo.com"><img src="/z_logos/sponsors/wells_fargo.png" alt="Wells Fargo" /></a></td>
           <td><a href="http://ryeontheroad.com"><img src="images/sponsors/rye_on_the_road.png" alt="Rye On The Road" /></a></td>
           <td></td>
         </tr>
