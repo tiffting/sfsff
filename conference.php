@@ -160,7 +160,7 @@
           <div class="logo logo-3"><a href="http://www.wellsfargo.com/"><img src="/z_logos/wells_fargo.png" alt="Wells Fargo"/></a></div>
           <div class="logo logo-3"><a href="http://www.fhlbanks.com/contacts_mpi_sanfrancisco.htm"><img src="/z_logos/fhl_bank.png" alt="FHLBank San Francisco"/></a></div>
           <div class="logo logo-3"><a href="http://www.sfbar.org/lawyerreferrals/index.aspx"><img src="/z_logos/sf_bar_referral.png" alt="SF Bar LRIS"/></a></div>
-          <div class="logo logo-3"><a href="http://tandem-made.com/"><img src="z_logos/sponsors/tandem-made.png" alt="Tandem"/></a></div>
+          <div class="logo logo-3"><a href="http://tandem-made.com/"><img src="z_logos/sponsors/tandem_made.png" alt="Tandem"/></a></div>
           <div class="logo logo-3"><a href="http://www.madelenefarin.com/"><img src="z_logos/sponsors/madelene_farin.png" alt="Madelene Farin"/></a></div>
           <div class="logo logo-3"><a href="http://www.aedansf.com/"><img src="z_logos/vendors/aedan.png" alt="Aedan Fermented Foods"/></a></div>
           <div class="logo logo-3"><a href="http://andapiroshki.com/"><img src="z_logos/vendors/anda_piroshki.png" alt="Anda Piroshki"/></a></div>

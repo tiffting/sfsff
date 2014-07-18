@@ -59,7 +59,7 @@
         </tr>
         <tr>
           <td><a href="http://www.cupcakevineyards.com/"><img src="/z_logos/cupcake_vineyards.png" alt="Cupcake Vineyards"></a></td>
-          <td><a href="http://offthegridsf.com/"><img src="/z_logos/off_the_grid_round.png" alt="Off the Grid"></a></td>
+          <td><a href="http://offthegridsf.com/"><img src="/z_logos/off_the_grid.png" alt="Off the Grid"></a></td>
           <td><a href="http://cater2.me/"><img src="/z_logos/cater2me.png" alt="Cater2.me"></a></td>
         </tr>
         <tr>

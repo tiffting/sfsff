@@ -101,7 +101,7 @@
         <p>
 The event is free, but is a fundraiser for La Cocina, so donations are encouraged at the door for those that are able to give.</p> 
 <p>
-All festival proceeds benefit La Cocina’s business incubator program. Food vendors will only be accepting cash or pre-purchased passport tickets.
+All festival proceeds benefit La Cocina&rsquo;s business incubator program. Food vendors will only be accepting cash or pre-purchased passport tickets.
         </p>
 
         <h2 id="interested_in_participating">I&rsquo;m a food vendor and interested in participating in the festival whom do I get in touch with?</h2>

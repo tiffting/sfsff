@@ -346,7 +346,7 @@ Jelly Fish Salad</div>
       </li>
     
       <li id="night_market_bone__gristle_boys">
-        <img class="logo" src="/z_logos/bone__gristle_boys.png" alt="Bone & Gristle Boys">
+        <img class="logo" src="/z_logos/bone_gristle_boys.png" alt="Bone &amp; Gristle Boys">
         <div class="payload">
           <div class="inner">
             <h1><a href="">Bone &amp; Gristle Boys</a></h1>

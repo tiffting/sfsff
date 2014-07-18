@@ -33,7 +33,7 @@
           <div class="menu_item">Big Bite Item: Chicken and Sausage Jambalaya
 Small Bite Item: Cajun Boiled Peanuts
 Drink: Sweet Tea</div>
-          <p>Justin Simoneaux’s cooking is influenced by the Cajun and Creole dishes of New Orleans and coastal Louisiana. He couples traditional techniques and recipes with seasonal Northern California ingredients, for the fare he offers at Boxing Room as Executive Chef.</p>
+          <p>Justin Simoneaux&rsquo;s cooking is influenced by the Cajun and Creole dishes of New Orleans and coastal Louisiana. He couples traditional techniques and recipes with seasonal Northern California ingredients, for the fare he offers at Boxing Room as Executive Chef.</p>
         </div>
       </div>
     </li>
@@ -144,7 +144,7 @@ Drink: Agua Fresca</div>
           <div class="menu_item">Big Bite Item: Chicken Blintzes with Salsa
 Small Bite Item: Kidney Bean Spread-Pkhali
 Drink: Georgian Sangria</div>
-          <p>Get ready for your first taste of Georgian food – not the State, the Country! Hailing from Tbilisi, the capital of Georgia, Lali Ghlonti, founder of Lali’s, brings you tasty chicken blintzes, savory kidney bean spread, and Badridzani nigvzit – her favorite dish from home, sliced eggplant sautéed in a scrumptious walnut paste made with cilantro, coriander, balsamic, and fenugreek and topped with pomegranate seeds. Lali moved to San Francisco from Georgia in 2004 to attend the Food Technology & Dining Services, and Baking and Pastry programs at San Francisco City College and make her dream of becoming a chef a reality. “Cooking is an addiction in Georgia,” says Lali, “And everyone has it.” When she’s not scouring Bay Area grocery stores for pomegranate molasses – a thick pomegranate sauce often combined with lamb or used in other hearty Georgian dishes, you might find Lali enjoying time with her family or adding to her small elephant collection for good luck! Her Georgian, Middle Eastern, and Mediterranean food is so good though, we don't think she'll need any luck! </p>
+          <p>Get ready for your first taste of Georgian food – not the State, the Country! Hailing from Tbilisi, the capital of Georgia, Lali Ghlonti, founder of Lali&rsquo;s, brings you tasty chicken blintzes, savory kidney bean spread, and Badridzani nigvzit – her favorite dish from home, sliced eggplant sautéed in a scrumptious walnut paste made with cilantro, coriander, balsamic, and fenugreek and topped with pomegranate seeds. Lali moved to San Francisco from Georgia in 2004 to attend the Food Technology & Dining Services, and Baking and Pastry programs at San Francisco City College and make her dream of becoming a chef a reality. &ldquo;Cooking is an addiction in Georgia,&rdquo; says Lali, &ldquo;And everyone has it.&rdquo; When she&rsquo;s not scouring Bay Area grocery stores for pomegranate molasses – a thick pomegranate sauce often combined with lamb or used in other hearty Georgian dishes, you might find Lali enjoying time with her family or adding to her small elephant collection for good luck! Her Georgian, Middle Eastern, and Mediterranean food is so good though, we don't think she'll need any luck! </p>
         </div>
       </div>
     </li>
@@ -201,17 +201,17 @@ Pork Tamales
 Cheese Tamales
 Small Bite: Tamal
 Drink: Agua Fresca</div>
-          <p>In August of 2010, Alicia Villanueva came to La Cocina with a dream: to start her own tamale cart as a means to spread her own Mexican traditions and customs. For Alicia, the best tamales are stuffed with love, and the best people are stuffed with her tamales. She’s been making delicious tamales for her family and friends for years, and finally decided that it was time to let the rest of the world in on her amazing food. Find Alicia's Tamales los Mayas five days a week at Justin Hermann Plaza. If that's not enough, Alicia's Tamales los Mayas is available for catering. </p>
+          <p>In August of 2010, Alicia Villanueva came to La Cocina with a dream: to start her own tamale cart as a means to spread her own Mexican traditions and customs. For Alicia, the best tamales are stuffed with love, and the best people are stuffed with her tamales. She&rsquo;s been making delicious tamales for her family and friends for years, and finally decided that it was time to let the rest of the world in on her amazing food. Find Alicia's Tamales los Mayas five days a week at Justin Hermann Plaza. If that's not enough, Alicia's Tamales los Mayas is available for catering. </p>
         </div>
       </div>
     </li>
     
   
     <li id="azalinas">
-      <img class="logo" src="/z_logos/azalinas.png" alt="Azalina’s">
+      <img class="logo" src="/z_logos/azalinas.png" alt="Azalina&rsquo;s">
       <div class="payload">
         <div class="inner">
-          <h1><a href="www.azalinas.com">Azalina’s</a></h1>
+          <h1><a href="www.azalinas.com">Azalina&rsquo;s</a></h1>
           <div class="menu_item">Big Bite Item: Chicken Kaya Penang Chilaquiles
 Small Bite Item: Peanut Taco
 Drink: Rose Basil Coconut </div>
@@ -277,14 +277,14 @@ Drink: Agua Fresca</div>
     
   
     <li id="chiefos_kitchen">
-      <img class="logo" src="/z_logos/chiefos_kitchen.png" alt="Chiefo’s Kitchen">
+      <img class="logo" src="/z_logos/chiefos_kitchen.png" alt="Chiefo&rsquo;s Kitchen">
       <div class="payload">
         <div class="inner">
-          <h1><a href="www.chiefoskitchen.com">Chiefo’s Kitchen</a></h1>
+          <h1><a href="www.chiefoskitchen.com">Chiefo&rsquo;s Kitchen</a></h1>
           <div class="menu_item">Big Bite Item: Spicy Suya Beef Skewers
 Small Bite Item: Moi-Moi
 Drink: Bissap</div>
-          <p>Chiefo’s Kitchen, a West African Catering business, is a local business whose goal is to bring the best of West Africa to the Bay Area.  Our flavors are bold and often spicy drawing from ingredients and flavors from Nigeria, but also influenced by Chiefo's African American mother’s southern cooking and travels throughout Africa. You can find our products at the La Cocina Kiosk in the Ferry Building and at Whole Foods. You can also spice up your next event with our catering services.</p>
+          <p>Chiefo&rsquo;s Kitchen, a West African Catering business, is a local business whose goal is to bring the best of West Africa to the Bay Area.  Our flavors are bold and often spicy drawing from ingredients and flavors from Nigeria, but also influenced by Chiefo's African American mother&rsquo;s southern cooking and travels throughout Africa. You can find our products at the La Cocina Kiosk in the Ferry Building and at Whole Foods. You can also spice up your next event with our catering services.</p>
         </div>
       </div>
     </li>
@@ -311,7 +311,7 @@ Small Bite Item: Mini Cheese Empanadas</div>
           <div class="menu_item">Big Bite Item: Clairesquares 3 pack milk or dark chocolate
 Small Bite Item: Deep Fried Caramel Pop
 </div>
-          <p>Claire started baking at the age of six as a way to satisfy her sweet tooth. After trying out various recipes for fudge, butterscotch and caramels, the combination of shortbread, caramel and chocolate was the one that stuck. A young entrepreneur in Ireland, Claire sold her treats at school, and it wasn’t long before her classmates were addicted and she was selling out every week. Years later, here in San Francisco, she baked a batch for her friends and Clairesquares was born.</p>
+          <p>Claire started baking at the age of six as a way to satisfy her sweet tooth. After trying out various recipes for fudge, butterscotch and caramels, the combination of shortbread, caramel and chocolate was the one that stuck. A young entrepreneur in Ireland, Claire sold her treats at school, and it wasn&rsquo;t long before her classmates were addicted and she was selling out every week. Years later, here in San Francisco, she baked a batch for her friends and Clairesquares was born.</p>
         </div>
       </div>
     </li>
@@ -351,7 +351,7 @@ Drink: Rose Mango Lassi</div>
           <h1><a href="www.deliciosocreperie.com">Delicioso Creperie</a></h1>
           <div class="menu_item">Big Bite Item: Dulce de Leche Crepe
 Small Bite Item: Nutella & Caramelized Banana</div>
-          <p>Gabriela grew up in a family that loved food from all over the world - a passion, and flavor, she brings to Delicioso Creperie. Hailing from Mexico, Grabriela moved to San Francisco, to pursue her interest in the culinary world. After working jobs in various restaurants in the city, Gabriela found her way to La Cocina. She is now turning her talents towards crepes, a simple food she’s loved all her life. Delicioso Creperie focuses on making gourmet, one-of-a-kind crepes that reflect the global food influences of Gabriela's childhood.</p>
+          <p>Gabriela grew up in a family that loved food from all over the world - a passion, and flavor, she brings to Delicioso Creperie. Hailing from Mexico, Grabriela moved to San Francisco, to pursue her interest in the culinary world. After working jobs in various restaurants in the city, Gabriela found her way to La Cocina. She is now turning her talents towards crepes, a simple food she&rsquo;s loved all her life. Delicioso Creperie focuses on making gourmet, one-of-a-kind crepes that reflect the global food influences of Gabriela's childhood.</p>
         </div>
       </div>
     </li>
@@ -372,10 +372,10 @@ Drink: Agua de Limon con Chia</div>
     
   
     <li id="ejis_">
-      <img class="logo" src="/z_logos/ejis_.png" alt="Eji’s ">
+      <img class="logo" src="/z_logos/ejis_.png" alt="Eji&rsquo;s ">
       <div class="payload">
         <div class="inner">
-          <h1><a href="www.ejiskitchen.com">Eji’s </a></h1>
+          <h1><a href="www.ejiskitchen.com">Eji&rsquo;s </a></h1>
           <div class="menu_item">Big Bite Item: Misir Wot with greens
 Small Bite Item: Sambusa
 Drink: Thyme tea</div>
@@ -393,7 +393,7 @@ Drink: Thyme tea</div>
           <div class="menu_item">Big Bite Item: Tostadas
 Small Bite Item: Esquites
 Drink: Agua de Fresa</div>
-          <p>Homestyle Mexico City cooking is at the heart of chef-owner Isabello Caudillo’s family-owned business. Since moving from Mexico City to San Francisco, Isabel’s passion for preparing the food of her childhood has blossomed from cooking for family and friends out of her kitchen, to landing externships with San Francisco restaurants like Delfina and Mijita, to her current post at the Noe Valley Farmers Market. El Buen Comer will transport you to her family’s kitchen table in Mexico City.</p>
+          <p>Homestyle Mexico City cooking is at the heart of chef-owner Isabello Caudillo&rsquo;s family-owned business. Since moving from Mexico City to San Francisco, Isabel&rsquo;s passion for preparing the food of her childhood has blossomed from cooking for family and friends out of her kitchen, to landing externships with San Francisco restaurants like Delfina and Mijita, to her current post at the Noe Valley Farmers Market. El Buen Comer will transport you to her family&rsquo;s kitchen table in Mexico City.</p>
         </div>
       </div>
     </li>
@@ -407,7 +407,7 @@ Drink: Agua de Fresa</div>
           <div class="menu_item">Big Bite Item: Huarache de Nopal
 Small Bite Item: Taco de Alambre
 Drink: Agua Fresca</div>
-          <p>Veronica Salazar was born in the neighborhood of Ramon Millan in Mexico City, Mexico, where she grew up around food, both in her home and in the restaurant that her family owned. When Veron­ica moved to San Fran­cisco, she saw that there were many taquerias, but she felt they lacked the sazon (magic touch) of kitchens from back home. She took this as an opportunity to bring the authentic flavors of the D.F. to S.F. You can now find Veronica and her entire family doling out her beloved huaraches, mixiotes and cactus salad every Saturday at the Alemany and Marin Farmer’s Market, and at their brick-and-mortar restaurant at the Marin Country Mart in Larkspur Landing.</p>
+          <p>Veronica Salazar was born in the neighborhood of Ramon Millan in Mexico City, Mexico, where she grew up around food, both in her home and in the restaurant that her family owned. When Veron­ica moved to San Fran­cisco, she saw that there were many taquerias, but she felt they lacked the sazon (magic touch) of kitchens from back home. She took this as an opportunity to bring the authentic flavors of the D.F. to S.F. You can now find Veronica and her entire family doling out her beloved huaraches, mixiotes and cactus salad every Saturday at the Alemany and Marin Farmer&rsquo;s Market, and at their brick-and-mortar restaurant at the Marin Country Mart in Larkspur Landing.</p>
         </div>
       </div>
     </li>
@@ -421,7 +421,7 @@ Drink: Agua Fresca</div>
           <div class="menu_item">Big Bite Item: Burritos, Tortas or Quesadillas
 Small Bite Item: Tacos
 Drink: Horchata and Pina</div>
-          <p>Benjamin Santana, The god father of taco trucks in the Mission District has been serving his authentic and delicious recipes to the people of San Francisco since 1994.   He uses only the freshest ingredients to give each bite true authentic flavor.  He prides himself on the homemade salsas that accompany each dish as it comes from his secret family recipe.  One of the best compliments he often hears is, “ Wow, the tacos are so good, I feel like I am in Mexico.”  El Tonayense strives to make each offering absolutely delicious and authentic and has received many honors and praises.  They include Zagat winner “Best Cheap Eats”, Sunset Magazine recommended, Michelin Man recommended, 7x7 Magazine rated, Rolling Stones Magazine rated, and Check Please just to name a few.</p>
+          <p>Benjamin Santana, The god father of taco trucks in the Mission District has been serving his authentic and delicious recipes to the people of San Francisco since 1994.   He uses only the freshest ingredients to give each bite true authentic flavor.  He prides himself on the homemade salsas that accompany each dish as it comes from his secret family recipe.  One of the best compliments he often hears is, &ldquo; Wow, the tacos are so good, I feel like I am in Mexico.&rdquo;  El Tonayense strives to make each offering absolutely delicious and authentic and has received many honors and praises.  They include Zagat winner &ldquo;Best Cheap Eats&rdquo;, Sunset Magazine recommended, Michelin Man recommended, 7x7 Magazine rated, Rolling Stones Magazine rated, and Check Please just to name a few.</p>
         </div>
       </div>
     </li>
@@ -433,7 +433,7 @@ Drink: Horchata and Pina</div>
         <div class="inner">
           <h1>Embrace Sweets, LLC</h1>
           <div class="menu_item"></div>
-          <p>Embrace Sweets was created with this in mind. We wanted to take something simple, easy, and memorable and make it something that you’d want to include in all YOUR memories. For birthdays, weddings, anniversaries, holidays – while you’re Embracing the moment, you’re also Embracing sweets. The mission of Embrace Sweets is simple, we’re just doing what we love, what we’re passionate about and with every whisk, dollop of cream and pinch of salt we hope that you can taste that in our brownies. We hope that for your most cherished moments you allow us to sit in silently as a decadent tray and for those times that are particularly tough we can also be there to soothe and comfort. The tradition continues from our home to yours.</p>
+          <p>Embrace Sweets was created with this in mind. We wanted to take something simple, easy, and memorable and make it something that you&rsquo;d want to include in all YOUR memories. For birthdays, weddings, anniversaries, holidays – while you&rsquo;re Embracing the moment, you&rsquo;re also Embracing sweets. The mission of Embrace Sweets is simple, we&rsquo;re just doing what we love, what we&rsquo;re passionate about and with every whisk, dollop of cream and pinch of salt we hope that you can taste that in our brownies. We hope that for your most cherished moments you allow us to sit in silently as a decadent tray and for those times that are particularly tough we can also be there to soothe and comfort. The tradition continues from our home to yours.</p>
         </div>
       </div>
     </li>
@@ -449,7 +449,7 @@ Small Bite Item: Kettle Corn
 Drink: Fresh Lemonade</div>
           <p>
 
-Endless Summer Sweets exists to revive the kid in you, bringing back memories of the neighborhood fairs with family and friends. We make gourmet funnel cakes with unique fun toppings including: local strawberries and freshly whipped cream, pecans, drizzled in Ghirarelli caramel and crispy bacon topped in agave syrup.   Sweet and salty kettle corn, hand dipped corn dogs, and fresh spun cotton candy are other fun treats made on the nostalgia driven menu.Endless Summer Sweet’s delicious funnel cakes can be found on Sundays at the Berkeley Flea Market.
+Endless Summer Sweets exists to revive the kid in you, bringing back memories of the neighborhood fairs with family and friends. We make gourmet funnel cakes with unique fun toppings including: local strawberries and freshly whipped cream, pecans, drizzled in Ghirarelli caramel and crispy bacon topped in agave syrup.   Sweet and salty kettle corn, hand dipped corn dogs, and fresh spun cotton candy are other fun treats made on the nostalgia driven menu.Endless Summer Sweet&rsquo;s delicious funnel cakes can be found on Sundays at the Berkeley Flea Market.
 
 </p>
         </div>
@@ -458,14 +458,14 @@ Endless Summer Sweets exists to revive the kid in you, bringing back memories of
     
   
     <li id="estrellitas_snacks">
-      <img class="logo" src="/z_logos/estrellitas_snacks.png" alt="Estrellita’s  Snacks">
+      <img class="logo" src="/z_logos/estrellitas_snacks.png" alt="Estrellita&rsquo;s  Snacks">
       <div class="payload">
         <div class="inner">
-          <h1><a href="www.estrellitassnacks.com">Estrellita’s  Snacks</a></h1>
+          <h1><a href="www.estrellitassnacks.com">Estrellita&rsquo;s  Snacks</a></h1>
           <div class="menu_item">Big Bite Item: Pupusa con Casamiento
 Small Bite Item: Tamal 
 Drink: Aguas Frescas</div>
-          <p>Maria del Carmen Flores started getting her knack for entrepreneurship at her corner bus stop stand in El Salvador, selling fruit and home-made chips with her mother.  Now she has arrived to the culinary capital of San Francisco, evoking pride in her culture through her very own Estrellita’s Snacks, an offering of tasty pupusas and tamales.  You can watch Maria make the doughy corn based treats at Alemany’s Farmers market or have Estrellita’s Snacks cater for an event to add Salvadoran flair.</p>
+          <p>Maria del Carmen Flores started getting her knack for entrepreneurship at her corner bus stop stand in El Salvador, selling fruit and home-made chips with her mother.  Now she has arrived to the culinary capital of San Francisco, evoking pride in her culture through her very own Estrellita&rsquo;s Snacks, an offering of tasty pupusas and tamales.  You can watch Maria make the doughy corn based treats at Alemany&rsquo;s Farmers market or have Estrellita&rsquo;s Snacks cater for an event to add Salvadoran flair.</p>
         </div>
       </div>
     </li>
@@ -522,9 +522,9 @@ www.hellaveganeats.com">Hella Vegan Eats</a></h1>
           <div class="menu_item">Big Bite Item: Peach BBQ Seitan Sandwich
 Small Bite Item: Fry Bread Taco
 Drink: Green Curry Coconut Paleta</div>
-          <p>Forget the tofu pup, Slyvee and Tiffany of HellaVegan Eats are packing a multi-cultural explosion of flavor into their innovative new vegan dishes. You’ve probably already spotted this dynamic duo selling tantalizing vegan tamales alongside their eclectic Mexican art at the Oakland Art Murmur or Underground Market. You may have even been lucky enough to attend the hella good pop-up vegan Thanksgiving dinner they hosted at Rock, Paper, Scissors Restaurant in Oakland last year! Southern California natives and East Bay residents, you can find Sylvee and Tiffany currently working on food trucks, the Brunch Box and the Bandit.
+          <p>Forget the tofu pup, Slyvee and Tiffany of HellaVegan Eats are packing a multi-cultural explosion of flavor into their innovative new vegan dishes. You&rsquo;ve probably already spotted this dynamic duo selling tantalizing vegan tamales alongside their eclectic Mexican art at the Oakland Art Murmur or Underground Market. You may have even been lucky enough to attend the hella good pop-up vegan Thanksgiving dinner they hosted at Rock, Paper, Scissors Restaurant in Oakland last year! Southern California natives and East Bay residents, you can find Sylvee and Tiffany currently working on food trucks, the Brunch Box and the Bandit.
 
-Inspired by their honeymoon trip through Mexico and Central America where they explored a wide range of flavors at street food stands and inside welcoming kitchens, Sylvee and Tiffany combine spices and cooking techniques from diverse ethnic cuisines to come up with their own unique new vegan “food you’ve never heard of” – Yet!</p>
+Inspired by their honeymoon trip through Mexico and Central America where they explored a wide range of flavors at street food stands and inside welcoming kitchens, Sylvee and Tiffany combine spices and cooking techniques from diverse ethnic cuisines to come up with their own unique new vegan &ldquo;food you&rsquo;ve never heard of&rdquo; – Yet!</p>
         </div>
       </div>
     </li>
@@ -573,14 +573,14 @@ Drink: Mango Lassi</div>
     
   
     <li id="kikas_treats">
-      <img class="logo" src="/z_logos/kikas_treats.png" alt="Kika’s Treats">
+      <img class="logo" src="/z_logos/kikas_treats.png" alt="Kika&rsquo;s Treats">
       <div class="payload">
         <div class="inner">
-          <h1><a href="www.kikastreats.com">Kika’s Treats</a></h1>
+          <h1><a href="www.kikastreats.com">Kika&rsquo;s Treats</a></h1>
           <div class="menu_item">Big Bite Item: Brazilian Cheese Bread
 Small Bite Item: S'mores
 Drink: Brazilian Hot Chocolate</div>
-          <p>Growing up, Cristina Arantes spent her days in Brazil baking and eating all things chocolate. Cristina worked at many bakeries upon moving to San Francisco. After perfecting her craft, she was ready to share her favorite treats with the world through Kika's Treats. Kika’s Treats is an artisanal chocolate company, which manufactures premium pure chocolate-covered confections. We are not only committed to using the finest quality ingredients, but also supporting the local economy and enforcing green practices in the workplace. On top of that, Kika’s Treats gives back to the community, through in-kind donations to non-profits and by donating 5% of its net profits to La Cocina, where it all started. Treat yourself and feel good about it!
+          <p>Growing up, Cristina Arantes spent her days in Brazil baking and eating all things chocolate. Cristina worked at many bakeries upon moving to San Francisco. After perfecting her craft, she was ready to share her favorite treats with the world through Kika's Treats. Kika&rsquo;s Treats is an artisanal chocolate company, which manufactures premium pure chocolate-covered confections. We are not only committed to using the finest quality ingredients, but also supporting the local economy and enforcing green practices in the workplace. On top of that, Kika&rsquo;s Treats gives back to the community, through in-kind donations to non-profits and by donating 5% of its net profits to La Cocina, where it all started. Treat yourself and feel good about it!
 </p>
         </div>
       </div>
@@ -602,18 +602,18 @@ Drink: Mint Lychee Lemonade</div>
     
   
     <li id="lrsquos_caffe">
-      <img class="logo" src="/z_logos/lrsquos_caffe.png" alt="L&rsquo;s Caffe">
+      <img class="logo" src="/z_logos/ls_caffe.png" alt="L&rsquo;s Caffe">
       <div class="payload">
         <div class="inner">
           <h1><a href="www.lscaffe.com">L&rsquo;s Caffe</a></h1>
           <div class="menu_item">Big Bite Item: Tinga Tostada
 Small Bite Item: Chicken Mole Croissant
 Drink: Berries Madness Ice Tea</div>
-          <p>L’s Caffe was an idea that became reality in November 2005. It’s owners, the Lozano’s Sisters, dreamed on creating a space where everybody can feel as comfortable as in their own home while been served some healthy and delicious food.
+          <p>L&rsquo;s Caffe was an idea that became reality in November 2005. It&rsquo;s owners, the Lozano&rsquo;s Sisters, dreamed on creating a space where everybody can feel as comfortable as in their own home while been served some healthy and delicious food.
 
-L’s Caffe is a key player in been part of the community efforts to create a better and safer neighborhood in the Mission. We also support environmental efforts recycling and composing up to 90% of our waste.
+L&rsquo;s Caffe is a key player in been part of the community efforts to create a better and safer neighborhood in the Mission. We also support environmental efforts recycling and composing up to 90% of our waste.
 
-Quoted for many as “the best keep secret of the mission” L’s Caffe is more than a coffee shop. We have a very extensive menu that includes delicious gourmet bagel, healthy salads and sandwiches, savory and sweet crepes, mom made cookies, organic coffee and teas among others. You can also enjoy a delicious glass of wine or a refreshing beer from our bar.
+Quoted for many as &ldquo;the best keep secret of the mission&rdquo; L&rsquo;s Caffe is more than a coffee shop. We have a very extensive menu that includes delicious gourmet bagel, healthy salads and sandwiches, savory and sweet crepes, mom made cookies, organic coffee and teas among others. You can also enjoy a delicious glass of wine or a refreshing beer from our bar.
 
 We invite you to come visit our house on 2871 24th Street and be part of our dream. </p>
         </div>
@@ -673,7 +673,7 @@ Drink: Thai Iced Tea</div>
           <div class="menu_item">Big Bite Item: 5 Piece Tasters' Box
 Small Bite Item: Dark Chocolate Truffle Brownie
 </div>
-          <p>While wondering what she’d be when she grew up, Christine Doerr found herself watching a lot of Julia Child.  So following her idol’s footsteps, she attended the California Culinary Academy, where she perfected her craft during her more than 10 years of working in multiple establishments in the Bay Area. When Christine’s long-held dream of creating her own business to sell chocolate truffles using fresh, local, organic ingredients came knocking at the door, Christine answered, and Neo Cocoa was born. </p>
+          <p>While wondering what she&rsquo;d be when she grew up, Christine Doerr found herself watching a lot of Julia Child.  So following her idol&rsquo;s footsteps, she attended the California Culinary Academy, where she perfected her craft during her more than 10 years of working in multiple establishments in the Bay Area. When Christine&rsquo;s long-held dream of creating her own business to sell chocolate truffles using fresh, local, organic ingredients came knocking at the door, Christine answered, and Neo Cocoa was born. </p>
         </div>
       </div>
     </li>
@@ -740,7 +740,7 @@ Drink: Root Beer</div>
         <div class="inner">
           <h1><a href="www.sweetscollections.com">Sweets Collection </a></h1>
           <div class="menu_item">Big Bite Item: Artistic Gelatin Desserts</div>
-          <p>Inspired by the idea of an art collection, Rosa Rodriguez’s Sweets Collection is based on gelatin that is not only artistic but also edible and sweet. Rosa, hailing from Mexico, once had paintings exhibited in galleries before she learned the art of creating paintings in this palatable medium. Gelatin art can be traced to France, before being imported to Mexico where it was developed and perfected, but Rosa is proud to now bring these sweet creations to San Francisco. Her work is available by special order on her website.</p>
+          <p>Inspired by the idea of an art collection, Rosa Rodriguez&rsquo;s Sweets Collection is based on gelatin that is not only artistic but also edible and sweet. Rosa, hailing from Mexico, once had paintings exhibited in galleries before she learned the art of creating paintings in this palatable medium. Gelatin art can be traced to France, before being imported to Mexico where it was developed and perfected, but Rosa is proud to now bring these sweet creations to San Francisco. Her work is available by special order on her website.</p>
         </div>
       </div>
     </li>
@@ -768,7 +768,7 @@ Small Bite Item: Ice Cream Sandwich
           <div class="menu_item">Big Bite Item: BBQ Chicken Sliders
 Small Bite Item: Jacked-Up Hush Puppies
 Drink: Southern Sweet Tea</div>
-          <p>It’s said that when you’re born you come into the world knowing exactly what you’re supposed to do with your life. Due to numerous distractions, most of us take detours on our journeys spending quite a lot of time trying to discover our way back to that knowingness. At the young age of 8 years old, Chef Dionne Knox remembers spending most of her time in the kitchen with her grandmother, Zella, cooking meals and baking delicious desserts. Zella was a dynamic chef known for cooking everything from scratch. To ensure the best flavors in her cooking, Zella grew fresh vegetables in her garden, raised chickens for fresh eggs, made her own jam, baked bread every day and churned her own butter. At Zella's Soulful Kitchen we continue this tradition by providing farm-fresh handcrafted soulfood.</p>
+          <p>It&rsquo;s said that when you&rsquo;re born you come into the world knowing exactly what you&rsquo;re supposed to do with your life. Due to numerous distractions, most of us take detours on our journeys spending quite a lot of time trying to discover our way back to that knowingness. At the young age of 8 years old, Chef Dionne Knox remembers spending most of her time in the kitchen with her grandmother, Zella, cooking meals and baking delicious desserts. Zella was a dynamic chef known for cooking everything from scratch. To ensure the best flavors in her cooking, Zella grew fresh vegetables in her garden, raised chickens for fresh eggs, made her own jam, baked bread every day and churned her own butter. At Zella's Soulful Kitchen we continue this tradition by providing farm-fresh handcrafted soulfood.</p>
         </div>
       </div>
     </li>
@@ -863,7 +863,7 @@ Small Bite Item: Elotes
 Drink: Strawberry lemonade</div>
           <p>Dilsa comes from Cuernavaca, Morelos, and has been deeply involved with food since she was a girl. Growing up, Dilsa's family cultivated their own food for two reasons: the love of seeing their food develop from seed to table and because it was economical. 
 
-When Dilsa came to the Bay Area it was very exciting for her to discover the organic food movement. She realized that there weren’t many Mexican restaurants that that offered healthy alternatives for people and the environment. This is what inspired her to start a Mexican food business using local, organic, and seasonal ingredients whenever possible. 
+When Dilsa came to the Bay Area it was very exciting for her to discover the organic food movement. She realized that there weren&rsquo;t many Mexican restaurants that that offered healthy alternatives for people and the environment. This is what inspired her to start a Mexican food business using local, organic, and seasonal ingredients whenever possible. 
 
 Los Cilantros is a catering and events company whose mission is never to lose authenticity, and to carefully prepare food with simple flavors using the best ingredients available. You can also feast on Dilsa's food at Copita in Sausalito where she is the sous chef. </p>
         </div>
@@ -879,7 +879,7 @@ Los Cilantros is a catering and events company whose mission is never to lose au
           <div class="menu_item">Big Bite Item: Falafel
 Small Bite Item: Hummus with Pita Chips
 Drink: Lemonade</div>
-          <p>When Donna Sky, a busy working mother, couldn’t find store bought hummus that met her high expectations, an idea was born: The Love & Hummus Company. Donna started her San Francisco-based, artisan food company to bring you delicious hummus that is organic, lovingly handmade, and scooped into earth-friendly packaging. Find Love & Hummus' tasty varieties in available at Whole Foods Market, Andronicos Grocery, Falletti Fine Foods and many independent grocery stores throughout Northern California.</p>
+          <p>When Donna Sky, a busy working mother, couldn&rsquo;t find store bought hummus that met her high expectations, an idea was born: The Love & Hummus Company. Donna started her San Francisco-based, artisan food company to bring you delicious hummus that is organic, lovingly handmade, and scooped into earth-friendly packaging. Find Love & Hummus' tasty varieties in available at Whole Foods Market, Andronicos Grocery, Falletti Fine Foods and many independent grocery stores throughout Northern California.</p>
         </div>
       </div>
     </li>
@@ -922,7 +922,7 @@ Drink: Yect's Chicha morada; Merlin's Agua de Tamarindo</div>
           <div class="menu_item">Big Bite Item: Gumbo with Steamed Rice
 Small Bite Item: Zesty Hot Water Cornbread
 Drink: Watermelon Sweet Tea</div>
-          <p>Born and raised in the Fillmore and Western Addition, San Francisco, Fernay McPherson cooks Soul satisfying Food, like the first dish her mom taught her to make at nine years old: Mac n’ Cheese. Soul Food is a term used to describe the flavorful food African Americans have been cooking for generations, including her late grandmother Lillie Bell and great aunt Minnie who inspired her to start cooking and found Minnie Bell’s Catering. Minnie Bell’s will sell southern sandwiches ("soul sandwiches"), sides and soups, including Fernay’s specialty: gumbo full of chicken, shrimp and turkey sausage served over rice. Minnie Bell’s goal is to have a mobile food truck in the Historic Fillmore Jazz District within the next year. Keep an eye out, MUNI riders, you might bump into Fernay, as she currently works as a transit operator for the city of San Francisco.</p>
+          <p>Born and raised in the Fillmore and Western Addition, San Francisco, Fernay McPherson cooks Soul satisfying Food, like the first dish her mom taught her to make at nine years old: Mac n&rsquo; Cheese. Soul Food is a term used to describe the flavorful food African Americans have been cooking for generations, including her late grandmother Lillie Bell and great aunt Minnie who inspired her to start cooking and found Minnie Bell&rsquo;s Catering. Minnie Bell&rsquo;s will sell southern sandwiches ("soul sandwiches"), sides and soups, including Fernay&rsquo;s specialty: gumbo full of chicken, shrimp and turkey sausage served over rice. Minnie Bell&rsquo;s goal is to have a mobile food truck in the Historic Fillmore Jazz District within the next year. Keep an eye out, MUNI riders, you might bump into Fernay, as she currently works as a transit operator for the city of San Francisco.</p>
         </div>
       </div>
     </li>
@@ -964,7 +964,7 @@ Drink: Nojo Iced Tea</div>
           <div class="menu_item">Big Bite Item: Onigilly combo
 Small Bite Item: Onigilly rice balls
 Drink: Ginger green tea lemonade</div>
-          <p>Onigilly [Oh-Knee-Ghee-Lee] serves onigiri a traditional Japanese food made with brown rice and gourmet filling wrapped with seaweed. When owner Koji Kanematsu came to the US, he notices that there were sushi restaurants everywhere, but couldn't understand why his favorite Japanese snack was nowhere to be found. So he thought: Why don’t we open an “onigiri” business and spread this delicious, healthy and handy snack in the United States? And in 2009, that's exactly what they did! You can try onigilly from their trailer at Justin Hermann Plaza and various other locations, as well as at your next office party.</p>
+          <p>Onigilly [Oh-Knee-Ghee-Lee] serves onigiri a traditional Japanese food made with brown rice and gourmet filling wrapped with seaweed. When owner Koji Kanematsu came to the US, he notices that there were sushi restaurants everywhere, but couldn't understand why his favorite Japanese snack was nowhere to be found. So he thought: Why don&rsquo;t we open an &ldquo;onigiri&rdquo; business and spread this delicious, healthy and handy snack in the United States? And in 2009, that's exactly what they did! You can try onigilly from their trailer at Justin Hermann Plaza and various other locations, as well as at your next office party.</p>
         </div>
       </div>
     </li>
@@ -1023,23 +1023,23 @@ When you dine with us, you will enjoy a seasonal, nutritionally well-balanced me
           <div class="menu_item">Big Bite Item: Lomitos
 Small Bite Item: Empanadas
 Drink: Mote con Huesillos</div>
-          <p>Sabores del Sur was founded in 2002, after owner Guisell Osorio decided that the only way to satisfy her craving for the South American dishes of her childhood was to prepare them herself.  Born and raised in Santiago, Chile, Osorio began collecting recipes from her grandmother and quickly discovered her hidden love and talent for cooking.  Using the diverse flavors from her childhood, Osorio has helped grow Sabores del Sur into the Bay Area’s premier South American catering company, specializing in dishes like empanadas and alfajores. </p>
+          <p>Sabores del Sur was founded in 2002, after owner Guisell Osorio decided that the only way to satisfy her craving for the South American dishes of her childhood was to prepare them herself.  Born and raised in Santiago, Chile, Osorio began collecting recipes from her grandmother and quickly discovered her hidden love and talent for cooking.  Using the diverse flavors from her childhood, Osorio has helped grow Sabores del Sur into the Bay Area&rsquo;s premier South American catering company, specializing in dishes like empanadas and alfajores. </p>
         </div>
       </div>
     </li>
     
   
     <li id="saint__olive">
-      <img class="logo" src="/z_logos/saint__olive.png" alt="Saint & Olive">
+      <img class="logo" src="/z_logos/saint_olive.png" alt="Saint &amp; Olive">
       <div class="payload">
         <div class="inner">
-          <h1><a href="http://www.saintandolive.com">Saint & Olive</a></h1>
+          <h1><a href="http://www.saintandolive.com">Saint &amp; Olive</a></h1>
           <div class="menu_item">Biscotti's:
 Chocolate Dipped Almond toffee with Sea Salt
 Mexican Hot Chocolate
 Sweet Potato Maple Bacon
 Prosciutto Parmesan</div>
-          <p>“Flavor is a way to own your heritage,” says Olive Loew, and she sure owns it all right! New La Cocina participant and founder of Saint & Olive makes sweet and savory biscotti based on her great aunts prized family recipe. Her wide repertoire includes classics such as chocolate dipped almond toffee with sea salt, and explores novel savory varieties like prosciutto parmesan, sweet potato maple bacon, and honey lemon thyme. “I like to think there’s always a taste to a place,” says Olive, whose twists on her grandmother’s recipes incorporate Southern tastes from her own childhood growing up in Alabama, Virginia, and Texas, as well as the inspiration she draws from the bounty and diversity of California. Olive plans to build on her extensive professional background in social work to develop a skills-training and workforce development program at Saint & Olive that employs women rejoining the workforce. “I feel like this is a way to develop and nurture communities, to build a business that is sustainable and contributes to the people and the environment while offering creative and heart-warming foods.” When she’s not devising tasty new recipes, you might find her plucking her banjo with friends or knitting up a storm to keep her warm in San Francisco!</p>
+          <p>&ldquo;Flavor is a way to own your heritage,&rdquo; says Olive Loew, and she sure owns it all right! New La Cocina participant and founder of Saint &amp; Olive makes sweet and savory biscotti based on her great aunts prized family recipe. Her wide repertoire includes classics such as chocolate dipped almond toffee with sea salt, and explores novel savory varieties like prosciutto parmesan, sweet potato maple bacon, and honey lemon thyme. &ldquo;I like to think there&rsquo;s always a taste to a place,&rdquo; says Olive, whose twists on her grandmother&rsquo;s recipes incorporate Southern tastes from her own childhood growing up in Alabama, Virginia, and Texas, as well as the inspiration she draws from the bounty and diversity of California. Olive plans to build on her extensive professional background in social work to develop a skills-training and workforce development program at Saint &amp; Olive that employs women rejoining the workforce. &ldquo;I feel like this is a way to develop and nurture communities, to build a business that is sustainable and contributes to the people and the environment while offering creative and heart-warming foods.&rdquo; When she&rsquo;s not devising tasty new recipes, you might find her plucking her banjo with friends or knitting up a storm to keep her warm in San Francisco!</p>
         </div>
       </div>
     </li>
@@ -1108,7 +1108,7 @@ Drink: Watermelon-mint Granizado</div>
           <div class="menu_item">Big Bite Item: Empanadas
 Small Bite Item: Lechon Sliders
 Drink: Pina Coladas</div>
-          <p>Taino’s Puerto Rican Food was a 40th birthday present from Owner Lisa Callaghan to herself. Armed with a passion to cook and desire to share the hidden treasure of Puerto Rican food with Northern California, Lisa first brought Taino’s to the masses with help from the Women’s Initiative at La Cocina’s 2011 Street Food Festival. Building upon her Puerto Rican Grandma’s traditional recipes, she served up almost 1,000 pastelillos (empanadas) to a hungry crowd.  This year, Lisa was accepted into La Cocina’s kitchen incubator program, where she’s looking forward to not only joining the festival again but growing her catering and food truck business.</p>
+          <p>Taino&rsquo;s Puerto Rican Food was a 40th birthday present from Owner Lisa Callaghan to herself. Armed with a passion to cook and desire to share the hidden treasure of Puerto Rican food with Northern California, Lisa first brought Taino&rsquo;s to the masses with help from the Women&rsquo;s Initiative at La Cocina&rsquo;s 2011 Street Food Festival. Building upon her Puerto Rican Grandma&rsquo;s traditional recipes, she served up almost 1,000 pastelillos (empanadas) to a hungry crowd.  This year, Lisa was accepted into La Cocina&rsquo;s kitchen incubator program, where she&rsquo;s looking forward to not only joining the festival again but growing her catering and food truck business.</p>
         </div>
       </div>
     </li>
