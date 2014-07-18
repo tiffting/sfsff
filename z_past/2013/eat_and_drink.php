@@ -1300,7 +1300,7 @@
     </li>
 
     <li class="vendor la-cocina-biz">
-      <img class="logo" src="/z_logos/vendors/sal_de_vida_gourmet.jpg" alt="Sal de Vida Gourmet">
+      <img class="logo" src="/z_logos/vendors/sal_de_vida_gourmet.png" alt="Sal de Vida Gourmet">
       <div class="payload">
         <div class="inner">
           <h1><a href="http://www.saldevidagourmet.com/">Sal de Vida Gourmet</a></h1>
