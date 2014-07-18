@@ -49,7 +49,7 @@
 
 
       <li id="night_market_scottrsquos_bbq">
-        <img class="logo" src="images/vendor_logos/scottrsquos_bbq.png" alt="Scott&rsquo;s BBQ">
+        <img class="logo" src="/z_logos/scottrsquos_bbq.png" alt="Scott&rsquo;s BBQ">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://thescottsbbq.com/">Scott&rsquo;s BBQ</a></h1>
@@ -61,7 +61,7 @@
     
     
       <li id="night_market_whole_foods_steep_brew_craft_beer_garden">
-        <img class="logo" src="images/vendor_logos/whole_foods_steep_brew_craft_beer_garden.png" alt="Whole Foods Steep Brew Craft Beer Garden">
+        <img class="logo" src="/z_logos/whole_foods_steep_brew_craft_beer_garden.png" alt="Whole Foods Steep Brew Craft Beer Garden">
         <div class="payload">
           <div class="inner">
             <h1><a href="">Whole Foods Steep Brew Craft Beer Garden</a></h1>
@@ -73,7 +73,7 @@
     
     
       <li id="night_market_rye_on_the_road">
-        <img class="logo" src="images/vendor_logos/rye_on_the_road.png" alt="Rye on the Road">
+        <img class="logo" src="/z_logos/rye_on_the_road.png" alt="Rye on the Road">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://www.ryeontheroad.com/">Rye on the Road</a></h1>
@@ -87,7 +87,7 @@
     
     
       <li id="night_market_maite_catering">
-        <img class="logo" src="images/vendor_logos/maite_catering.png" alt="Maite Catering">
+        <img class="logo" src="/z_logos/maite_catering.png" alt="Maite Catering">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://www.maitecatering.com/">Maite Catering</a></h1>
@@ -99,7 +99,7 @@
     
     
       <li id="night_market_anda_piroshki">
-        <img class="logo" src="images/vendor_logos/anda_piroshki.png" alt="Anda Piroshki">
+        <img class="logo" src="/z_logos/anda_piroshki.png" alt="Anda Piroshki">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://andapiroshki.com/">Anda Piroshki</a></h1>
@@ -111,7 +111,7 @@
     
     
       <li id="night_market_azalinarsquos">
-        <img class="logo" src="images/vendor_logos/azalinarsquos.png" alt="Azalina&rsquo;s">
+        <img class="logo" src="/z_logos/azalinarsquos.png" alt="Azalina&rsquo;s">
         <div class="payload">
           <div class="inner">
             <h1><a href="www.azalinas.com">Azalina&rsquo;s</a></h1>
@@ -123,7 +123,7 @@
     
     
       <li id="night_market_chaac_mool">
-        <img class="logo" src="images/vendor_logos/chaac_mool.png" alt="Chaac Mool">
+        <img class="logo" src="/z_logos/chaac_mool.png" alt="Chaac Mool">
         <div class="payload">
           <div class="inner">
             <h1><a href="www.chaacmool.com">Chaac Mool</a></h1>
@@ -135,7 +135,7 @@
     
     
       <li id="night_market_el_buen_comer">
-        <img class="logo" src="images/vendor_logos/el_buen_comer.png" alt="El Buen Comer">
+        <img class="logo" src="/z_logos/el_buen_comer.png" alt="El Buen Comer">
         <div class="payload">
           <div class="inner">
             <h1><a href="www.elbuencomersf.com">El Buen Comer</a></h1>
@@ -147,7 +147,7 @@
     
     
       <li id="night_market_el_huarache_loco">
-        <img class="logo" src="images/vendor_logos/el_huarache_loco.png" alt="El Huarache Loco">
+        <img class="logo" src="/z_logos/el_huarache_loco.png" alt="El Huarache Loco">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://huaracheloco.com/">El Huarache Loco</a></h1>
@@ -159,7 +159,7 @@
     
         
       <li id="night_market_endless_summer_sweets">
-        <img class="logo" src="images/vendor_logos/endless_summer_sweets.png" alt="Endless Summer Sweets">
+        <img class="logo" src="/z_logos/endless_summer_sweets.png" alt="Endless Summer Sweets">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://www.endlesssummersweets.com/">Endless Summer Sweets</a></h1>
@@ -171,7 +171,7 @@
     
     
       <li id="night_market_estrellitarsquos_snacks">
-        <img class="logo" src="images/vendor_logos/estrellitarsquos_snacks.png" alt="Estrellita&rsquo;s Snacks">
+        <img class="logo" src="/z_logos/estrellitarsquos_snacks.png" alt="Estrellita&rsquo;s Snacks">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://estrellitassnacks.com/">Estrellita&rsquo;s Snacks</a></h1>
@@ -183,7 +183,7 @@
     
     
       <li id="night_market_jardiniere">
-        <img class="logo" src="images/vendor_logos/jardiniere.png" alt="Jardiniere">
+        <img class="logo" src="/z_logos/jardiniere.png" alt="Jardiniere">
         <div class="payload">
           <div class="inner">
             <h1><a href="www.jardiniere.com">Jardiniere</a></h1>
@@ -195,7 +195,7 @@
     
     
       <li id="night_market_los_cilantros">
-        <img class="logo" src="images/vendor_logos/los_cilantros.png" alt="Los Cilantros">
+        <img class="logo" src="/z_logos/los_cilantros.png" alt="Los Cilantros">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://www.buylocalcampaign.com/losCilantros/">Los Cilantros</a></h1>
@@ -207,7 +207,7 @@
     
     
       <li id="night_market_sabores_del_sur">
-        <img class="logo" src="images/vendor_logos/sabores_del_sur.png" alt="Sabores del Sur">
+        <img class="logo" src="/z_logos/sabores_del_sur.png" alt="Sabores del Sur">
         <div class="payload">
           <div class="inner">
             <h1><a href="www.saborsur.com">Sabores del Sur</a></h1>
@@ -219,7 +219,7 @@
     
     
       <li id="night_market_el_sur_empanadas">
-        <img class="logo" src="images/vendor_logos/el_sur_empanadas.png" alt="El Sur Empanadas">
+        <img class="logo" src="/z_logos/el_sur_empanadas.png" alt="El Sur Empanadas">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://www.elsursf.com/">El Sur Empanadas</a></h1>
@@ -231,7 +231,7 @@
     
     
       <li id="night_market_onigilly">
-        <img class="logo" src="images/vendor_logos/onigilly.png" alt="Onigilly">
+        <img class="logo" src="/z_logos/onigilly.png" alt="Onigilly">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://www.onigilly.com/">Onigilly</a></h1>
@@ -243,7 +243,7 @@
     
     
       <li id="night_market_don_bugito">
-        <img class="logo" src="images/vendor_logos/don_bugito.png" alt="Don Bugito">
+        <img class="logo" src="/z_logos/don_bugito.png" alt="Don Bugito">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://www.donbugito.com/">Don Bugito</a></h1>
@@ -255,7 +255,7 @@
     
     
       <li id="night_market_ken_ken_ramen">
-        <img class="logo" src="images/vendor_logos/ken_ken_ramen.png" alt="Ken Ken Ramen">
+        <img class="logo" src="/z_logos/ken_ken_ramen.png" alt="Ken Ken Ramen">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://eatkenkenramen.com/">Ken Ken Ramen</a></h1>
@@ -273,7 +273,7 @@ Jelly Fish Salad</div>
     
     
       <li id="night_market_tainorsquos_puerto_rican__jim_nrsquo_nickrsquos">
-        <img class="logo" src="images/vendor_logos/tainorsquos_puerto_rican__jim_nrsquo_nickrsquos.png" alt="Taino&rsquo;s Puerto Rican + Jim n&rsquo; Nick&rsquo;s">
+        <img class="logo" src="/z_logos/tainorsquos_puerto_rican__jim_nrsquo_nickrsquos.png" alt="Taino&rsquo;s Puerto Rican + Jim n&rsquo; Nick&rsquo;s">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://www.jimnnicks.com/">Taino&rsquo;s Puerto Rican + Jim n&rsquo; Nick&rsquo;s</a></h1>
@@ -285,7 +285,7 @@ Jelly Fish Salad</div>
     
     
       <li id="night_market_locanda_osteria_bar">
-        <img class="logo" src="images/vendor_logos/locanda_osteria_bar.png" alt="Locanda Osteria Bar">
+        <img class="logo" src="/z_logos/locanda_osteria_bar.png" alt="Locanda Osteria Bar">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://www.locandasf.com/">Locanda Osteria Bar</a></h1>
@@ -297,7 +297,7 @@ Jelly Fish Salad</div>
     
     
       <li id="night_market_nopalito">
-        <img class="logo" src="images/vendor_logos/nopalito.png" alt="Nopalito">
+        <img class="logo" src="/z_logos/nopalito.png" alt="Nopalito">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://www.nopalitosf.com/">Nopalito</a></h1>
@@ -312,7 +312,7 @@ Jelly Fish Salad</div>
     
     
       <li id="night_market_mision_19">
-        <img class="logo" src="images/vendor_logos/mision_19.png" alt="Mision 19">
+        <img class="logo" src="/z_logos/mision_19.png" alt="Mision 19">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://mision19.com/">Mision 19</a></h1>
@@ -324,7 +324,7 @@ Jelly Fish Salad</div>
     
     
       <li id="night_market_to_hyang">
-        <img class="logo" src="images/vendor_logos/to_hyang.png" alt="To Hyang">
+        <img class="logo" src="/z_logos/to_hyang.png" alt="To Hyang">
         <div class="payload">
           <div class="inner">
             <h1><a href="">To Hyang</a></h1>
@@ -335,7 +335,7 @@ Jelly Fish Salad</div>
       </li>
     
       <li id="night_market_soup_junkie">
-        <img class="logo" src="images/vendor_logos/soup_junkie.png" alt="Soup Junkie">
+        <img class="logo" src="/z_logos/soup_junkie.png" alt="Soup Junkie">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://www.soupjunkiesf.com/">Soup Junkie</a></h1>
@@ -346,7 +346,7 @@ Jelly Fish Salad</div>
       </li>
     
       <li id="night_market_bone__gristle_boys">
-        <img class="logo" src="images/vendor_logos/bone__gristle_boys.png" alt="Bone & Gristle Boys">
+        <img class="logo" src="/z_logos/bone__gristle_boys.png" alt="Bone & Gristle Boys">
         <div class="payload">
           <div class="inner">
             <h1><a href="">Bone &amp; Gristle Boys</a></h1>
@@ -360,7 +360,7 @@ Jelly Fish Salad</div>
 
 
       <li id="night_market_5th_floor_restaurant">
-        <img class="logo" src="images/vendor_logos/5th_floor_restaurant.png" alt="5th Floor Restaurant">
+        <img class="logo" src="/z_logos/5th_floor_restaurant.png" alt="5th Floor Restaurant">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://www.fifthfloorrestaurant.com/">5th Floor Restaurant</a></h1>
@@ -374,7 +374,7 @@ Jelly Fish Salad</div>
     
     
       <li id="night_market_chieforsquos_kitchen">
-        <img class="logo" src="images/vendor_logos/chieforsquos_kitchen.png" alt="Chiefo&rsquo;s Kitchen">
+        <img class="logo" src="/z_logos/chieforsquos_kitchen.png" alt="Chiefo&rsquo;s Kitchen">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://www.chiefoskitchen.com/Home.htm">Chiefo&rsquo;s Kitchen</a></h1>
@@ -386,7 +386,7 @@ Jelly Fish Salad</div>
     
     
       <li id="night_market_juhu_beach_club">
-        <img class="logo" src="images/vendor_logos/juhu_beach_club.png" alt="Juhu Beach Club">
+        <img class="logo" src="/z_logos/juhu_beach_club.png" alt="Juhu Beach Club">
         <div class="payload">
           <div class="inner">
             <h1><a href="">Juhu Beach Club</a></h1>

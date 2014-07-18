@@ -156,27 +156,27 @@
         <div class="sponsor-logos clear">
           <h1>Thank you to our generous sponsors<br/>and supporters</h1>
 
-          <div class="logo logo-3"><a href="http://www.liifund.org/"><img src="/z_logos/sponsors/liif.png" alt="Low Income Investment Fund"/></a></div>
-          <div class="logo logo-3"><a href="http://www.wellsfargo.com/"><img src="/z_logos/sponsors/wells_fargo.png" alt="Wells Fargo"/></a></div>
-          <div class="logo logo-3"><a href="http://www.fhlbanks.com/contacts_mpi_sanfrancisco.htm"><img src="/z_logos/sponsors/fhl_bank.png" alt="FHLBank San Francisco"/></a></div>
-          <div class="logo logo-3"><a href="http://www.sfbar.org/lawyerreferrals/index.aspx"><img src="/z_logos/sponsors/sf_bar_referral.png" alt="SF Bar LRIS"/></a></div>
+          <div class="logo logo-3"><a href="http://www.liifund.org/"><img src="/z_logos/liif.png" alt="Low Income Investment Fund"/></a></div>
+          <div class="logo logo-3"><a href="http://www.wellsfargo.com/"><img src="/z_logos/wells_fargo.png" alt="Wells Fargo"/></a></div>
+          <div class="logo logo-3"><a href="http://www.fhlbanks.com/contacts_mpi_sanfrancisco.htm"><img src="/z_logos/fhl_bank.png" alt="FHLBank San Francisco"/></a></div>
+          <div class="logo logo-3"><a href="http://www.sfbar.org/lawyerreferrals/index.aspx"><img src="/z_logos/sf_bar_referral.png" alt="SF Bar LRIS"/></a></div>
           <div class="logo logo-3"><a href="http://tandem-made.com/"><img src="z_logos/sponsors/tandem-made.png" alt="Tandem"/></a></div>
           <div class="logo logo-3"><a href="http://www.madelenefarin.com/"><img src="z_logos/sponsors/madelene_farin.png" alt="Madelene Farin"/></a></div>
           <div class="logo logo-3"><a href="http://www.aedansf.com/"><img src="z_logos/vendors/aedan.png" alt="Aedan Fermented Foods"/></a></div>
           <div class="logo logo-3"><a href="http://andapiroshki.com/"><img src="z_logos/vendors/anda_piroshki.png" alt="Anda Piroshki"/></a></div>
           <div class="logo logo-3"><a href="http://www.ejisethiopian.com/"><img src="z_logos/vendors/ejis.png" alt="Eji's Ethiopian"/></a></div>
           <div class="logo logo-3"><a href="http://www.saldevidagourmet.com/"><img src="z_logos/vendors/sal_de_vida_gourmet.png" alt="Sal De Vida Gourmet"/></a></div>
-          <!-- <div class="logo logo-3"><a href="http://teamproevent.com/"><img src="/z_logos/sponsors/proevent.png" alt="Team Pro Event"/></a></div> -->
-          <!-- <div class="logo logo-3"><a href="http://purityorganic.com/"><img src="/z_logos/sponsors/purity.png" alt="Purity Organic"/></a></div> -->
-          <!-- <div class="logo logo-3"><a href="https://www.sfcooking.com/"><img src="/z_logos/sponsors/san_francisco_cooking_school.png" alt="San Francisco Cooking School"/></a></div> -->
-          <!-- <div class="logo logo-3"><a href="http://cater2.me/"><img src="/z_logos/sponsors/cater2me.png" alt="Cater2Me"/></a></div> -->
-          <!-- <div class="logo logo-3"><a href="http://www.runa.org/"><img src="/z_logos/sponsors/runa.png" alt="Runa"/></a></div> -->
-          <!-- <div class="logo logo-3"><a href="http://www.sfbg.com/"><img src="/z_logos/sponsors/sf_bay_guardian.png" alt="SF Bay Guardian"/></a></div> -->
-          <!-- <div class="logo logo-3"><a href="http://www.saveur.com/"><img src="/z_logos/sponsors/saveur.png" alt="Saveur"/></a></div> -->
-          <!-- <div class="logo logo-3"><a href="http://www.fhlbsf.com/"><img src="/z_logos/sponsors/fhl_bank.png" alt="FHL Bank"/></a></div> -->
-          <!-- <div class="logo logo-3"><a href="http://www.ssfllp.com/"><img src="/z_logos/sponsors/sensiba_san_filippo.png" alt="Sensiba San Filippo"/></a></div> -->
-          <!-- <div class="logo logo-3"><a href="https://generalassemb.ly/"><img src="/z_logos/sponsors/general_assembly.png" alt="General Assembly"/></a></div> -->
-          <!-- <div class="logo logo-3"><a href="http://www.southernfoodways.org/"><img src="/z_logos/sponsors/southern_foodways_alliance.png" alt="Southern Foodways Alliance"/></a></div> -->
+          <!-- <div class="logo logo-3"><a href="http://teamproevent.com/"><img src="/z_logos/proevent.png" alt="Team Pro Event"/></a></div> -->
+          <!-- <div class="logo logo-3"><a href="http://purityorganic.com/"><img src="/z_logos/purity.png" alt="Purity Organic"/></a></div> -->
+          <!-- <div class="logo logo-3"><a href="https://www.sfcooking.com/"><img src="/z_logos/san_francisco_cooking_school.png" alt="San Francisco Cooking School"/></a></div> -->
+          <!-- <div class="logo logo-3"><a href="http://cater2.me/"><img src="/z_logos/cater2me.png" alt="Cater2Me"/></a></div> -->
+          <!-- <div class="logo logo-3"><a href="http://www.runa.org/"><img src="/z_logos/runa.png" alt="Runa"/></a></div> -->
+          <!-- <div class="logo logo-3"><a href="http://www.sfbg.com/"><img src="/z_logos/sf_bay_guardian.png" alt="SF Bay Guardian"/></a></div> -->
+          <!-- <div class="logo logo-3"><a href="http://www.saveur.com/"><img src="/z_logos/saveur.png" alt="Saveur"/></a></div> -->
+          <!-- <div class="logo logo-3"><a href="http://www.fhlbsf.com/"><img src="/z_logos/fhl_bank.png" alt="FHL Bank"/></a></div> -->
+          <!-- <div class="logo logo-3"><a href="http://www.ssfllp.com/"><img src="/z_logos/sensiba_san_filippo.png" alt="Sensiba San Filippo"/></a></div> -->
+          <!-- <div class="logo logo-3"><a href="https://generalassemb.ly/"><img src="/z_logos/general_assembly.png" alt="General Assembly"/></a></div> -->
+          <!-- <div class="logo logo-3"><a href="http://www.southernfoodways.org/"><img src="/z_logos/southern_foodways_alliance.png" alt="Southern Foodways Alliance"/></a></div> -->
         </div>
 
         <p style="margin-top: 1em;">La Cocina&rsquo;s Food &amp; Entrepreneurship Conference is supported by the <a href="http://www.somarts.org/">SOMArts Cultural Center&rsquo;s</a> Affordable Space Program, which provides subsidized, large-scale affordable space and technical assistance to non-profits. SOMArts receives support from the San Francisco Arts Commission&rsquo;s Community Arts and Education Program with funding from Grants for the Arts/The Hotel Tax Fund. The mission of SOMArts is to promote and nurture art on the community level and foster an appreciation of and respect for all cultures. To find out about SOMArts classes, events, and exhibitions, please visit <a href="http://www.somarts.org">www.somarts.org</a>.</p>

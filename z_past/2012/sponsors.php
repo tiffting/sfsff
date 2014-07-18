@@ -27,19 +27,19 @@
         <tr>
           <td colspan="2" valign="top">
             <h1>National Media Sponsor</h1>
-            <a href="http://www.saveur.com/"><img src="images/sponsors/saveur.png" alt="Saveur" /></a>
+            <a href="http://www.saveur.com/"><img src="/z_logos/saveur.png" alt="Saveur" /></a>
           </td>
           <td colspan="2" valign="top">
             <h1>Presenting Sponsor</h1>
-            <a href="http://www.wholefoods.com"><img src="images/sponsors/whole_foods.png" alt="Whole Foods" /></a>
+            <a href="http://www.wholefoods.com"><img src="/z_logos/whole_foods.png" alt="Whole Foods" /></a>
           </td>
         </tr>
       </table>
       
       <table>
         <tr>
-          <td><a href="http://wellsfargo.com"><img src="/z_logos/sponsors/wells_fargo.png" alt="Wells Fargo" /></a></td>
-          <td><a href="http://ryeontheroad.com"><img src="images/sponsors/rye_on_the_road.png" alt="Rye On The Road" /></a></td>
+          <td><a href="http://wellsfargo.com"><img src="/z_logos/wells_fargo.png" alt="Wells Fargo" /></a></td>
+          <td><a href="http://ryeontheroad.com"><img src="/z_logos/rye_on_the_road.png" alt="Rye On The Road" /></a></td>
           <td></td>
         </tr>
       </table>
@@ -47,73 +47,73 @@
                 
       <table>
         <tr>
-          <td><a href="http://offthegridsf.com/"><img src="images/sponsors/off_the_grid.png" alt="Off The Grid" /></a></td>
-          <td><a href="http://purityorganic.com/"><img src="images/sponsors/purity.png" alt="Purity Organics" /></a></td>
-          <td><a href="https://www.imagesnap.com/"><img src="images/sponsors/imagesnap.png" alt="ImageSnap Photo Tiles" /></a></td>
+          <td><a href="http://offthegridsf.com/"><img src="/z_logos/off_the_grid.png" alt="Off The Grid" /></a></td>
+          <td><a href="http://purityorganic.com/"><img src="/z_logos/purity.png" alt="Purity Organics" /></a></td>
+          <td><a href="https://www.imagesnap.com/"><img src="/z_logos/imagesnap.png" alt="ImageSnap Photo Tiles" /></a></td>
         </tr>
         <tr>
-          <td><a href="http://indiegogo.com"><img src="images/sponsors/indiegogo.png" alt="Indiegogo"></a></td>
-          <td><a href="http://veritablevegetable.com"><img src="images/sponsors/veritable_vegetable.png" alt="Veritable Vegetable"></a></td>
-          <td><a href="http://absseafood.com"><img src="images/sponsors/abs.png" alt="ABS Seafood"></a></td>
+          <td><a href="http://indiegogo.com"><img src="/z_logos/indiegogo.png" alt="Indiegogo"></a></td>
+          <td><a href="http://veritablevegetable.com"><img src="/z_logos/veritable_vegetable.png" alt="Veritable Vegetable"></a></td>
+          <td><a href="http://absseafood.com"><img src="/z_logos/abs.png" alt="ABS Seafood"></a></td>
         </tr>
         <tr>
-          <td><a href="http://www.oaklandpallet.com/"><img src="images/sponsors/pallet.png" alt="Oakland Pallet"></a></td>
-          <td><a href="http://www3.hilton.com/en/hotels/california/hilton-san-francisco-union-square-SFOFHHH/index.html"><img src="images/sponsors/hilton.png" alt="Hilton Union Square"></a></td>
-          <td><a href="http://www.tonysfinefoods.com/"><img src="images/sponsors/tonys.png" alt="Tony's Fine Foods"></a></td>
+          <td><a href="http://www.oaklandpallet.com/"><img src="/z_logos/pallet.png" alt="Oakland Pallet"></a></td>
+          <td><a href="http://www3.hilton.com/en/hotels/california/hilton-san-francisco-union-square-SFOFHHH/index.html"><img src="/z_logos/hilton.png" alt="Hilton Union Square"></a></td>
+          <td><a href="http://www.tonysfinefoods.com/"><img src="/z_logos/tonys.png" alt="Tony's Fine Foods"></a></td>
         </tr>
         <tr>
-          <td><a href="http://goodeggsinc.com/"><img src="images/sponsors/goodeggs.png" alt="Good Eggs"></a></td>
-          <td><a href="http://cater2.me/"><img src="images/sponsors/cater2me.png" alt="Cater2.me"></a></td>
-          <td><a href="http://www.theindependentsf.com/"><img src="images/sponsors/independent.png" alt="The Independent"></a></td>
+          <td><a href="http://goodeggsinc.com/"><img src="/z_logos/goodeggs.png" alt="Good Eggs"></a></td>
+          <td><a href="http://cater2.me/"><img src="/z_logos/cater2me.png" alt="Cater2.me"></a></td>
+          <td><a href="http://www.theindependentsf.com/"><img src="/z_logos/independent.png" alt="The Independent"></a></td>
         </tr>
         <tr>
-          <td><a href="http://www.berkeleyfarms.com/"><img src="images/sponsors/berkeley_farms.png" alt="Berkeley Farms"></a></td>
-          <td><a href="http://www.tequilaespolon.com/"><img src="images/sponsors/espolon.png" alt="Espolon" /></a></td>
-          <td><a href="http://flordecana.com/"><img src="images/sponsors/flor.png" alt="Flor de Ca&ntilde;a" /></a></td>
+          <td><a href="http://www.berkeleyfarms.com/"><img src="/z_logos/berkeley_farms.png" alt="Berkeley Farms"></a></td>
+          <td><a href="http://www.tequilaespolon.com/"><img src="/z_logos/espolon.png" alt="Espolon" /></a></td>
+          <td><a href="http://flordecana.com/"><img src="/z_logos/flor.png" alt="Flor de Ca&ntilde;a" /></a></td>
         </tr>
         <tr>
-          <td><a href="http://www.wildturkey.com/"><img src="images/sponsors/wild_turkey.png" alt="Wild Turkey" /></a></td>
-          <td><a href="http://www.tums.com/products/freshers.html"><img src="images/sponsors/tums.png" alt="Tums" /></a></td>
-          <td><a href="http://www.zipcar.com"><img src="images/sponsors/zipcar.png" alt="Zipcar" /></a></td>
+          <td><a href="http://www.wildturkey.com/"><img src="/z_logos/wild_turkey.png" alt="Wild Turkey" /></a></td>
+          <td><a href="http://www.tums.com/products/freshers.html"><img src="/z_logos/tums.png" alt="Tums" /></a></td>
+          <td><a href="http://www.zipcar.com"><img src="/z_logos/zipcar.png" alt="Zipcar" /></a></td>
         </tr>
         <tr>
-          <td><a href="http://www.fortmason.org/"><img src="images/sponsors/fort_mason.png" alt="Fort Mason" /></a></td>
-          <td><a href="http://www.dpem.com/"><img src="images/sponsors/dpem.png" alt="DPEM" /></a></td>
-          <td><a href="http://www.zagat.com"><img src="images/sponsors/zagat.png" alt="Zagat" /></a></td>
+          <td><a href="http://www.fortmason.org/"><img src="/z_logos/fort_mason.png" alt="Fort Mason" /></a></td>
+          <td><a href="http://www.dpem.com/"><img src="/z_logos/dpem.png" alt="DPEM" /></a></td>
+          <td><a href="http://www.zagat.com"><img src="/z_logos/zagat.png" alt="Zagat" /></a></td>
         </tr>
         <tr>
-          <td><a href="http://www.intersticearchitects.com/"><img src="images/sponsors/interstice.png" alt="Interstice" /></a></td>
-          <td><a href="http://www.rainbow.coop/"><img src="images/sponsors/rainbow.png" alt="Rainbow Grocery" /></a></td>
-          <td><a href="http://www.trincheronapavalley.com/"><img src="images/sponsors/trinchero.png" alt="Trinchero Family Vineyards" /></a></td>
+          <td><a href="http://www.intersticearchitects.com/"><img src="/z_logos/interstice.png" alt="Interstice" /></a></td>
+          <td><a href="http://www.rainbow.coop/"><img src="/z_logos/rainbow.png" alt="Rainbow Grocery" /></a></td>
+          <td><a href="http://www.trincheronapavalley.com/"><img src="/z_logos/trinchero.png" alt="Trinchero Family Vineyards" /></a></td>
         </tr>
         <tr>
-          <td><a href="http://www.unionbank.com/"><img src="images/sponsors/union_bank.png" alt="Union Bank" /></a></td>
-          <td><a href="http://www.hungryglobetrotter.com/"><img src="images/sponsors/hungry_globetrotter.png" alt="Hungry Globetrotter" /></a></td>
-          <td><a href="http://www.fhlbsf.com/"><img src="images/sponsors/fhl_bank.png" alt="FHL Bank" /></a></td>
+          <td><a href="http://www.unionbank.com/"><img src="/z_logos/union_bank.png" alt="Union Bank" /></a></td>
+          <td><a href="http://www.hungryglobetrotter.com/"><img src="/z_logos/hungry_globetrotter.png" alt="Hungry Globetrotter" /></a></td>
+          <td><a href="http://www.fhlbsf.com/"><img src="/z_logos/fhl_bank.png" alt="FHL Bank" /></a></td>
         </tr>
         <tr>
-          <td><a href="http://www.somarts.org/"><img src="images/sponsors/somarts.png" alt="SOMArts" /></a></td>
-          <td><a href="http://www.evernote.com/"><img src="images/sponsors/evernote.png" alt="evernote"></a></td>
-          <td><a href="http://food-hub.org/"><img src="images/sponsors/food_hub.png" alt="Food Hub"></a></td>
+          <td><a href="http://www.somarts.org/"><img src="/z_logos/somarts.png" alt="SOMArts" /></a></td>
+          <td><a href="http://www.evernote.com/"><img src="/z_logos/evernote.png" alt="evernote"></a></td>
+          <td><a href="http://food-hub.org/"><img src="/z_logos/food_hub.png" alt="Food Hub"></a></td>
         </tr>
         <tr>
-          <td><a href="http://uspw.net"><img src="images/sponsors/pure_water.png" alt="US Pure Water"></a></td>
-          <td><a href="http://sfcooking.com/"><img src="images/sponsors/san_francisco_cooking_school.png" alt="San Francisco Cooking School"></a></td>
-          <td><a href="http://99apps.com/"><img src="images/sponsors/99apps.png" alt="99 Apps"></a></td>
+          <td><a href="http://uspw.net"><img src="/z_logos/pure_water.png" alt="US Pure Water"></a></td>
+          <td><a href="http://sfcooking.com/"><img src="/z_logos/san_francisco_cooking_school.png" alt="San Francisco Cooking School"></a></td>
+          <td><a href="http://99apps.com/"><img src="/z_logos/99apps.png" alt="99 Apps"></a></td>
         </tr>
         <tr>
-          <td><a href="http://eventbrite.com"><img src="images/sponsors/eventbrite.png" alt="Eventbrite"></a></td>
-          <td><a href="http://www.izze.com/"><img src="images/sponsors/izze.png" alt="Izze"></a></td>
-          <td><a href="http://nationalpeanutboard.org"><img src="images/sponsors/peanuts.png" alt="National Peanut Board"></a></td>
+          <td><a href="http://eventbrite.com"><img src="/z_logos/eventbrite.png" alt="Eventbrite"></a></td>
+          <td><a href="http://www.izze.com/"><img src="/z_logos/izze.png" alt="Izze"></a></td>
+          <td><a href="http://nationalpeanutboard.org"><img src="/z_logos/peanuts.png" alt="National Peanut Board"></a></td>
         </tr>
         <tr>
-          <td><a href="http://www.drinkhint.com/"><img src="images/sponsors/hint.png" alt="Hint"></a></td>
-          <td><a href="http://methodhome.com/"><img src="images/sponsors/method.png" alt="Method"></a></td>
-          <td><a href="http://www.blackstar.com/"><img src="images/sponsors/black_star.png" alt="Black Star"></a></td>
+          <td><a href="http://www.drinkhint.com/"><img src="/z_logos/hint.png" alt="Hint"></a></td>
+          <td><a href="http://methodhome.com/"><img src="/z_logos/method.png" alt="Method"></a></td>
+          <td><a href="http://www.blackstar.com/"><img src="/z_logos/black_star.png" alt="Black Star"></a></td>
         </tr>
         <tr>
           <td></td>
-          <td><a href="https://www.sailpay.com/?utm_source=lacocina&utm_medium=pdf&utm_campaign=signup"><img src="images/sponsors/sail.png" alt="Sail"></a></td>
+          <td><a href="https://www.sailpay.com/?utm_source=lacocina&utm_medium=pdf&utm_campaign=signup"><img src="/z_logos/sail.png" alt="Sail"></a></td>
           <td></td>
         </tr>
       </table>
@@ -125,9 +125,9 @@
           </th>
         </tr>
         <tr>
-          <td><a href="http://www.7x7.com/"><img src="images/sponsors/7x7.png" alt="7x7 Magazine"></a></td>
-          <td><a href="http://roaminghunger.com/"><img src="images/sponsors/roaming_hunger.png" alt="Roaming Hunger"></a></td>
-          <td><a href="http://www.sfbg.com/"><img src="images/sponsors/guardian.png" alt="Guardian"></a></td>
+          <td><a href="http://www.7x7.com/"><img src="/z_logos/7x7.png" alt="7x7 Magazine"></a></td>
+          <td><a href="http://roaminghunger.com/"><img src="/z_logos/roaming_hunger.png" alt="Roaming Hunger"></a></td>
+          <td><a href="http://www.sfbg.com/"><img src="/z_logos/guardian.png" alt="Guardian"></a></td>
         </tr>
       </table>
       

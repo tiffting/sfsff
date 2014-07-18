@@ -163,14 +163,14 @@
 
       <section id="sponsors">
         <h1>Thank You to our Sponsors</h1>
-        <p><a href="http://www.unionbank.com/"><img src="images/sponsors/union_bank.png" alt="Union Bank" /></a></p>
-        <p><a href="http://www.fhlbsf.com/"><img src="images/sponsors/fhl_bank.png" alt="FHL Bank" /></a></p>
-        <p><a href="http://www.somarts.org/"><img src="images/sponsors/somarts.png" alt="SOMArts" /></a></p>
-        <p><a href="http://www.evernote.com/"><img src="images/sponsors/evernote.png" alt="evernote"></a></p>
-        <p><a href="http://food-hub.org/"><img src="images/sponsors/food_hub.png" alt="Food Hub"></a></p>
-        <p><a href="http://nationalpeanutboard.org"><img src="images/sponsors/peanuts.png" alt="National Peanut Board"></a></p>
-        <p><a href="http://eventbrite.com"><img src="images/sponsors/eventbrite.png" alt="Eventbrite"></a></p>
-        <p><a href="www.blackstar.com/"><img src="images/sponsors/black_star.png" alt="Black Star"></a></p>
+        <p><a href="http://www.unionbank.com/"><img src="/z_logos/union_bank.png" alt="Union Bank" /></a></p>
+        <p><a href="http://www.fhlbsf.com/"><img src="/z_logos/fhl_bank.png" alt="FHL Bank" /></a></p>
+        <p><a href="http://www.somarts.org/"><img src="/z_logos/somarts.png" alt="SOMArts" /></a></p>
+        <p><a href="http://www.evernote.com/"><img src="/z_logos/evernote.png" alt="evernote"></a></p>
+        <p><a href="http://food-hub.org/"><img src="/z_logos/food_hub.png" alt="Food Hub"></a></p>
+        <p><a href="http://nationalpeanutboard.org"><img src="/z_logos/peanuts.png" alt="National Peanut Board"></a></p>
+        <p><a href="http://eventbrite.com"><img src="/z_logos/eventbrite.png" alt="Eventbrite"></a></p>
+        <p><a href="www.blackstar.com/"><img src="/z_logos/black_star.png" alt="Black Star"></a></p>
         <p>La Cocina&#x27;s Food &amp; Entrepreneurship Conference is supported by the SOMArts Cultural Center&rsquo;s Affordable Space Program, which  provides subsidized, large-scale affordable space and technical assistance to nonprofits. SOMArts receives support from the San Francisco Arts Commission&rsquo;s Community Arts and Education Program with funding from Grants for the Arts/The Hotel Tax Fund. The mission of SOMArts is to promote and nurture art on the community level and foster an appreciation of and respect for all cultures. To find out about SOMArts classes, events and exhibitions, please visit <a href="http://www.somarts.org">www.somarts.org</a></p>
       </section>
 

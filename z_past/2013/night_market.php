@@ -76,7 +76,7 @@
       <li class="gutter-sizer"></li>
       
       <li class="vendor">
-        <img class="logo" src="/z_logos/vendors/rye_on_the_road.png" alt="Rye on the Road">
+        <img class="logo" src="/z_logos/rye_on_the_road.png" alt="Rye on the Road">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://www.ryeontheroad.com/">Rye on the Road</a></h1>
@@ -91,7 +91,7 @@
       </li>
 
       <li class="vendor">
-        <img class="logo" src="/z_logos/vendors/whole_foods_steep_brew_craft_beer_garden.png" alt="Whole Foods Steep Brew Craft Beer Garden">
+        <img class="logo" src="/z_logos/whole_foods_steep_brew_craft_beer_garden.png" alt="Whole Foods Steep Brew Craft Beer Garden">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://www.wholefoodsmarket.com/service/steep-brew">Whole Foods Steep Brew Craft Beer Garden</a></h1>
@@ -106,7 +106,7 @@
       </li>
 
       <li class="vendor">
-        <img class="logo" src="/z_logos/sponsors/jim_n_nicks.png" alt="Jim &rsquo;n&rsquo; Nick&rsquo;s Bar-B-Q">
+        <img class="logo" src="/z_logos/jim_n_nicks.png" alt="Jim &rsquo;n&rsquo; Nick&rsquo;s Bar-B-Q">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://www.jimnnicks.com/">Jim &rsquo;n&rsquo; Nick&rsquo;s Bar-B-Q</a></h1>
@@ -117,7 +117,7 @@
       </li>
 
       <li class="vendor">
-        <img class="logo" src="/z_logos/vendors/skylight_inn.png" alt="Skylight Inn BBQ">
+        <img class="logo" src="/z_logos/skylight_inn.png" alt="Skylight Inn BBQ">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://skylightinnbbq.com/">Skylight Inn BBQ</a></h1>
@@ -128,7 +128,7 @@
       </li>
 
       <li class="vendor">
-        <img class="logo" src="/z_logos/vendors/scotts_bbq.jpg" alt="Scott&rsquo;s Bar-B-Q">
+        <img class="logo" src="/z_logos/scotts_bbq.jpg" alt="Scott&rsquo;s Bar-B-Q">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://thescottsbbq.com/">Scott&rsquo;s Bar-B-Q</a></h1>
@@ -139,7 +139,7 @@
       </li>
 
       <li class="vendor">
-        <img class="logo" src="/z_logos/vendors/helens_bbq.jpg" alt="Helen&rsquo;s Bar-B-Q">
+        <img class="logo" src="/z_logos/helens_bbq.jpg" alt="Helen&rsquo;s Bar-B-Q">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://www.southernfoodways.org/interview/helens-bar-b-q/">Helen&rsquo;s Bar-B-Q</a></h1>
@@ -150,7 +150,7 @@
       </li>
 
       <li class="vendor la-cocina-biz">
-        <img class="logo" src="/z_logos/vendors/sugarfoot_grits.png" alt="Sugarfoot Grits">
+        <img class="logo" src="/z_logos/sugarfoot_grits.png" alt="Sugarfoot Grits">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://www.sugarfootgrits.com/">Sugarfoot Grits</a></h1>
@@ -161,7 +161,7 @@
       </li>
 
       <li class="vendor la-cocina-biz">
-        <img class="logo" src="/z_logos/vendors/zellas_soulful_kitchen.png" alt="Zella&rsquo;s Soulful Kitchen">
+        <img class="logo" src="/z_logos/zellas_soulful_kitchen.png" alt="Zella&rsquo;s Soulful Kitchen">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://zellassoulfulkitchen.com/">Zella&rsquo;s Soulful Kitchen</a></h1>
@@ -172,7 +172,7 @@
       </li>
 
       <li class="vendor">
-        <img class="logo" src="/z_logos/vendors/minnie_bells.gif" alt="Minnie Bell&rsquo;s Soul Movement">
+        <img class="logo" src="/z_logos/minnie_bells.gif" alt="Minnie Bell&rsquo;s Soul Movement">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://www.minniebells.com/">Minnie Bell&rsquo;s Soul Movement</a></h1>
@@ -183,7 +183,7 @@
       </li>
 
       <li class="vendor">
-        <img class="logo" src="/z_logos/vendors/comstock_saloon.gif" alt="Comstock Saloon">
+        <img class="logo" src="/z_logos/comstock_saloon.gif" alt="Comstock Saloon">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://www.comstocksaloon.com/">Comstock Saloon</a></h1>
@@ -194,7 +194,7 @@
       </li>
 
       <li class="vendor">
-        <img class="logo" src="/z_logos/vendors/4505_meats.png" alt="4505 Meats">
+        <img class="logo" src="/z_logos/4505_meats.png" alt="4505 Meats">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://4505meats.com/">4505 Meats</a></h1>
@@ -205,7 +205,7 @@
       </li>
 
       <li class="vendor">
-        <img class="logo" src="/z_logos/vendors/nopalito.gif" alt="Nopalito">
+        <img class="logo" src="/z_logos/nopalito.gif" alt="Nopalito">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://www.nopalitosf.com/">Nopalito</a></h1>
@@ -216,7 +216,7 @@
       </li>
 
       <li class="vendor la-cocina-biz">
-        <img class="logo" src="/z_logos/vendors/sabores_del_sur.png" alt="Sabores del Sur">
+        <img class="logo" src="/z_logos/sabores_del_sur.png" alt="Sabores del Sur">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://saboresdelsursf.com/">Sabores del Sur</a></h1>
@@ -227,7 +227,7 @@
       </li>
 
       <li class="vendor la-cocina-biz">
-        <img class="logo" src="/z_logos/vendors/estrellitas_snacks.png" alt="Estrellita&rsquo;s Snacks">
+        <img class="logo" src="/z_logos/estrellitas_snacks.png" alt="Estrellita&rsquo;s Snacks">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://estrellitassnacks.com/">Estrellita&rsquo;s Snacks</a></h1>
@@ -238,7 +238,7 @@
       </li>
 
       <li class="vendor la-cocina-biz">
-        <img class="logo" src="/z_logos/vendors/kikas_treats.png" alt="Kika&rsquo;s Treats">
+        <img class="logo" src="/z_logos/kikas_treats.png" alt="Kika&rsquo;s Treats">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://www.kikastreats.com/">Kika&rsquo;s Treats</a></h1>
@@ -249,7 +249,7 @@
       </li>
 
       <li class="vendor la-cocina-biz">
-        <img class="logo" src="/z_logos/vendors/sweets_collection.png" alt="Sweets Collection">
+        <img class="logo" src="/z_logos/sweets_collection.png" alt="Sweets Collection">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://www.sweetscollections.com/">Sweets Collection</a></h1>
@@ -260,7 +260,7 @@
       </li>
 
       <li class="vendor la-cocina-biz">
-        <img class="logo" src="/z_logos/vendors/zepeda_foods.png" alt="Zepeda Foods">
+        <img class="logo" src="/z_logos/zepeda_foods.png" alt="Zepeda Foods">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://www.zepedafoods.com/">Zepeda Foods</a></h1>
@@ -271,7 +271,7 @@
       </li>
 
       <li class="vendor">
-        <img class="logo" src="/z_logos/vendors/mijita.jpg" alt="Mijita">
+        <img class="logo" src="/z_logos/mijita.jpg" alt="Mijita">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://www.mijitasf.com/">Mijita</a></h1>
@@ -282,7 +282,7 @@
       </li>
 
       <li class="vendor la-cocina-biz">
-        <img class="logo" src="/z_logos/vendors/los_cilantros.png" alt="Los Cilantros">
+        <img class="logo" src="/z_logos/los_cilantros.png" alt="Los Cilantros">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://www.buylocalcampaign.com/losCilantros/">Los Cilantros</a></h1>
@@ -293,7 +293,7 @@
       </li>
 
       <li class="vendor la-cocina-biz">
-        <img class="logo" src="/z_logos/vendors/sal_de_vida_gourmet.png" alt="Sal de Vida Gourmet">
+        <img class="logo" src="/z_logos/sal_de_vida_gourmet.png" alt="Sal de Vida Gourmet">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://www.saldevidagourmet.com/">Sal de Vida Gourmet</a></h1>
@@ -307,7 +307,7 @@
       </li>
 
       <li class="vendor la-cocina-biz">
-        <img class="logo" src="/z_logos/vendors/maite_catering.png" alt="Maite Catering">
+        <img class="logo" src="/z_logos/maite_catering.png" alt="Maite Catering">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://www.maitecatering.com/">Maite Catering</a></h1>
@@ -318,7 +318,7 @@
       </li>
 
       <li class="vendor la-cocina-biz">
-        <img class="logo" src="/z_logos/vendors/onigilly.png" alt="Onigilly">
+        <img class="logo" src="/z_logos/onigilly.png" alt="Onigilly">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://www.onigilly.com/">Onigilly</a></h1>
@@ -332,7 +332,7 @@
       </li>
 
       <li class="vendor la-cocina-biz">
-        <img class="logo" src="/z_logos/vendors/aedan.png" alt="Aedan Fermented Foods">
+        <img class="logo" src="/z_logos/aedan.png" alt="Aedan Fermented Foods">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://aedansf.com/">Aedan Fermented Foods</a></h1>
@@ -343,7 +343,7 @@
       </li>
 
       <li class="vendor">
-        <img class="logo" src="/z_logos/vendors/nojo.png" alt="Nojo">
+        <img class="logo" src="/z_logos/nojo.png" alt="Nojo">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://www.nojosf.com/">Nojo</a></h1>
@@ -354,7 +354,7 @@
       </li>
 
       <li class="vendor">
-        <img class="logo" src="/z_logos/vendors/hopscotch.gif" alt="Hopscotch">
+        <img class="logo" src="/z_logos/hopscotch.gif" alt="Hopscotch">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://hopscotchoakland.com/">Hopscotch</a></h1>
@@ -365,7 +365,7 @@
       </li>
 
       <li class="vendor">
-        <img class="logo" src="/z_logos/vendors/zare.gif" alt="Zar&eacute; at Fly Trap">
+        <img class="logo" src="/z_logos/zare.gif" alt="Zar&eacute; at Fly Trap">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://zareflytrap.com/">Zar&eacute; at Fly Trap</a></h1>
@@ -376,7 +376,7 @@
       </li>
 
       <li class="vendor">
-        <img class="logo" src="/z_logos/vendors/fifth_floor.gif" alt="Fifth Floor Restaurant">
+        <img class="logo" src="/z_logos/fifth_floor.gif" alt="Fifth Floor Restaurant">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://www.fifthfloorrestaurant.com/">Fifth Floor Restaurant</a></h1>
@@ -387,7 +387,7 @@
       </li>
 
       <li class="vendor la-cocina-biz">
-        <img class="logo" src="/z_logos/vendors/love_hummus.gif" alt="Love &amp; Hummus">
+        <img class="logo" src="/z_logos/love_hummus.gif" alt="Love &amp; Hummus">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://loveandhummus.com/">Love &amp; Hummus</a></h1>
@@ -398,7 +398,7 @@
       </li>
 
       <li class="vendor la-cocina-biz">
-        <img class="logo" src="/z_logos/vendors/saint_olive.png" alt="Saint &amp; Olive">
+        <img class="logo" src="/z_logos/saint_olive.png" alt="Saint &amp; Olive">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://saintandolive.com/">Saint &amp; Olive</a></h1>
@@ -409,7 +409,7 @@
       </li>
 
       <li class="vendor la-cocina-biz">
-        <img class="logo" src="/z_logos/vendors/chiefos.png" alt="Chiefo&rsquo;s Kitchen">
+        <img class="logo" src="/z_logos/chiefos.png" alt="Chiefo&rsquo;s Kitchen">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://www.chiefoskitchen.com/">Chiefo&rsquo;s Kitchen</a></h1>
@@ -420,7 +420,7 @@
       </li>
 
       <li class="vendor la-cocina-biz">
-        <img class="logo" src="/z_logos/vendors/ejis.png" alt="Eji&rsquo;s Ethiopian">
+        <img class="logo" src="/z_logos/ejis.png" alt="Eji&rsquo;s Ethiopian">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://www.ejisethiopian.com/">Eji&rsquo;s Ethiopian</a></h1>
@@ -431,7 +431,7 @@
       </li>
 
       <li class="vendor">
-        <img class="logo" src="/z_logos/vendors/yewande.jpg" alt="Yewande Komolafe">
+        <img class="logo" src="/z_logos/yewande.jpg" alt="Yewande Komolafe">
         <div class="payload">
           <div class="inner">
             <h1>Yewande Komolafe</h1>
@@ -441,7 +441,7 @@
       </li>
 
       <li class="vendor">
-        <img class="logo" src="/z_logos/vendors/amaweles.gif" alt="Amawele&rsquo;s South African Kitchen">
+        <img class="logo" src="/z_logos/amaweles.gif" alt="Amawele&rsquo;s South African Kitchen">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://www.amawelessouthafricankitchen.com/">Amawele&rsquo;s South African Kitchen</a></h1>
@@ -452,7 +452,7 @@
       </li>
 
       <li class="vendor la-cocina-biz">
-        <img class="logo" src="/z_logos/vendors/anda_piroshki.png" alt="A&x0439;Da Piroshki">
+        <img class="logo" src="/z_logos/anda_piroshki.png" alt="A&x0439;Da Piroshki">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://andapiroshki.com/">AnDa Piroshki</a></h1>
@@ -467,7 +467,7 @@
       </li>
 
       <li class="vendor">
-        <img class="logo" src="/z_logos/vendors/locanda.png" alt="Locanda Osteria Bar">
+        <img class="logo" src="/z_logos/locanda.png" alt="Locanda Osteria Bar">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://www.locandasf.com/">Locanda Osteria Bar</a></h1>
@@ -478,7 +478,7 @@
       </li>
 
       <li class="vendor">
-        <img class="logo" src="/z_logos/vendors/a16.gif" alt="A16">
+        <img class="logo" src="/z_logos/a16.gif" alt="A16">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://www.a16sf.com/">A16</a></h1>
@@ -489,7 +489,7 @@
       </li>
 
       <li class="vendor">
-        <img class="logo" src="/z_logos/vendors/little_red_riding_truck.gif" alt="Little Red Riding Truck">
+        <img class="logo" src="/z_logos/little_red_riding_truck.gif" alt="Little Red Riding Truck">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://littleredridingtrucksf.com/">Little Red Riding Truck</a></h1>
@@ -500,7 +500,7 @@
       </li>
 
       <li class="vendor">
-        <img class="logo" src="/z_logos/vendors/alexander_ong.jpg" alt="Alexander Ong">
+        <img class="logo" src="/z_logos/alexander_ong.jpg" alt="Alexander Ong">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://www.betelnutrestaurant.com/chefs.html">Alexander Ong</a></h1>
@@ -510,7 +510,7 @@
       </li>
 
       <li class="vendor">
-        <img class="logo" src="/z_logos/vendors/brandon_jew.jpg" alt="Brandon Jew">
+        <img class="logo" src="/z_logos/brandon_jew.jpg" alt="Brandon Jew">
         <div class="payload">
           <div class="inner">
             <h1>Brandon Jew</h1>
@@ -520,7 +520,7 @@
       </li>
 
       <li class="vendor la-cocina-biz">
-        <img class="logo" src="/z_logos/vendors/azalinas.png" alt="Azalina&rsquo;s">
+        <img class="logo" src="/z_logos/azalinas.png" alt="Azalina&rsquo;s">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://www.azalinas.com/">Azalina&rsquo;s</a></h1>
@@ -531,7 +531,7 @@
       </li>
 
       <li class="vendor">
-        <img class="logo" src="/z_logos/vendors/suvir_saran.jpg" alt="Suvir Saran">
+        <img class="logo" src="/z_logos/suvir_saran.jpg" alt="Suvir Saran">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://suvir.com/">Suvir Saran</a></h1>
@@ -541,7 +541,7 @@
       </li>
 
       <li class="vendor">
-        <img class="logo" src="/z_logos/vendors/binis.gif" alt="Bini&rsquo;s Kitchen">
+        <img class="logo" src="/z_logos/binis.gif" alt="Bini&rsquo;s Kitchen">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://biniskitchen.com/">Bini&rsquo;s Kitchen</a></h1>
@@ -552,7 +552,7 @@
       </li>
 
       <li class="vendor">
-        <img class="logo" src="/z_logos/vendors/bicycle_banh_mi.png" alt="Bicycle B&aacute;nh M&igrave;">
+        <img class="logo" src="/z_logos/bicycle_banh_mi.png" alt="Bicycle B&aacute;nh M&igrave;">
         <div class="payload">
           <div class="inner">
             <h1><a href="http://eatbanhmi.com/">Bicycle B&aacute;nh M&igrave;</a></h1>
@@ -566,7 +566,7 @@
       </li>
 
       <li class="vendor">
-        <img class="logo" src="/z_logos/vendors/ananas.gif" alt="Ananas">
+        <img class="logo" src="/z_logos/ananas.gif" alt="Ananas">
         <div class="payload">
           <div class="inner">
             <h1><a href="https://twitter.com/AnanasSF">Ananas</a></h1>
@@ -580,7 +580,7 @@
 
       <!--
       <li class="vendor">
-        <img class="logo" src="/z_logos/vendors/" alt="">
+        <img class="logo" src="/z_logos/" alt="">
         <div class="payload">
           <div class="inner">
             <h1><a href=""></a></h1>

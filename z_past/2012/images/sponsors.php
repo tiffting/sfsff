@@ -26,28 +26,28 @@
         <tr>
           <td colspan="2" valign="top">
             <h1>National Media Sponsor</h1>
-            <a href="http://www.saveur.com/"><img src="images/sponsors/saveur.png" alt="Saveur" /></a>
+            <a href="http://www.saveur.com/"><img src="/z_logos/saveur.png" alt="Saveur" /></a>
           </td>
           <td colspan="2" valign="top">
             <h1>Presenting Sponsor</h1>
-            <a href="http://www.wholefoods.com"><img src="images/sponsors/whole_foods.png" alt="Whole Foods" /></a>
+            <a href="http://www.wholefoods.com"><img src="/z_logos/whole_foods.png" alt="Whole Foods" /></a>
           </td>
         </tr>
       </table>
                 
       <table>
         <tr>
-          <td><img src="images/sponsors/espolon.png" alt="Espolon" /></td>
-          <td><img src="images/sponsors/flor.png" alt="Flor de Ca&ntilde;a" /></td>
-          <td><img src="images/sponsors/wild_turkey.png" alt="Wild Turkey" /></td>
+          <td><img src="/z_logos/espolon.png" alt="Espolon" /></td>
+          <td><img src="/z_logos/flor.png" alt="Flor de Ca&ntilde;a" /></td>
+          <td><img src="/z_logos/wild_turkey.png" alt="Wild Turkey" /></td>
         </tr>
-          <td><img src="images/sponsors/tums.png" alt="Tums" /></td>
-          <td><img src="images/sponsors/zipcar.png" alt="Zipcar" /></td>
-          <td><img src="images/sponsors/fort_mason.png" alt="Fort Mason" /></td>
+          <td><img src="/z_logos/tums.png" alt="Tums" /></td>
+          <td><img src="/z_logos/zipcar.png" alt="Zipcar" /></td>
+          <td><img src="/z_logos/fort_mason.png" alt="Fort Mason" /></td>
         <tr>
-          <td><img src="images/sponsors/dpem.png" alt="DPEM" /></td>
+          <td><img src="/z_logos/dpem.png" alt="DPEM" /></td>
           <td></td>
-          <td><img src="images/sponsors/interstice.png" alt="Tork" /></td>
+          <td><img src="/z_logos/interstice.png" alt="Tork" /></td>
         </tr>
       </table>
       
