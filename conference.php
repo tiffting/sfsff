@@ -160,12 +160,12 @@
           <div class="logo logo-3"><a href="http://www.wellsfargo.com/"><img src="/z_logos/wells_fargo.png" alt="Wells Fargo"/></a></div>
           <div class="logo logo-3"><a href="http://www.fhlbanks.com/contacts_mpi_sanfrancisco.htm"><img src="/z_logos/fhl_bank.png" alt="FHLBank San Francisco"/></a></div>
           <div class="logo logo-3"><a href="http://www.sfbar.org/lawyerreferrals/index.aspx"><img src="/z_logos/sf_bar_referral.png" alt="SF Bar LRIS"/></a></div>
-          <div class="logo logo-3"><a href="http://tandem-made.com/"><img src="z_logos/sponsors/tandem_made.png" alt="Tandem"/></a></div>
-          <div class="logo logo-3"><a href="http://www.madelenefarin.com/"><img src="z_logos/sponsors/madelene_farin.png" alt="Madelene Farin"/></a></div>
-          <div class="logo logo-3"><a href="http://www.aedansf.com/"><img src="z_logos/vendors/aedan.png" alt="Aedan Fermented Foods"/></a></div>
-          <div class="logo logo-3"><a href="http://andapiroshki.com/"><img src="z_logos/vendors/anda_piroshki.png" alt="Anda Piroshki"/></a></div>
-          <div class="logo logo-3"><a href="http://www.ejisethiopian.com/"><img src="z_logos/vendors/ejis.png" alt="Eji's Ethiopian"/></a></div>
-          <div class="logo logo-3"><a href="http://www.saldevidagourmet.com/"><img src="z_logos/vendors/sal_de_vida_gourmet.png" alt="Sal De Vida Gourmet"/></a></div>
+          <div class="logo logo-3"><a href="http://tandem-made.com/"><img src="/z_logos/sponsors/tandem_made.png" alt="Tandem"/></a></div>
+          <div class="logo logo-3"><a href="http://www.madelenefarin.com/"><img src="/z_logos/sponsors/madelene_farin.png" alt="Madelene Farin"/></a></div>
+          <div class="logo logo-3"><a href="http://www.aedansf.com/"><img src="/z_logos/vendors/aedan.png" alt="Aedan Fermented Foods"/></a></div>
+          <div class="logo logo-3"><a href="http://andapiroshki.com/"><img src="/z_logos/vendors/anda_piroshki.png" alt="Anda Piroshki"/></a></div>
+          <div class="logo logo-3"><a href="http://www.ejisethiopian.com/"><img src="/z_logos/vendors/ejis.png" alt="Eji's Ethiopian"/></a></div>
+          <div class="logo logo-3"><a href="http://www.saldevidagourmet.com/"><img src="/z_logos/vendors/sal_de_vida_gourmet.png" alt="Sal De Vida Gourmet"/></a></div>
           <!-- <div class="logo logo-3"><a href="http://teamproevent.com/"><img src="/z_logos/proevent.png" alt="Team Pro Event"/></a></div> -->
           <!-- <div class="logo logo-3"><a href="http://purityorganic.com/"><img src="/z_logos/purity.png" alt="Purity Organic"/></a></div> -->
           <!-- <div class="logo logo-3"><a href="https://www.sfcooking.com/"><img src="/z_logos/san_francisco_cooking_school.png" alt="San Francisco Cooking School"/></a></div> -->
