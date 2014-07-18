@@ -154,7 +154,7 @@
 
       <section id="sponsors">
         <div class="sponsor-logos clear">
-          <h1>Thank you to our generous sponsors and supporters</h1>
+          <h1>Thank you to our generous sponsors<br/>and supporters</h1>
 
           <div class="logo logo-3"><a href="http://www.liifund.org/"><img src="/z_logos/sponsors/liif.png" alt="Low Income Investment Fund"/></a></div>
           <div class="logo logo-3"><a href="http://www.wellsfargo.com/"><img src="/z_logos/sponsors/wells.png" alt="Wells Fargo"/></a></div>
