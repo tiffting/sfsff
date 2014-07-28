@@ -167,9 +167,9 @@
           <div class="logo logo-3"><a href="http://www.ejisethiopian.com/"><img src="/z_logos/ejis.png" alt="Eji's Ethiopian"/></a></div>
           <div class="logo logo-3"><a href="http://www.saldevidagourmet.com/"><img src="/z_logos/sal_de_vida_gourmet.png" alt="Sal De Vida Gourmet"/></a></div>
           <div class="logo logo-3"><a href="http://www.threetwinsicecream.com/"><img src="/z_logos/three_twins.png" alt="Three Twins Ice Cream"/></a></div>
-          <div class="logo logo-3"><a href="http://www.redbaycoffee.com/"><img src="/z_logos/vendors/redbaycoffee_logo.png" alt="Red Bay Coffee"/></a></div>
+          <div class="logo logo-3"><a href="http://www.redbaycoffee.com/"><img src="/z_logos/red_bay_coffee.png" alt="Red Bay Coffee"/></a></div>
           <div class="logo logo-3"><a href="http://www.specialtyfood.com/"><img src="/z_logos/specialty_food.png" alt="Specialty Food Association"/></a></div>
-          <div class="logo logo-3"><a href="http://valencia.arizmendi.coop/"><img src="/z_logos/Arizmendi_logo.png" alt="Arizmendi Bakery"/></a></div>
+          <div class="logo logo-3"><a href="http://valencia.arizmendi.coop/"><img src="/z_logos/arizmendi.png" alt="Arizmendi Bakery"/></a></div>
           <!-- <div class="logo logo-3"><a href="http://teamproevent.com/"><img src="/z_logos/proevent.png" alt="Team Pro Event"/></a></div> -->
           <!-- <div class="logo logo-3"><a href="http://purityorganic.com/"><img src="/z_logos/purity.png" alt="Purity Organic"/></a></div> -->
           <!-- <div class="logo logo-3"><a href="https://www.sfcooking.com/"><img src="/z_logos/san_francisco_cooking_school.png" alt="San Francisco Cooking School"/></a></div> -->
