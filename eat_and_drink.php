@@ -66,6 +66,15 @@
       </div>
     </li>
 
+    <li class="vendor">
+      <img class="logo" src="/z_logos/anda_piroshki.png" alt="A&jcy;Da Piroshki">
+      <div class="payload">
+        <div class="inner">
+          <h1><a href="http://andapiroshki.com/">A&jcy;Da Piroshki</a></h1>
+          <p></p>
+        </div>
+      </div>
+    </li>
     <li class="vendor la-cocina-biz">
       <img class="logo" src="/z_logos/azalinas.png" alt="Azalina&rsquo;s">
       <div class="payload">
@@ -123,27 +132,6 @@
     </li>
 
     <li class="vendor">
-      <img class="logo" src="/z_logos/boxing_room.png" alt="Boxing Room">
-      <div class="payload">
-        <div class="inner">
-          <h1><a href="http://boxingroomsf.com/">Boxing Room</a></h1>
-          <p>Justin Simoneaux&rsquo;s cooking is influenced by the Cajun and Creole dishes of New Orleans and coastal Louisiana. He couples traditional techniques and recipes with seasonal Northern California ingredients, for the fare he offers at Boxing Room as Executive Chef.</p>
-        </div>
-      </div>
-    </li>
-    
-  
-    <li class="vendor">
-      <img class="logo" src="/z_logos/brass_knuckle.png" alt="Brass Knuckle">
-      <div class="payload">
-        <div class="inner">
-          <h1><a href="http://www.brassknucklesf.com/home.html">Brass Knuckle</a></h1>
-          <p>Heavy riff on innovation, Brass Knuckle brings simple flavors to the front stage. Each item is carefully crafted to rattle and grip your tastebuds. Brass Knuckle bursts on the culinary stage with a true vengeance for the "perfect bite".</p>
-        </div>
-      </div>
-    </li>
-
-    <li class="vendor">
       <img class="logo" src="/z_logos/central_kitchen.png" alt="central kitchen">
       <div class="payload">
         <div class="inner">
@@ -153,42 +141,12 @@
       </div>
     </li>
 
-    <li class="vendor la-cocina-biz">
-      <img class="logo" src="/z_logos/chaac_mool.png" alt="Chaac Mool">
-      <div class="payload">
-        <div class="inner">
-          <h1><a href="www.chaacmool.com">Chaac Mool</a></h1>
-          <p>Chaac Mool Yucatecan Food would love the opportunity to introduce you to traditional Mayan Cuisine. Chef/Owner Luis Vazquez drew inspiration from the ancient god of rain to start the namesake company, Chaac Mool. Vazquez, a fifth generation Yucatecan breadmaker, and his wife Maria formed the company six years ago in their small Tenderloin apartment. Chaac Mool is a family-run business that serves regional Mexican, indigenous and Pre-Hispanic cuisine. The Vazquez family believes that there is more to Mexican food than burritos and uses their food to bring the legends, flavors and feelings of Mexico straight to you. </p>
-        </div>
-      </div>
-    </li>
-
     <li class="vendor">
-      <img class="logo" src="/z_logos/cholo_soy.png" alt="Cholo Soy">
+      <img class="logo" src="/z_logos/chiefos.png" alt="Chiefo&rsquo;s Kitchen">
       <div class="payload">
         <div class="inner">
-          <h1>Cholo Soy</h1>
-          <p>Yeral Caldas is the owner of Cholo Soy. Yeral makes the folkloric and typical food of Northern Peru. This is his third year at the festival.</p>
-        </div>
-      </div>
-    </li>
-
-    <li class="vendor la-cocina-biz">
-      <img class="logo" src="/z_logos/clairesquares.png" alt="Clairesquares">
-      <div class="payload">
-        <div class="inner">
-          <h1><a href="www.clairesquares.com">Clairesquares</a></h1>
-          <p>Clairesquares handcrafts unique caramel and chocolate based products derived from traditional Irish recipes.</p>
-        </div>
-      </div>
-    </li>
-
-    <li class="vendor">
-      <img class="logo" src="/z_logos/clearly_kombucha.png" alt="Clearly Kombucha">
-      <div class="payload">
-        <div class="inner">
-          <h1><a href="http://clearlykombucha.com/">Clearly Kombucha</a></h1>
-          <p>Clearly Kombucha is a handcrafted beverage made from whole leaf, fair trade certified green tea and organic cane sugar. It uses a 30-day fermentation with its SCOBY and then bottles up the freshest and smoothest kombucha.</p>
+          <h1><a href="http://www.chiefoskitchen.com/">Chiefo&rsquo;s Kitchen</a></h1>
+          <p></p>
         </div>
       </div>
     </li>
@@ -304,16 +262,6 @@
     </li>
 
     <li class="vendor la-cocina-biz">
-      <img class="logo" src="/z_logos/eleganza.png" alt="Eleganza Catering">
-      <div class="payload">
-        <div class="inner">
-          <h1><a href="http://www.eleganzacatering.com/">Eleganza Catering</a></h1>
-          <p>Eleganza Catering has a vision of accommodating parties both big and small. Off-site parties can be accomplished anywhere, whether it is a wedding, corporate gathering, or a special event. Impeccable service is its commitment. Eleganza Catering is devoted to providing the highest quality of food, customer service, and spectacular work as a team.</p>
-        </div>
-      </div>
-    </li>
-
-    <li class="vendor la-cocina-biz">
       <img class="logo" src="/z_logos/ejis.png" alt="Eji&rsquo;s Ethiopian">
       <div class="payload">
         <div class="inner">
@@ -373,26 +321,6 @@
     </li>
 
     <li class="vendor">
-      <img class="logo" src="/z_logos/hapa_ramen.png" alt="Hapa Ramen">
-      <div class="payload">
-        <div class="inner">
-          <h1><a href="http://haparamensf.com/">Hapa Ramen</a></h1>
-          <p>Hapa Ramen is a roaming noodle stand and Fillmore district restaurant that makes organic, seasonal ramen.</p>
-        </div>
-      </div>
-    </li>
-
-    <li class="vendor">
-      <img class="logo" src="/z_logos/hapa_sf.png" alt="Hapa S.F.">
-      <div class="payload">
-        <div class="inner">
-          <h1><a href="http://hapasf.com/">Hapa S.F.</a></h1>
-          <p>Hapa San Francisco serves local, natural, and sustainable Filipino cuisine. It sources the finest ingredients, organic whenever possible, to create dishes inspired by California but firmly grounded in their Filipino roots. Hapa S.F.&rsquo;s mission is to eradicate the perception that Filipino cuisine is unhealthy and establish its reputation as one of the finest Southeast Asian cuisines. Chef William Pilz knew he would one day help garner Filipino cuisine the attention it deserved. He spent several years working in restaurants with some of the best chefs in San Francisco&mdash;Ron Siegel, Laurent Gras, David Kinch, and Josef Centeno&mdash;honing his craft while perfecting the dishes of his youth paired with the bounty of San Francisco&rsquo;s farmers&rsquo; markets. He opened Hapa S.F. in its present form on April 28, 2010, in probably one of the cheapest ever restaurant openings. Hapa S.F. ended up getting reviewed to no knowledge of their own on their third day of service, the title of the article being, &ldquo;Filipino taco truck lives up to the hype.&rdquo; The rest is very quickly becoming history thanks to all of Hapa S.F.&rsquo;s fans.</p>
-        </div>
-      </div>
-    </li>
-
-    <li class="vendor">
       <img class="logo" src="/z_logos/heirloom_cafe.png" alt="Heirloom Caf&eacute;">
       <div class="payload">
         <div class="inner">
@@ -422,16 +350,6 @@
       </div>
     </li>
 
-    <li class="vendor la-cocina-biz">
-      <img class="logo" src="/z_logos/jarred.png" alt="Jarred">
-      <div class="payload">
-        <div class="inner">
-          <h1><a href="www.jarredsf.com">Jarred</a></h1>
-          <p>Emiliana Puyana grew up in Venezuela surrounded by great food. These early experiences threw her into a life and career in the food service industry. She decided to attend culinary school and worked as a line cook in many of the cities best restaurants, experience which has helped Emiliana gained a true admiration and respect for seasonality and high-quality ingredients. It was out of this admiration for great food and passion for cooking that the idea for Jarred was born. Jarred is a pickle business that uses a large variety of fruits and vegetables when they are at the peak of their seasons with only the best local, organic, and sustainable ingredients around. Look for Jarred to pop-up at farmers&rsquo; markets around the Bay.</p>
-        </div>
-      </div>
-    </li>
-    
     <li class="vendor">
       <img class="logo" src="/z_logos/kama_food_lab.png" alt="kama food lab">
       <div class="payload">
@@ -467,16 +385,6 @@
       <div class="payload">
         <div class="inner">
           <h1><a href="http://kojakitchen.com/">KoJa Kitchen</a></h1>
-        </div>
-      </div>
-    </li>
-
-    <li class="vendor">
-      <img class="logo" src="/z_logos/kung_fu_tacos.png" alt="Kung Fu Tacos">
-      <div class="payload">
-        <div class="inner">
-          <h1><a href="http://kungfutacos.com/">Kung Fu Tacos</a></h1>
-          <p>Tan Truong and Jonathan Ward started Kung Fu Tacos in the summer of 2009. They serve flavorful street tacos filled with delicious Chinese-inspired fillings like Asian asada steak, nun chuk chicken, and their signature roast duck. They make all of their own marinades, salsas, and sauces in house and from scratch, and they source only the best quality ingredients so that each bite is bursting with flavor and freshness.</p>
         </div>
       </div>
     </li>
@@ -522,21 +430,21 @@
     </li>
 
     <li class="vendor">
-      <img class="logo" src="/z_logos/lets_be_frank.png" alt="Let&rsquo;s Be Frank">
-      <div class="payload">
-        <div class="inner">
-          <h1><a href="http://www.letsbefrankdogs.com/">Let&rsquo;s Be Frank</a></h1>
-          <p>Let&rsquo;s Be Frank was founded by Sue Moore and Larry Bain, fast-food visionaries who started the company in 2005 with the simple goal of changing the world one hot dog at a time. Sue, formerly the &ldquo;meat forager&rdquo; for Berkeley, CA&rsquo;s famed Chez Panisse, and Larry, long-time restaurant professional, member of the San Francisco Sustainable Food Systems team, and advocate of the benefits of local, healthy foods, joined forces to return the much-demeaned hot dog to its rightful position: an icon for a healthy food system. Their goal was that their frank would become a way to nourish both eaters and growers. Let&rsquo;s Be Frank supports the ever-shrinking group of family farmers and ranchers committed to raising their animals in a humane, conscientious, and healthy manner and in so creates dogs gone good.</p>
-        </div>
-      </div>
-    </li>
-
-    <li class="vendor">
       <img class="logo" src="/z_logos/liba_falafel.png" alt="LIBA Falafel">
       <div class="payload">
         <div class="inner">
           <h1><a href="http://libafalafel.com/">LIBA Falafel</a></h1>
           <p>LIBA Falafel is an unconventional falafel bar, offering condiments for customers to top their own sandwiches. Their falafel is made from organic chickpeas, ground with spices and herbs, and is gluten-free. LIBA&rsquo;s regular locations feature a 15-item bar with salads, sauces, and pickles that change with California&rsquo;s seasonal produce.</p>
+        </div>
+      </div>
+    </li>
+
+    <li class="vendor">
+      <img class="logo" src="/z_logos/little_red_riding_truck.gif" alt="Little Red Riding Truck">
+      <div class="payload">
+        <div class="inner">
+          <h1><a href="http://www.littleredridingtrucksf.com/">Little Red Riding Truck</a></h1>
+          <p></p>
         </div>
       </div>
     </li>
@@ -551,48 +459,6 @@
           <p>When Dilsa came to the Bay Area, it was very exciting for her to discover the organic food movement. She realized that there weren&rsquo;t many Mexican restaurants that that offered healthy alternatives for people and the environment. This is what inspired her to start a Mexican food business using local, organic, and seasonal ingredients whenever possible.</p>
 
           <p>Los Cilantros is a catering and events company whose mission is never to lose authenticity, and to carefully prepare food with simple flavors using the best ingredients available. You can also feast on Dilsa&rsquo;s food at <a href="http://www.copitarestaurant.com/">Copita</a> in Sausalito where she is the sous chef.</p>
-        </div>
-      </div>
-    </li>
-
-    <li class="vendor la-cocina-biz">
-      <img class="logo" src="/z_logos/maite_catering.png" alt="Maite Catering">
-      <div class="payload">
-        <div class="inner">
-          <h1><a href="http://www.maitecatering.com/">Maite Catering</a></h1>
-          <p>During culinary school, Columbian-born Constanza Ortiz found that, of everything she learned, what she loved best was making small things. She built Maite Catering with a focus on making the perfect, bite-sized treat for any occasion. From mini empanadas to tiny cups of ceviche, Constanza specializes in tapas, especially dishes from her native Columbia. Learn more about the inspired culinary and event experiences she offers <a href="http://www.maitecatering.com/">on her website</a>.</p>
-        </div>
-      </div>
-    </li>
-
-    <li class="vendor">
-      <img class="logo" src="/z_logos/marla_bakery.png" alt="Marla Bakery">
-      <div class="payload">
-        <div class="inner">
-          <h1><a href="http://www.marlabakery.com/">Marla Bakery</a></h1>
-          <p>First off, there is no Marla, or rather, there is no one Marla. Marla is a composition of the first letters of those in our families (including us, the J is silent) from whom we&rsquo;ve learned to cook and bake&mdash;mothers, fathers, grandmothers, bubbies, great grandmothers, and step-mothers. When we were thinking of a name for our new endeavor, we knew that we wanted it to reflect both past and present, where we are today and where we came from.</p>
-
-          <p>In our lives food is a lodestone and after years of bread baking, pastry chefing, pickling, brining, and various and sundry other culinary obsessions, we decided it was time to take the leap together and realize this first fig newton of our imagination.</p>
-        </div>
-      </div>
-    </li>
-
-    <li class="vendor">
-      <img class="logo" src="/z_logos/maya_luna.png" alt="Maya Luna">
-      <div class="payload">
-        <div class="inner">
-          <h1><a href="http://www.podersf.org/">Maya Luna</a></h1>
-          <p>Maya Luna is a worker-owned restaurant cooperative in San Francisco&rsquo;s Mission District. The worker-owners focus on a mix of authentic Central American and Mexican food using the freshest ingredients from the Bay Area and Mexico.</p>
-        </div>
-      </div>
-    </li>
-
-    <li class="vendor">
-      <img class="logo" src="/z_logos/meda.jpg" alt="MEDA">
-      <div class="payload">
-        <div class="inner">
-          <h1><a href="http://medasf.org/">Mission Economic Development Agency (MEDA)</a></h1>
-          <p>MEDA is a non-profit organization in the Mission District with a goal to contribute to the economical prosperity of Latino families in San Francisco. They are sponsoring two businesses this year. Leticia Montes is the owner of Churros Mexicanos and sells in a push cart in San Francisco. Other products she sells include Salvadoran and Mexican tamales and fresh fruit. Luis Bola&ntilde;os is the owner of Tortas Ciudad de Mexico, authentic food from the city of Mexico. Luis has small restaurant on 200 6th Ave, San Francisco.</p>
         </div>
       </div>
     </li>
@@ -627,16 +493,6 @@
       </div>
     </li>
 
-    <li class="vendor la-cocina-biz">
-      <img class="logo" src="/z_logos/neo_cocoa.png" alt="Neo Cocoa">
-      <div class="payload">
-        <div class="inner">
-          <h1><a href="http://www.neococoa.com/">Neo Cocoa</a></h1>
-          <p>While wondering what she&rsquo;d be when she grew up, Christine Doerr found herself watching a lot of Julia Child. So following her idol&rsquo;s footsteps, she attended the California Culinary Academy, where she perfected her craft during her more than 10 years of working in multiple establishments in the Bay Area. When Christine&rsquo;s long-held dream of creating her own business to sell chocolate truffles using fresh, local, organic ingredients came knocking at the door, Christine answered, and Neo Cocoa was born.</p>
-        </div>
-      </div>
-    </li>
-
     <li class="vendor">
       <img class="logo" src="/z_logos/nojo.png" alt="Nojo">
       <div class="payload">
@@ -657,16 +513,6 @@
       </div>
     </li>
 
-    <li class="vendor">
-      <img class="logo" src="/z_logos/nopalito.gif" alt="Nopalito">
-      <div class="payload">
-        <div class="inner">
-          <h1><a href="http://www.nopalitosf.com/">Nopalito</a></h1>
-          <p>Nopalito is a vibrant neighborhood Mexican kitchen celebrating the traditional cookery of Mexico and utilizing its philosophy of purchasing local, organic, and sustainable ingredients.</p>
-        </div>
-      </div>
-    </li>
-
     <li class="vendor la-cocina-biz">
       <img class="logo" src="/z_logos/onigilly.png" alt="Onigilly">
       <div class="payload">
@@ -683,16 +529,6 @@
         <div class="inner">
           <h1><a href="http://oshathai.com/">Osha Thai</a></h1>
           <p>When sisters Wassana Korkhieola and Lalita Souksamlane needed a name for their Thai restaurant in the Tenderloin, they went to the royal Thai word for &ldquo;delicious.&rdquo; But there was another, much more pedestrian reason that made the name OSHA Thai so appealing: it&rsquo;s easy to say. From a simple restaurant in the Tenderloin, the family of OSHA Thai restaurants have grown in popularity and sophistication. The first OSHA Thai debuted in 1996, and since then, six more have opened across the city. The original location keeps true to its origins, as any great restaurant should. OSHA Thai welcomes you to the front door of its restaurants. They offer a casual experience that leads one on a hip, exciting journey in Thai cuisine.</p>
-        </div>
-      </div>
-    </li>
-
-    <li class="vendor">
-      <img class="logo" src="/z_logos/pig_pie.gif" alt="Pig &amp; Pie">
-      <div class="payload">
-        <div class="inner">
-          <h1><a href=""></a></h1>
-          <p>Pig &amp; Pie is new to 24th St, but our recipes are time-tested and true. We make everything by hand. We pickle, smoke, cure, bake, grind, stuff, and twist. From our five-hour slow roasted pork ribs to our seven-day brined beef tongue or handmade sausages, you&rsquo;ll taste the difference.</p>
         </div>
       </div>
     </li>
@@ -730,21 +566,11 @@
     </li>
 
     <li class="vendor">
-      <img class="logo" src="/z_logos/ritual_coffee_roasters.gif" alt="Ritual Coffee Roasters">
+      <img class="logo" src="/z_logos/sabores_del_sur.png" alt="Sabores del Sur">
       <div class="payload">
         <div class="inner">
-          <h1><a href="http://www.ritualroasters.com/">Ritual Coffee Roasters</a></h1>
-          <p>Ritual Coffee Roasters opened in May 2005 with the intention to share amazing coffee with San Francisco, and it was only a matter of weeks, or maybe just one, before Ritual had a line out the door. Many of its customers asked what it was doing to its coffee to make it taste so good, while the connoisseurs simply wanted to know what took it so long to get here. With a strict focus on direct sourcing and strengthening relationships with those producers, Ritual has continued to offer delicious coffees and a great experience to its customers, year after year.</p>
-        </div>
-      </div>
-    </li>
-
-    <li class="vendor">
-      <img class="logo" src="/z_logos/senor_sisig.png" alt="Se&ntilde;or Sisig">
-      <div class="payload">
-        <div class="inner">
-          <h1><a href="http://www.senorsisig.com/">Se&ntilde;or Sisig</a></h1>
-          <p>We are a Filipino fusion food truck. Our specialty is our family&rsquo;s Sisig, which is traditional Filipino dish. We combine Filipino flavors with Latin American food concepts. We are most known for our Sisig tacos and Sisig burritos.</p>
+          <h1><a href="http://saboresdelsursf.com/">Sabores del Sur</a></h1>
+          <p></p>
         </div>
       </div>
     </li>
@@ -755,6 +581,16 @@
         <div class="inner">
           <h1><a href="http://www.sweetscollections.com/">Sweets Collection</a></h1>
           <p>Inspired by the idea of an art collection, Rosa Rodriguez&rsquo;s Sweets Collection is based on gelatin that is not only artistic but also edible and sweet. Rosa, hailing from Mexico, once had paintings exhibited in galleries before she learned the art of creating paintings in this palatable medium. Gelatin art can be traced to France, before being imported to Mexico where it was developed and perfected, but Rosa is proud to now bring these sweet creations to San Francisco. Her work is available by special order on her website.</p>
+        </div>
+      </div>
+    </li>
+
+    <li class="vendor">
+      <img class="logo" src="/z_logos/tacolicious.gif" alt="Tacolicious">
+      <div class="payload">
+        <div class="inner">
+          <h1><a href="http://tacolicious.com/">Tacolicious</a></h1>
+          <p></p>
         </div>
       </div>
     </li>
@@ -800,16 +636,6 @@
     </li>
 
     <li class="vendor">
-      <img class="logo" src="/z_logos/wise_sons_deli.png" alt="Wise Sons Deli">
-      <div class="payload">
-        <div class="inner">
-          <h1><a href="http://www.wisesonsdeli.com/">Wise Sons Deli</a></h1>
-          <p>The Wise Sons are Evan Bloom and Leo Beckerman, two long-time friends who had a yearning for a food they couldn&rsquo;t find in San Francisco. Together, they are bringing the food and the experience of their memories to San Francisco. Each dish comes from the heart; Jewish deli made from scratch with quality, seasonal ingredients served with a sense of old-school hospitality. Pastrami is house-smoked and served on their own rye. Bialies are baked fresh, and pickles rotate with the seasons. Looking to grow the Bay Area Jewish food scene, collaboration with local food artisans have brought everything from authentic bagels to naturally fermented sodas to their menu.</p>
-        </div>
-      </div>
-    </li>
-
-    <li class="vendor">
       <img class="logo" src="/z_logos/yvonnes_southern_sweets.png" alt="Yvonne&rsquo;s Southern Sweets">
       <div class="payload">
         <div class="inner">
@@ -829,9 +655,19 @@
       </div>
     </li>
 
+    <!--
+    <li class="vendor">
+      <img class="logo" src="/z_logos/" alt="">
+      <div class="payload">
+        <div class="inner">
+          <h1><a href=""></a></h1>
+          <p></p>
+        </div>
+      </div>
+    </li>
+    -->
+
   </ul>
 </section>
-
-
 
 <?php require 'inc/bottom.inc.php'; ?>
