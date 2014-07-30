@@ -21,10 +21,10 @@
         <p>Like us on <a href="https://www.facebook.com/sanfranciscostreetfoodfestival">Facebook</a>, follow us on <a href="http://twitter.com/streetfoodsf">Twitter</a> and <a class="instagram" href="http://instagram.com/streetfoodsf">Instagram</a>.</p>
         
         <h3>&hellip;Set&hellip;</h3>
-        <p>Get a group of friends and family together and <a href="eat_and_drink.php">check out all the amazing vendors</a> who participated in 2013. The festival may be over, but you can find them all year-round serving amazing food all over the Bay!</p>
+        <p>Get a group of friends and family together and <a href="eat_and_drink.php">check out all the amazing vendors</a> coming out in 2014. Now that you&rsquo;re good and hungry, <a href="http://sfstreetfoodfestival2014.eventbrite.com/">purchase a passport</a> for extra drink tokens, games, and savings on food!</p>
 
         <h3>Eat!</h3>
-        <p>Check out the <a href="https://itunes.apple.com/us/app/sf-street-food-festival/id680018355?ls=1&mt=8">iPhone app</a> for a handy guide to the 2013 vendors. Use <a href="http://www.lacocinasf.org/where-to-find-la-cocina-businesses/">this map</a> to find all your favorite La Cocina entrepreneurs, and start eating!</p>
+        <p>Check out the <a href="https://itunes.apple.com/us/app/sf-street-food-festival/id680018355?ls=1&mt=8">iPhone app</a> for a handy guide to the 2014 vendors, their menus, maps, and inside access to festival games and contests. <a href="https://itunes.apple.com/us/app/sf-street-food-festival/id680018355?ls=1&mt=8">Download now</a> to start planning everything you&rsquo;ll eat!</p>
       </div>
 
       
