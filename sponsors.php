@@ -49,7 +49,7 @@
           <!-- <div class="logo logo-3"><a href="http://www.cupcakevineyards.com/"><img src="/z_logos/cupcake_vineyards.png" alt="Cupcake Vineyards"></a></div> -->
           <div class="logo logo-3"><a href="http://petalumapoultry.com/"><img src="/z_logos/petaluma_poultry.png" alt="Petaluma Poultry"></a></div>
           <div class="logo logo-3"><a href="http://offthegridsf.com/"><img src="/z_logos/off_the_grid.png" alt="Off the Grid"></a></div>
-          <!-- <div class="logo logo-3"><a href="http://cater2.me/"><img src="/z_logos/cater2me.png" alt="Cater2.me"></a></div> -->
+          <div class="logo logo-3"><a href="http://cater2.me/"><img src="/z_logos/cater2me.png" alt="Cater2.me"></a></div>
           <!-- <div class="logo logo-3"><a href="http://www.runa.org/"><img src="/z_logos/runa.png" alt="Runa"/></a></div> -->
           <div class="logo logo-3"><a href="http://www.liifund.org/"><img src="/z_logos/liif.png" alt="LIIF"></a></div>
           <div class="logo logo-3"><a href="http://calicraft.com/"><img src="/z_logos/calicraft.png" alt="Calicraft Brewing Co."></a></div>
@@ -107,8 +107,11 @@
           <!-- <div class="logo logo-3"><a href="http://www.instantcab.com/"><img src="/z_logos/instantcab.png" alt="InstantCab"></a></div> -->
           <div class="logo logo-3"><a href="http://www.clearlykombucha.com/"><img src="/z_logos/clearly_kombucha.png" alt="Clearly Kombucha"></a></div>
           <div class="logo logo-3"><a href="http://www.pedrosmovingservices.com/"><img src="/z_logos/pedros_moving_services.png" alt="Pedro's Moving Services"></a></div>
+          <div class="logo logo-3"><a href="http://petalumapoultry.com/"><img src="/z_logos/rocky_chicken.png" alt="Rocky the Range Chicken" height="125"></a></div>
+          <div class="logo logo-3"><a href="http://petalumapoultry.com/"><img src="/z_logos/rosie_chicken.png" alt="Rosie Organic Chicken" height="125"></a></div>
           <div class="logo logo-3"><a href="http://www.tonysfinefoods.com/"><img src="/z_logos/tonys.png" alt="Tony's Fine Foods"></a></div>
           <div class="logo logo-3"><a href="https://www.wellsfargo.com/"><img src="/z_logos/wells_fargo.png" alt="Wells Fargo"></a></div>
+          <div class="logo logo-3"><a href="http://www.townsqd.com/"><img src="/z_logos/townsquared.png" alt="Townsquared"></a></div>
           <!--
           <div class="logo logo-3"><a href=""><img src="/z_logos/" alt=""></a></div>
           -->
