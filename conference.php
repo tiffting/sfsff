@@ -183,8 +183,10 @@
           <!-- <div class="logo logo-3"><a href="http://www.southernfoodways.org/"><img src="/z_logos/southern_foodways_alliance.png" alt="Southern Foodways Alliance"/></a></div> -->
         </div>
 
-        <br><p>La Cocina&rsquo;s Food &amp; Entrepreneurship Conference is supported by the <a href="http://www.somarts.org/">SOMArts Cultural Center&rsquo;s</a> Affordable Space Program, which provides subsidized, large-scale affordable space and technical assistance to non-profits. SOMArts receives support from the San Francisco Arts Commission&rsquo;s Community Arts and Education Program with funding from Grants for the Arts/The Hotel Tax Fund. The mission of SOMArts is to promote and nurture art on the community level and foster an appreciation of and respect for all cultures. To find out about SOMArts classes, events, and exhibitions, please visit <a href="http://www.somarts.org">www.somarts.org</a>.</p>
-      </br></section>
+        <br/>
+
+        <p>La Cocina&rsquo;s Food &amp; Entrepreneurship Conference is supported by the <a href="http://www.somarts.org/">SOMArts Cultural Center&rsquo;s</a> Affordable Space Program, which provides subsidized, large-scale affordable space and technical assistance to non-profits. SOMArts receives support from the San Francisco Arts Commission&rsquo;s Community Arts and Education Program with funding from Grants for the Arts/The Hotel Tax Fund. The mission of SOMArts is to promote and nurture art on the community level and foster an appreciation of and respect for all cultures. To find out about SOMArts classes, events, and exhibitions, please visit <a href="http://www.somarts.org">www.somarts.org</a>.</p>
+      </section>
       
       <section id="social_media">
         <p>To keep up to date with all things conference-related, follow us on <a href="https://www.facebook.com/LCfoodentconf">Facebook</a> and <a href="https://twitter.com/lacocinaconf">Twitter</a>.</p>
