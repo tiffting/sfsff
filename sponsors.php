@@ -12,16 +12,16 @@
       </section>
 
       <section id="sponsors-presenting">
+        <h1>Presenting sponsors</h1>
         <div class="sponsor-logos clear">
-          <h1>Presenting sponsors</h1>
           <div class="logo logo-2"><a href="http://www.wholefoods.com/"><img src="/z_logos/whole_foods.png" alt="Whole Foods"/></a></div>
           <div class="logo logo-2"><a href="http://www.saveur.com/"><img src="/z_logos/saveur.png" alt="Saveur"/></a></div>
         </div>
       </section>
 
       <section id="sponsors-event-production">
+        <h1>Event production sponsor</h1>
         <div class="sponsor-logos clear">
-          <h1>Event production sponsor</h1>
           <div class="logo logo-1"><a href="http://teamproevent.com/"><img src="/z_logos/proevent.png" alt="Team Pro Event"/></a></div>
         </div>
       </section>
