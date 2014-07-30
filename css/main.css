@@ -319,6 +319,15 @@ div.menu_item, .menu_item dt {font-style: italic;}
 	margin-top: 9em;
 	padding-bottom: 0;
 }
+#friday_night #sponsor-logos .sponsor-logos {
+	margin-top: 8em;
+	padding-bottom: 0;
+}
+#friday_night #vendor-logos .sponsor-logos,
+#friday_night #drinks-logos .sponsor-logos {
+	margin-top: 5em;
+	padding-bottom: 0;
+}
 
 .highlighted {font-size:18px; background-image:url(../images/peach_kraft.jpg); padding:10px; border-radius:2px; font-weight: bold;}
 

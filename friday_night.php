@@ -52,7 +52,7 @@
 			<div class="sponsor-logos clear">
         <div class="logo logo-3"><a href="http://www.jardiniere.com/"><img src="/z_logos/jardiniere.png" alt="Jardini&egrave;re"></a></div>
         <div class="logo logo-3"><a href="http://www.starbellysf.com/"><img src="/z_logos/starbelly.png" alt="Starbelly"></a></div>
-        <div class="logo logo-3"><a href="http://hopscotchoakland.com/"><img src="/z_logos/hopscotch.png" alt="Hopscotch"></a></div>
+        <div class="logo logo-3"><a href="http://hopscotchoakland.com/"><img src="/z_logos/hopscotch.gif" alt="Hopscotch"></a></div>
         <div class="logo logo-3"><a href="http://thewholebeast.com/"><img src="/z_logos/the_whole_beast.png" alt="The Whole Beast"></a></div>
         <div class="logo logo-3"><a href="https://www.facebook.com/aburayafriedchicken"><img src="/z_logos/abura_ya.png" alt="Abura-ya"></a></div>
         <div class="logo logo-3"><img src="/z_logos/citizen_fox.png" alt="Citizen Fox"></div>
