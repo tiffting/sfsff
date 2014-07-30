@@ -169,6 +169,7 @@
           <div class="logo logo-3"><a href="http://www.redbaycoffee.com/"><img src="/z_logos/red_bay_coffee.png" alt="Red Bay Coffee"/></a></div>
           <div class="logo logo-3"><a href="http://www.specialtyfood.com/"><img src="/z_logos/specialty_food.png" alt="Specialty Food Association"/></a></div>
           <div class="logo logo-3"><a href="http://valencia.arizmendi.coop/"><img src="/z_logos/arizmendi.png" alt="Arizmendi Bakery"/></a></div>
+          <div class="logo logo-3"><a href="http://www.somarts.org/"><img src="/z_logos/somarts.png" alt="SOMArts"/></a></div>
           <!-- <div class="logo logo-3"><a href="http://teamproevent.com/"><img src="/z_logos/proevent.png" alt="Team Pro Event"/></a></div> -->
           <!-- <div class="logo logo-3"><a href="http://purityorganic.com/"><img src="/z_logos/purity.png" alt="Purity Organic"/></a></div> -->
           <!-- <div class="logo logo-3"><a href="https://www.sfcooking.com/"><img src="/z_logos/san_francisco_cooking_school.png" alt="San Francisco Cooking School"/></a></div> -->
@@ -182,8 +183,8 @@
           <!-- <div class="logo logo-3"><a href="http://www.southernfoodways.org/"><img src="/z_logos/southern_foodways_alliance.png" alt="Southern Foodways Alliance"/></a></div> -->
         </div>
 
-        <p>La Cocina&rsquo;s Food &amp; Entrepreneurship Conference is supported by the <a href="http://www.somarts.org/">SOMArts Cultural Center&rsquo;s</a> Affordable Space Program, which provides subsidized, large-scale affordable space and technical assistance to non-profits. SOMArts receives support from the San Francisco Arts Commission&rsquo;s Community Arts and Education Program with funding from Grants for the Arts/The Hotel Tax Fund. The mission of SOMArts is to promote and nurture art on the community level and foster an appreciation of and respect for all cultures. To find out about SOMArts classes, events, and exhibitions, please visit <a href="http://www.somarts.org">www.somarts.org</a>.</p>
-      </section>
+        <br><p>La Cocina&rsquo;s Food &amp; Entrepreneurship Conference is supported by the <a href="http://www.somarts.org/">SOMArts Cultural Center&rsquo;s</a> Affordable Space Program, which provides subsidized, large-scale affordable space and technical assistance to non-profits. SOMArts receives support from the San Francisco Arts Commission&rsquo;s Community Arts and Education Program with funding from Grants for the Arts/The Hotel Tax Fund. The mission of SOMArts is to promote and nurture art on the community level and foster an appreciation of and respect for all cultures. To find out about SOMArts classes, events, and exhibitions, please visit <a href="http://www.somarts.org">www.somarts.org</a>.</p>
+      </br></section>
       
       <section id="social_media">
         <p>To keep up to date with all things conference-related, follow us on <a href="https://www.facebook.com/LCfoodentconf">Facebook</a> and <a href="https://twitter.com/lacocinaconf">Twitter</a>.</p>
