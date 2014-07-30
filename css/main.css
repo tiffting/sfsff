@@ -334,7 +334,7 @@ div.menu_item, .menu_item dt {font-style: italic;}
 	padding-bottom: 0;
 }
 #conference #sponsors .sponsor-logos {
-	margin-bottom: -1em;
+	margin-bottom: 0;
 	margin-top: 6em;
 }
 #friday_night #sponsor-logos .sponsor-logos {
