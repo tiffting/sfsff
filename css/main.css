@@ -302,17 +302,20 @@ div.menu_item, .menu_item dt {font-style: italic;}
 .sponsor-logos {
 	margin-bottom: -4em;
 }
-.sponsor-logos .logo {float: left; text-align: center;}
-.sponsor-logos .logo-1 {width: 100%;}
-.sponsor-logos .logo-2 {width: 50%;}
-.sponsor-logos .logo-3 {
+.sponsor-logos .logo {
+	float: left;
 	margin-bottom: 1em;
 	min-height: 8em;
 	position: relative;
+	text-align: center;
 	top: 50%;
 	-webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
 	transform: translateY(-50%);
+}
+.sponsor-logos .logo-1 {width: 100%;}
+.sponsor-logos .logo-2 {width: 50%;}
+.sponsor-logos .logo-3 {
 	width: 33%;
 }
 .sponsor-logos .logo-3:nth-child(3n+1) {
