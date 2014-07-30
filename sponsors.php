@@ -53,7 +53,7 @@
           <!-- <div class="logo logo-3"><a href="http://www.runa.org/"><img src="/z_logos/runa.png" alt="Runa"/></a></div> -->
           <div class="logo logo-3"><a href="http://www.liifund.org/"><img src="/z_logos/liif.png" alt="LIIF"></a></div>
           <div class="logo logo-3"><a href="http://calicraft.com/"><img src="/z_logos/calicraft.png" alt="Calicraft Brewing Co."></a></div>
-          <div class="logo logo-3"><a href="http://www.fhlbsf.com/"><img src="/z_logos/fhl_bank.png" alt="FHL Bank"/></div>
+          <div class="logo logo-3"><a href="http://www.fhlbsf.com/"><img src="/z_logos/fhl_bank.png" alt="FHL Bank"/></a></div>
           <!-- <div class="logo logo-3"><a href="http://www.ssfllp.com/"><img src="/z_logos/sensiba_san_filippo.png" alt="Sensiba San Filippo"></a></div> -->
           <!-- <div class="logo logo-3"><a href="http://redboatfishsauce.com/"><img src="/z_logos/red_boat_fish_sauce.png" alt="Red Boat Fish Sauce"></a></div> -->
           <!-- <div class="logo logo-3"><a href="http://www.americanlamb.com/"><img src="/z_logos/american_lamb.png" alt="American Lamb Board"></a></div> -->
