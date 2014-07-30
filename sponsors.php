@@ -47,7 +47,7 @@
           <div class="logo logo-3"><a href="http://www.intersticearchitects.com/"><img src="/z_logos/interstice.png" alt="Interstice"/></a></div>
           <div class="logo logo-3"><a href="http://www.modernluxury.com/san-francisco"><img src="/z_logos/sf_magazine.png" alt="SF Magazine"></a></div>
           <!-- <div class="logo logo-3"><a href="http://www.cupcakevineyards.com/"><img src="/z_logos/cupcake_vineyards.png" alt="Cupcake Vineyards"></a></div> -->
-          <div class="logo logo-3"><a href="http://petalumapoultry.com/"><img src="/z_logos/petaluma_poultry.png" alt="Petaluma Poultry"></a></div>
+          <!-- <div class="logo logo-3"><a href="http://petalumapoultry.com/"><img src="/z_logos/petaluma_poultry.png" alt="Petaluma Poultry"></a></div> -->
           <div class="logo logo-3"><a href="http://offthegridsf.com/"><img src="/z_logos/off_the_grid.png" alt="Off the Grid"></a></div>
           <div class="logo logo-3"><a href="http://cater2.me/"><img src="/z_logos/cater2me.png" alt="Cater2.me"></a></div>
           <!-- <div class="logo logo-3"><a href="http://www.runa.org/"><img src="/z_logos/runa.png" alt="Runa"/></a></div> -->
