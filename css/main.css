@@ -299,6 +299,9 @@ div.menu_item, .menu_item dt {font-style: italic;}
   font-weight: bold;
 }
 
+.sponsor-logos {
+	margin-bottom: -4em;
+}
 .sponsor-logos .logo {float: left; text-align: center;}
 .sponsor-logos .logo-1 {width: 100%;}
 .sponsor-logos .logo-2 {width: 50%;}
