@@ -26,9 +26,9 @@
       <h1>Spread the word</h1>
       <p>Love <a href="https://twitter.com/hashtag/sfsff?src=hash">#SFSFF</a> and <a href="http://www.lacocinasf.org/">La Cocina</a>? Help us spread the word about the festival! Use these banners and our signature craft background (links below) to tell your friends what you love about this big, delicious day. Right click and "save image as..." to download the images.</p>
       <ul class="text">
-        <li><a href="z_downloads/2014-sfsff-chicken-email-header.jpg"><img src="z_downloads/2014-sfsff-chicken-email-header.jpg" alt="Friday Night Fried Chicken Family Meal email header"/></a></li>
-        <li><a href="z_downloads/2014-sfsff-email-header.jpg"><img src="z_downloads/2014-sfsff-email-header.jpg" alt="San Francisco Street Food Festival email header"/></a></li>
-        <li><a href="z_downloads/kraft_paper.jpg"><img src="z_downloads/kraft_paper.jpg" alt="Kraft paper background image"/></a></li>
+        <li><a href="z_downloads/2014-sfsff-chicken-email-header.jpg">Friday Night Fried Chicken Family Meal email header</a></li>
+        <li><a href="z_downloads/2014-sfsff-email-header.jpg">San Francisco Street Food Festival email header</a></li>
+        <li><a href="z_downloads/kraft_paper.jpg">Kraft paper background image</a></li>
       </ul>
     </div>
   </section>
