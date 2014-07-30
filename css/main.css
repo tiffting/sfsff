@@ -312,9 +312,12 @@ div.menu_item, .menu_item dt {font-style: italic;}
 	transform: translateY(-50%);
 	width: 33%;
 }
-.sponsor-logos .logo-3:nth-child(3n+1) {clear: left;}
+.sponsor-logos .logo-3:nth-child(3n+1) {
+	clear: left;
+}
 #sponsors-general {
 	margin-top: 9em;
+	padding-bottom: 0;
 }
 
 .highlighted {font-size:18px; background-image:url(../images/peach_kraft.jpg); padding:10px; border-radius:2px; font-weight: bold;}
