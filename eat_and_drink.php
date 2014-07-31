@@ -685,8 +685,7 @@
     </li>
 
     <li class="vendor">
-      <!-- <img class="logo" src="/z_logos/" alt=""> -->
-      The Other Guys
+      <img class="logo" src="/z_logos/other_guys.png" alt="The Other Guys">
       <div class="payload">
         <div class="inner">
           <h1><a href="http://www.theotherguyssf.com/">The Other Guys</a></h1>
