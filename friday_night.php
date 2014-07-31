@@ -52,8 +52,12 @@
 			<div class="sponsor-logos clear">
         <div class="logo logo-3"><a href="http://www.jardiniere.com/"><img src="/z_logos/jardiniere.png" alt="Jardini&egrave;re"></a></div>
         <div class="logo logo-3"><a href="http://www.starbellysf.com/"><img src="/z_logos/starbelly.png" alt="Starbelly"></a></div>
+        <div class="logo logo-3"><a href="http://skilletstreetfood.com/"><img src="/z_logos/skillet.png" alt="Skillet"></a></div>
+        <div class="logo logo-3"><a href="http://feirinhagastronomica.com.br/"><img src="/z_logos/feirinha_gastronomica.png" alt="Feirinhia Gastron&ocirc;mica"></a></div>
+        <div class="logo logo-3"><a href="http://www.jimnnicks.com/"><img src="/z_logos/jim_n_nicks.png" alt="Jim &rsquo;n Nick&rsquo;s"></a></div>
+        <div class="logo logo-3"><a href=""><img src="/z_logos/peached_tortilla.png" alt="The Peached Tortilla"></a></div>
         <div class="logo logo-3"><a href="http://hopscotchoakland.com/"><img src="/z_logos/hopscotch.gif" alt="Hopscotch"></a></div>
-        <div class="logo logo-3"><a href="http://thewholebeast.com/"><img src="/z_logos/the_whole_beast.png" alt="The Whole Beast"></a></div>
+        <div class="logo logo-3"><a href="http://thewholebeast.com/"><img src="/z_logos/whole_beast.png" alt="The Whole Beast"></a></div>
         <div class="logo logo-3"><a href="https://www.facebook.com/aburayafriedchicken"><img src="/z_logos/abura_ya.png" alt="Abura-ya"></a></div>
         <div class="logo logo-3"><img src="/z_logos/citizen_fox.png" alt="Citizen Fox"></div>
         <div class="logo logo-3"><a href="http://doughand.co/"><img src="/z_logos/dough_and_co.png" alt="Dough &amp; Co"></a></div>

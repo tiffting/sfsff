@@ -36,7 +36,7 @@
           <!-- <div class="logo logo-3"><a href="http://brands.nabisco.com/Newtons/"><img src="/z_logos/newtons.png" alt="Newtons"/></a></div> -->
           <div class="logo logo-3"><a href="http://purityorganic.com/"><img src="/z_logos/purity.png" alt="Purity Organics"/></a></div>
           <div class="logo logo-3"><a href="http://sfcooking.com/"><img src="/z_logos/san_francisco_cooking_school.png" alt="San Francisco Cooking School"></a></div>
-          <div class="logo logo-3"><a href="http://www.jimnnicks.com/"><img src="/z_logos/jim_n_nicks.png" alt="Jim 'n Nick's"/></a></div>
+          <div class="logo logo-3"><a href="http://www.jimnnicks.com/"><img src="/z_logos/jim_n_nicks.png" alt="Jim &rsquo;n Nick&rsquo;s"/></a></div>
           <div class="logo logo-3"><a href="http://veritablevegetable.com/"><img src="/z_logos/veritable_vegetable.png" alt="Veritable Vegetable"></a></div>
           <div class="logo logo-3"><a href="http://ryeontheroad.com/"><img src="/z_logos/rye_on_the_road.png" alt="Rye On The Road"/></a></div>
           <div class="logo logo-3"><a href="http://www.aperol.com/int/en/"><img src="/z_logos/aperol.png" alt="Aperol"></a></div>
@@ -66,7 +66,7 @@
           <!-- <div class="logo logo-3"><a href="http://www.goodfoodmerchantsguild.org/"><img src="/z_logos/gfmg.png" alt="Good Food Merchants Guild"></a></div> -->
           <!-- <div class="logo logo-3"><a href="http://www.smartcentersanfrancisco.com/"><img src="/z_logos/smart_car.png" alt="Smart Car San Francisco"></a></div> -->
           <div class="logo logo-3"><a href="http://www.thegraphicsresource.com/"><img src="/z_logos/tgr.png" alt="The Graphics Resource"></a></div>
-          <div class="logo logo-3"><a href="http://www.thebolditalic.com/"><img src="/z_logos/the_bold_italic.png" alt="The Bold Italic"></a></div>
+          <div class="logo logo-3"><a href="http://www.thebolditalic.com/"><img src="/z_logos/bold_italic.png" alt="The Bold Italic"></a></div>
           <!-- <div class="logo logo-3"><a href="http://www.sfexaminer.com/"><img src="/z_logos/sf_examiner.png" alt="The San Francisco Examiner"></a></div> -->
           <div class="logo logo-3"><a href="http://www.williams-sonoma.com/"><img src="/z_logos/williams_sonoma.png" alt="Williams-Sonoma"></a></div>
           <!-- <div class="logo logo-3"><a href="http://www.zipcar.com/"><img src="/z_logos/zipcar.png" alt="Zipcar"></a></div> -->

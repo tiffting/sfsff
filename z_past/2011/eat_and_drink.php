@@ -1398,24 +1398,6 @@
     </li>
 
     <li class="vendor">
-      <img class="logo" src="/z_logos/the_whole_beast.png" alt="The Whole Beast">
-      <div class="payload">
-        <div class="inner">
-          <h1><a href="http://thewholebeast.com/">The Whole Beast</a></h1>
-          <dl class="menu_item">
-            <dt>Bigger bite: Lamb shwarma</dt>
-            <dd>Whole roasted lamb, marinated in chermoula yogurt sauce with a cucumber and red onion salad, chermoula and harrissa on a whole wheat lavash</dd>
-            <dt>Small bite: Saffron potato salad</dt>
-            <dd>Smoked yukon potatoes with saffron, peas, green onion, parsley, and mayo</dd>
-            <dt>Drink: Moroccan mint tea</dt>
-            <dd>Gunpowder green tea with spearmint</dd>
-          </dl>
-          <p>The Whole Beast provides the centerpiece to any occasion&mdash;an entire animal raised and prepared in a holistic manner, paying special attention to animal husbandry. No waste is produced&mdash;we use and cook the whole beast. From pig, lamb and cow, to fish and fowl, we will personally choose and cook the whole animal as part of your event.</p>
-        </div>
-      </div>
-    </li>
-
-    <li class="vendor">
       <img class="logo" src="/z_logos/three_twins.png" alt="Three Twins Ice Cream">
       <div class="payload">
         <div class="inner">
@@ -1463,6 +1445,24 @@
             <dd>Cinnamon, persimmon, and ginger served cold</dd>
           </dl>
           <p>Hwa Soon Im was born in Buyo, Korea, and has been cooking ever since. Her restaurant, located here in San Francisco and run with the help of her family, serves authentic Korean home-cooking featuring all pastes, sauces and pickles made in-house. To Hyang has been featured on Anthony Bourdain&rsquo;s <em>The Layover</em>.</p>
+        </div>
+      </div>
+    </li>
+
+    <li class="vendor">
+      <img class="logo" src="/z_logos/whole_beast.png" alt="The Whole Beast">
+      <div class="payload">
+        <div class="inner">
+          <h1><a href="http://thewholebeast.com/">The Whole Beast</a></h1>
+          <dl class="menu_item">
+            <dt>Bigger bite: Lamb shwarma</dt>
+            <dd>Whole roasted lamb, marinated in chermoula yogurt sauce with a cucumber and red onion salad, chermoula and harrissa on a whole wheat lavash</dd>
+            <dt>Small bite: Saffron potato salad</dt>
+            <dd>Smoked yukon potatoes with saffron, peas, green onion, parsley, and mayo</dd>
+            <dt>Drink: Moroccan mint tea</dt>
+            <dd>Gunpowder green tea with spearmint</dd>
+          </dl>
+          <p>The Whole Beast provides the centerpiece to any occasion&mdash;an entire animal raised and prepared in a holistic manner, paying special attention to animal husbandry. No waste is produced&mdash;we use and cook the whole beast. From pig, lamb and cow, to fish and fowl, we will personally choose and cook the whole animal as part of your event.</p>
         </div>
       </div>
     </li>

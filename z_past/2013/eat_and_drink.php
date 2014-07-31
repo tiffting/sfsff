@@ -1398,7 +1398,7 @@
     </li>
 
     <li class="vendor">
-      <img class="logo" src="/z_logos/the_whole_beast.png" alt="The Whole Beast">
+      <img class="logo" src="/z_logos/whole_beast.png" alt="The Whole Beast">
       <div class="payload">
         <div class="inner">
           <h1><a href="http://thewholebeast.com/">The Whole Beast</a></h1>

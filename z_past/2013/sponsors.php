@@ -89,7 +89,7 @@
         </tr>
         <tr>
           <td><a href="http://www.thegraphicsresource.com/"><img src="/z_logos/tgr.png" alt="The Graphics Resource"></a></td>
-          <td><a href="http://www.thebolditalic.com/"><img src="/z_logos/the_bold_italic.png" alt="The Bold Italic"></a></td>
+          <td><a href="http://www.thebolditalic.com/"><img src="/z_logos/bold_italic.png" alt="The Bold Italic"></a></td>
           <td><a href="http://www.sfexaminer.com/"><img src="/z_logos/sf_examiner.png" alt="The San Francisco Examiner"></a></td>
         </tr>
         <tr>
