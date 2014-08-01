@@ -76,16 +76,6 @@
       </div>
     </li>
 
-    <li class="vendor">
-      <img class="logo" src="/z_logos/aslams_rasoi.png" alt="Aslam&rsquo;s Rasoi">
-      <div class="payload">
-        <div class="inner">
-          <h1><a href="http://www.aslamsrasoi.com/">Aslam&rsquo;s Rasoi</a></h1>
-          <p></p>
-        </div>
-      </div>
-    </li>
-
     <li class="vendor la-cocina-biz">
       <img class="logo" src="/z_logos/azalinas.png" alt="Azalina&rsquo;s">
       <div class="payload">
@@ -712,6 +702,16 @@
           <p>Radio Africa &amp; Kitchen was created by Chef Eskender Aseged. Originally from Ethiopia, Eskender arrived in San Francisco in the late 80s where he spent the next 20 years working in the Bay Area with such luminaire chefs as Jeremiah Tower, Joyce Goldstein, Nancy Oaks, Daniel Peterson, and Daniel Humm. During this time, inspired by these great chefs, he began experimenting with different food preparations of his own.</p>
 
           <p>When you dine with Radio Africa &amp; Kitchen, you will enjoy a seasonal, nutritionally well-balanced meal that always includes organic vegetables, greens, grains, nuts, wild fish, shellfish and fruit, accompanied by fine herbs and spices.</p>
+        </div>
+      </div>
+    </li>
+
+    <li class="vendor">
+      <img class="logo" src="/z_logos/rasoi.png" alt="Rasoi">
+      <div class="payload">
+        <div class="inner">
+          <h1><a href="http://www.rasoitik.com/">Rasoi</a></h1>
+          <p></p>
         </div>
       </div>
     </li>
