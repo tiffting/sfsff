@@ -18,7 +18,7 @@
     <a id="nav_news" href="https://www.facebook.com/sanfranciscostreetfoodfestival">News</a>
   </li>
   <li class="raffle">
-    <a href="www.lacocinasf.org/?page_id=10617&preview=true">Raffle</a>
+    <a href="http://www.lacocinasf.org/?page_id=10617&preview=true">Raffle</a>
   </li>
   <li class="sponsors<?= $page_id == "sponsors" ? ' active' : '' ?>">
     <a id="nav_sponsors" href="sponsors.php">Sponsors</a>
