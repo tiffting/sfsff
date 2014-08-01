@@ -117,10 +117,9 @@ ul.text li {margin: 0 0 5px;}
 
 #content > .navigation.standard_nav {float: left; width: 135px;}
 #content > .navigation.standard_nav ul {margin: 0; padding: 7px 0; position: relative;}
-#content > .navigation.standard_nav ul li.friday_night{display:none;}
-#content > .navigation.standard_nav ul li.press_kit{display:none;}
-#content > .navigation.standard_nav ul li.photo_contest{display:none;}
-#content > .navigation.standard_nav ul li.get_list_ready{display:none;}
+#content > .navigation.standard_nav ul li.friday_night {display: none;}
+#content > .navigation.standard_nav ul li.press_kit    {display: none;}
+#content > .navigation.standard_nav ul li.raffle       {display: none;}
 #content > .navigation.standard_nav ul li.social{position:absolute; left: 0; bottom:-55px; overflow:hidden; padding: 0;}
 #content > .navigation.standard_nav ul li.social a{margin-left:26px;text-indent:0; background-image:none; float:left; display:block; width:auto;}
 #content > .navigation.standard_nav ul li.social a:first-child{margin-left:0;}
@@ -128,14 +127,12 @@ ul.text li {margin: 0 0 5px;}
 #content > .navigation.standard_nav ul li a#nav_about                           {height:45px; background-position:-111px 0px;}
 #content > .navigation.standard_nav ul li a#nav_eat_and_drink                   {height:37px; background-position:-111px -45px;}
 #content > .navigation.standard_nav ul li a#nav_conference                      {height:35px; background-position:-111px -82px;}
-/*#content > .navigation.standard_nav ul li a#nav_local_forager                   { height:52px; background-position:-111px -161px; margin-top:8px;}*/
 #content > .navigation.standard_nav ul li a#nav_news                            {height:37px; background-position:-111px -220px; margin-top:8px;}
 #content > .navigation.standard_nav ul li a#nav_passports                       {height:15px; background-position:-111px -258px;}
 #content > .navigation.standard_nav ul li a#nav_merchandise                     {height:15px; background-position:-111px -275px; margin-top:5px;}
 #content > .navigation.standard_nav ul li a#nav_sponsors                        {height:36px; background-position:-111px -307px;}
 #content > .navigation.standard_nav ul li a#nav_get_involved                    {height:30px; background-position:-111px -342px;}
 #content > .navigation.standard_nav ul li a#mission_neighbors                   {display:none;}
-/*#content > .navigation.standard_nav ul li a#nav_night_market                    {height:32px; background-position:-111px -377px; margin-top:7px;}
 */#content > .navigation.standard_nav ul li.active a#nav_get_involved,
 #content > .navigation.standard_nav ul li a#nav_get_involved:hover              {height:30px; background-position:0px -342px;}
 #content > .navigation.standard_nav ul li.active a#nav_about,                                                     
@@ -144,8 +141,6 @@ ul.text li {margin: 0 0 5px;}
 #content > .navigation.standard_nav ul li a#nav_eat_and_drink:hover             {height:37px; background-position:0px -45px;}
 #content > .navigation.standard_nav ul li.active a#nav_conference,                                                
 #content > .navigation.standard_nav ul li a#nav_conference:hover                {height:35px; background-position:0px -82px;}
-/*#content > .navigation.standard_nav ul li.active a#nav_local_forager,                                      */
-/*#content > .navigation.standard_nav ul li a#nav_local_forager:hover             {height:52px; background-position:0px -161px;}*/
 #content > .navigation.standard_nav ul li.active a#nav_news,                                                      
 #content > .navigation.standard_nav ul li a#nav_news:hover                      {height:37px; background-position:0px -220px;}
 #content > .navigation.standard_nav ul li.active a#nav_passports,                                 
@@ -156,14 +151,11 @@ ul.text li {margin: 0 0 5px;}
 #content > .navigation.standard_nav ul li a#nav_sponsors:hover                  {height:36px; background-position:0px -307px;}
 #content > .navigation.standard_nav ul li.active a#nav_get_involved,                                              
 #content > .navigation.standard_nav ul li a#nav_get_involved:hover              {height:30px; background-position:0px -342px;}
-/*#content > .navigation.standard_nav ul li a#nav_night_market:hover,
-#content > .navigation.standard_nav ul li.active a#nav_night_market             {height:32px; background-position:0px -377px;}
-*/
 #content > section {width:755px; float:right;}
 
 
 #content > .navigation.full_nav{background-image:none; background-color:transparent; -webkit-box-shadow:none; -moz-box-shadow:none; box-shadow:none; margin-top:-150px; margin-bottom: -75px;}
-#content > .navigation.full_nav ul{position:relative; background-image:url(../images/home_nav/paint.png); background-position:-155px 70px; width:100%; height:773px; background-repeat: no-repeat;}
+#content > .navigation.full_nav ul {position:relative; background-image:url(../images/home_nav/paint.png); background-position:-195px 190px; width:100%; height:773px; background-repeat: no-repeat;}
 #content > .navigation.full_nav ul li{}
 #content > .navigation.full_nav ul li.press_kit{ position:absolute; top:300px; left:640px; z-index:1;}
 #content > .navigation.full_nav ul li.press_kit a{background-image:url(../images/home_nav/press_kit.png); width:263px; height:309px; }
@@ -175,56 +167,45 @@ ul.text li {margin: 0 0 5px;}
 #content > .navigation.full_nav ul li.social a.instagram{position:absolute; top:24px; left:84px; background:url(../images/home_nav/instagram.png); width:30px; height:24px;}
 #content > .navigation.full_nav ul li a{ position:absolute; display:block; text-indent:-9999px;}
 #content > .navigation.full_nav ul li a:hover{}
-#content > .navigation.full_nav ul li a#nav_list                      { display:none; width:864px; height:265px; background-image:url(../images/home_nav/get_list_ready.png);}
 #content > .navigation.full_nav ul li a#nav_about                     { width:177px; height:161px; background-image:url(../images/home_nav/about.png);}
 #content > .navigation.full_nav ul li a#nav_eat_and_drink             { width:299px; height:347px; background-image:url(../images/home_nav/eat_and_drink.png);}
 #content > .navigation.full_nav ul li a#nav_conference                { width:179px; height:157px; background-image:url(../images/home_nav/conference.png);}
-/*#content > .navigation.full_nav ul li a#nav_local_forager             { width:186px; height:125px; background-image:url(../images/home_nav/local_forager.png);}*/
 #content > .navigation.full_nav ul li a#nav_news                      { width:119px; height:88px; background-image:url(../images/home_nav/news.png);}
 #content > .navigation.full_nav ul li a#nav_passports                 { width:243px; height:78px; background-image:url(../images/home_nav/passports.png);}
 #content > .navigation.full_nav ul li a#nav_merchandise               { width:219px; height:58px; background-image:url(../images/home_nav/merchandise.png);}
 #content > .navigation.full_nav ul li a#nav_sponsors                  { width:87px; height:271px; background-image:url(../images/home_nav/sponsors.png);}
 #content > .navigation.full_nav ul li a#nav_get_involved              { width:181px; height:79px; background-image:url(../images/home_nav/get_involved.png);}
-#content > .navigation.full_nav ul li a#nav_after_party               { display:none; width:227px; height:58px; background-image:url(../images/home_nav/after_party.png);}
-#content > .navigation.full_nav ul li a#nav_photo_contest             { display:none; width:231px; height:69px; background-image:url(../images/home_nav/photo_contest.png);}
 #content > .navigation.full_nav ul li a#mission_neighbors             { width:193px; height:99px; background-image:url(../images/home_nav/mission_neighbors.png);}
-/*#content > .navigation.full_nav ul li a#nav_night_market              { width:232px; height:328px; background-image:url(../images/home_nav/night_market.png);}*/
 #content > .navigation.full_nav ul li.friday_night a                  { width:314px; height:100px; background-image:url(../images/home_nav/friday_night.png);} 
+#content > .navigation.full_nav ul li.raffle a                        { width: 270px; height:132px; background-image:url(../images/home_nav/raffle.png);} 
 
 #content > .navigation.full_nav ul li a#nav_about:hover                      {background-position:0 -161px;}
-#content > .navigation.full_nav ul li a#nav_list:hover                       {background-position:0 -265px;}
 #content > .navigation.full_nav ul li a#nav_eat_and_drink:hover              {background-position:0 -347px;}
 #content > .navigation.full_nav ul li a#nav_conference:hover                 {background-position:0 -157px;}
-/*#content > .navigation.full_nav ul li a#nav_local_forager:hover              {background-position:0 -125px;}*/
 #content > .navigation.full_nav ul li a#nav_news:hover                       {background-position:0 -88px; }
 #content > .navigation.full_nav ul li a#nav_passports:hover                  {background-position:0 -78px; }
 #content > .navigation.full_nav ul li a#nav_merchandise:hover                {background-position:0 -58px; }
 #content > .navigation.full_nav ul li a#nav_sponsors:hover                   {background-position:0 -271px;}
 #content > .navigation.full_nav ul li a#nav_get_involved:hover               {background-position:0 -79px; }
 #content > .navigation.full_nav ul li a#nav_after_party:hover                {background-position:0 -58px; }
-#content > .navigation.full_nav ul li a#nav_photo_contest:hover              {background-position:0 -69px; }
-#content > .navigation.full_nav ul li a#nav_photo_contest:hover              {background-position:0 -69px; }
 #content > .navigation.full_nav ul li a#mission_neighbors:hover              {background-position:0 -99px; }
-/*#content > .navigation.full_nav ul li a#nav_night_market:hover               {background-position:0 -328px;}*/
-#content > .navigation.full_nav ul li.friday_night a:hover					 {background-position:0 -100px;}
+#content > .navigation.full_nav ul li.friday_night a:hover					         {background-position:0 -100px;}
+#content > .navigation.full_nav ul li.raffle a:hover					               {background-position: 0 -132px;}
 
 /*positioning for full nav*/
-#content > .navigation.full_nav ul li a#nav_list               {left: auto;top: auto;z-index:38;}
-#content > .navigation.full_nav ul li a#nav_about              {left:326px;top:172px;z-index:48;}
-#content > .navigation.full_nav ul li a#nav_eat_and_drink      {left: -5px;top:178px;z-index:50;}
-#content > .navigation.full_nav ul li a#nav_conference         {left:338px;top:347px;z-index:49;}
-#content > .navigation.full_nav ul li a#nav_news               {left:545px;top:169px;z-index:46;}
-#content > .navigation.full_nav ul li a#nav_sponsors           {left:565px;top:257px;z-index:53;}
-#content > .navigation.full_nav ul li a#nav_get_involved       {left:680px;top:320px;z-index:58;}
-/*#content > .navigation.full_nav ul li a#nav_night_market       {left:515px;top:178px;z-index:51;}*/
-#content > .navigation.full_nav ul li.friday_night a 		   {left:440px;top:541px;z-index:51;}
-/*#content > .navigation.full_nav ul li a#nav_local_forager      {left:500px;top:519px;z-index:52;}*/
-#content > .navigation.full_nav ul li a#nav_photo_contest      {left:530px;top:115px;z-index:47;}
-#content > .navigation.full_nav ul li a#mission_neighbors      {left:700px;top:190px;z-index:57;}
-#content > .navigation.full_nav ul li a#nav_passports          {left:59px;top:552px;z-index:54;}
-#content > .navigation.full_nav ul li a#nav_merchandise        {left:161px;top:572px;z-index:55;}
-#content > .navigation.full_nav ul li.presentedbywfm 		   {left: 345px;top: 700px;z-index:56;position: relative;}
-#content > .navigation.full_nav ul li.presentedbywfm img 	   {width: 170px; height: auto;}
+#content > .navigation.full_nav ul li a#nav_about              {left: 326px; top: 172px; z-index:48;}
+#content > .navigation.full_nav ul li a#nav_eat_and_drink      {left:  -5px; top: 178px; z-index:50;}
+#content > .navigation.full_nav ul li a#nav_conference         {left: 338px; top: 347px; z-index:49;}
+#content > .navigation.full_nav ul li a#nav_news               {left: 545px; top: 169px; z-index:46;}
+#content > .navigation.full_nav ul li a#nav_sponsors           {left: 565px; top: 257px; z-index:53;}
+#content > .navigation.full_nav ul li a#nav_get_involved       {left: 680px; top: 320px; z-index:58;}
+#content > .navigation.full_nav ul li.friday_night a 		       {left: 460px; top: 541px; z-index:51;}
+#content > .navigation.full_nav ul li.raffle a          		   {left: 200px; top: 530px; z-index:52;}
+#content > .navigation.full_nav ul li a#mission_neighbors      {left: 700px; top: 190px; z-index:57;}
+#content > .navigation.full_nav ul li a#nav_passports          {left:     0; top: 552px; z-index:54;}
+#content > .navigation.full_nav ul li a#nav_merchandise        {left: 161px; top: 572px; z-index:55;}
+#content > .navigation.full_nav ul li.presentedbywfm 		       {left: 345px; top: 700px; z-index:56; position: relative;}
+#content > .navigation.full_nav ul li.presentedbywfm img 	     {width: 170px; height: auto;}
 
 .extra_menu a.sign{position:absolute; text-indent:-9999px; display:block;}
 .extra_menu a.sign#missed_last_years_conference_sign{right:0; top:20px; background-image:url(../images/missed_out.png); width:272px; height:98px;}
