@@ -19,7 +19,7 @@
 
         <p><strong>Location:</strong> <a href="http://www.somarts.org/">SOMArts</a> (<a href="https://www.google.com/maps?q=somarts&sll=30.3077609,-97.75340140000002&sspn=0.4553749008071801,0.7034107808632009&t=m&hq=somarts&radius=15000&z=16">934 Brannan St, San Francisco, CA 94103</a>)</p>
 
-        <p><strong><a href="http://foodandentrepreneurshipconference2014.eventbrite.com/">Tickets</a>:</strong> Your ticket will include a full day&rsquo;s menu of conversations, access to the Food+Art Expo, tons of opportunities to meet great people as well as breakfast, lunch and happy hour. Our ticket cost is meant to keep this conference accessible but does not fully cover the cost of the event. Donations are appreciated. Limited scholarships are available for low-income entreprenuers through the Wells Fargo &amp; La Cocina Scholarship Fund - apply by August 14. <a href="http://foodandentrepreneurshipconference2014.eventbrite.com/">Buy your tickets today!</a></p>
+        <p><strong><a href="http://foodandentrepreneurshipconference2014.eventbrite.com/">Tickets</a>:</strong> Your ticket will include a full day&rsquo;s menu of conversations, access to the Food+Art Expo, tons of opportunities to meet great people as well as breakfast, lunch and happy hour. Our ticket cost is meant to keep this conference accessible but does not fully cover the cost of the event. Donations are appreciated. Limited scholarships are available for low-income entreprenuers through the Wells Fargo &amp; La Cocina Scholarship Fund&mdash;apply by August 14. <a href="http://foodandentrepreneurshipconference2014.eventbrite.com/">Buy your tickets today!</a></p>
       </section>
 
       <section id="overview">
