@@ -19,7 +19,7 @@
 
         <p><strong>Location:</strong> <a href="http://www.somarts.org/">SOMArts</a> (<a href="https://www.google.com/maps?q=somarts&sll=30.3077609,-97.75340140000002&sspn=0.4553749008071801,0.7034107808632009&t=m&hq=somarts&radius=15000&z=16">934 Brannan St, San Francisco, CA 94103</a>)</p>
 
-        <p><strong><a href="http://foodandentrepreneurshipconference2014.eventbrite.com/">Tickets</a>:</strong> Your ticket will include a full day&rsquo;s menu of conversations, access to the Food+Art Expo, tons of opportunities to meet great people as well as breakfast, lunch and happy hour. Our ticket cost is meant to keep this conference accessible but does not fully cover the cost of the event. Donations are appreciated. Limited scholarships are available for low income entreprenuers through the Wells Fargo & La Cocina Scholarship Fund - apply by August 14.  <a href="http://foodandentrepreneurshipconference2014.eventbrite.com/">Buy your tickets today!</a></p>
+        <p><strong><a href="http://foodandentrepreneurshipconference2014.eventbrite.com/">Tickets</a>:</strong> Your ticket will include a full day&rsquo;s menu of conversations, access to the Food+Art Expo, tons of opportunities to meet great people as well as breakfast, lunch and happy hour. Our ticket cost is meant to keep this conference accessible but does not fully cover the cost of the event. Donations are appreciated. Limited scholarships are available for low-income entreprenuers through the Wells Fargo &amp; La Cocina Scholarship Fund - apply by August 14. <a href="http://foodandentrepreneurshipconference2014.eventbrite.com/">Buy your tickets today!</a></p>
       </section>
 
       <section id="overview">
@@ -29,11 +29,10 @@
       </section>
 
       <section id="details">
-        <h1>Conference Program </h1>
-        <p> You can now <a href="https://drive.google.com/a/lacocinasf.org/?tab=mo#folders/0BzWCDCCSr3hJZWFuRDZFbDlOckU"> read up on all the sessions </a> and get ready! Map out your day - are you going to  join <a href="https://www.facebook.com/sanfranciscochronicle">San Francisco Chronicle&rsquo;s</a> Jonathan Kauffman and <a href="https://www.facebook.com/haparamen">Hapa Ramen&rsquo;s</a> Richie Nakano and others to discuss the value of ethnic food? Or maybe you want to dig into your finances and get investment ready with our "Getting Ready for Investment" workshop hosted by Friday Consulting?  
-        A note: If you plan on attending IDEO's Branding workshop or the Staying on Shelves workshop with tons of buyers, bring your products to the session in order to get live feedback! 
-        <p>Don't forget to get hyped for our newest addition this year is the Art + Food Expo, which will be running alongside the lunch break; it will be a chance for the conference attendees to interact with ideas around food and city spaces through art and activities. </p>
-
+        <h1>Conference program</h1>
+        <p>You can now <a href="https://drive.google.com/a/lacocinasf.org/?tab=mo#folders/0BzWCDCCSr3hJZWFuRDZFbDlOckU">read up on all the sessions</a> and get ready! Map out your day&mdash;are you going to join <a href="https://www.facebook.com/sanfranciscochronicle">San Francisco Chronicle&rsquo;s</a> Jonathan Kauffman and <a href="https://www.facebook.com/haparamen">Hapa Ramen&rsquo;s</a> Richie Nakano and others to discuss the value of ethnic food? Or maybe you want to dig into your finances and get investment ready with our &ldquo;Getting Ready for Investment&rdquo; workshop hosted by Friday Consulting?</p>
+        <p>Note: If you plan on attending IDEO&rsquo;s Branding workshop or the Staying on Shelves workshop with tons of buyers, bring your products to the session in order to get live feedback!</p>
+        <p>Don&rsquo;t forget to get hyped for our newest addition this year is the Food+Art Expo, which will be running alongside the lunch break; it will be a chance for the conference attendees to interact with ideas around food and city spaces through art and activities.</p>
         <p>And, it wouldn&rsquo;t be a La Cocina event without fantastic food now would it? Be a Lunchbox traveler with our &ldquo;Around the World in a Lunchbox&rdquo; presented by <a href="http://www.ejisethiopian.com/">Eji&rsquo;s Ethiopian</a>, <a href="http://www.saldevidagourmet.com/">Sal De Vida</a>, and <a href="http://www.aedansf.com/">Aedan Fermented Foods</a>. We will also be serving breakfast, have enough caffeine to power you through a Sunday Conference, an ice cream social (why not?), and a happy hour to wrap things up.</p>
       </section>
       
