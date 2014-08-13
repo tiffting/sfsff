@@ -19,7 +19,7 @@
 			<p><strong>The answer?</strong> Unlimited iterations of fried chicken and open bar* (cocktails AND craft beer). Yeah, whoa, we know.</p>
 			<p>As you walk in, you will be (aggressively) greeted with a basket and a full, completely re-fillable flask. There&rsquo;s no time to waste. You take your basket to the nearest chef stations and start filling your basket (aggressively) with varieties from more expected chefs than you know what to do with:</p>
 			<ul class="text">
-				<li>Seattle-based <a href="http://skilletstreetfood.com/">Skillet Street Food</a>: They may even bring their famous bacon jam!</li>
+				<li>Washington-based <a href="http://huxleywallace.com/">Huxley-Wallace Collective</a></li>
 				<li>Austin-based food trucks <a href="http://thepeachedtortilla.com/">The Peached Tortilla</a>: In their words, they want to get you &ldquo;peached&rdquo;!</li>
 				<li>Alabama-based <a href="http://www.jimnnicks.com/">Jim &rsquo;n Nick&rsquo;s</a>: They like it quick &rsquo;n&rsquo; crisp.</li>
 				<li>Oakland-based <a href="http://hopscotchoakland.com/">Hopscotch</a>: Michael Bauer says the chicken is like <a href="http://www.sfgate.com/restaurants/diningout/article/Hopscotch-an-ambitious-Oakland-place-4082056.php#page-1">&ldquo;a savory granola&rdquo;</a>...in a good way!</li>

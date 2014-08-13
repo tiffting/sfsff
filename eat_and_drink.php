@@ -147,7 +147,7 @@
     </li>
 
     <li class="vendor">
-      <a href="http://sfstreetfoodfestival2013.eventbrite.com/">
+      <a href="http://sfstreetfoodfestival2014.eventbrite.com/">
         <img src="images/get_your_passports.png" alt="Get your passports"/>
       </a>
     </li>
