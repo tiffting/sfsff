@@ -1,13 +1,13 @@
 
-body{font-size:14px; background-image:url(../images/wood.jpg); background-position:50% 0; background-color:#423a34; font-family:helvetica, arial, sans-serif;}
-ul{list-style-type:none;}
-.cf:before,.cf:after{content:""; display:table;}
-.cf:after{clear:both;}
-.cf{zoom:1;}
+body {background: #423a34 url(/images/wood.jpg) center 0; font-family: Helvetica, Arial, sans-serif; font-size: 14px; margin: 0;}
+ul {list-style-type: none;}
+.cf:before, .cf:after {content:""; display: table;}
+.cf:after {clear: both;}
+.cf {zoom: 1;}
 
-a{color:#085a56; text-decoration:none;}
-a:hover{text-decoration:underline;}
-a img{border:none;}
+a {color: #085a56; text-decoration: none;}
+a:hover {text-decoration: underline;}
+a img {border: none;}
 a[href^="tel:"] {white-space: nowrap;}
 
 .callout {
