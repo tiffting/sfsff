@@ -112,6 +112,7 @@
           <div class="logo logo-3"><a href="http://www.tonysfinefoods.com/"><img src="/z_logos/tonys.png" alt="Tony's Fine Foods"></a></div>
           <div class="logo logo-3"><a href="https://www.wellsfargo.com/"><img src="/z_logos/wells_fargo.png" alt="Wells Fargo"></a></div>
           <div class="logo logo-3"><a href="http://www.townsqd.com/"><img src="/z_logos/townsquared.png" alt="Townsquared"></a></div>
+          <div class="logo logo-3"><a href="http://www.trumer-international.com/"><img src="/z_logos/trumer_pils.png" alt="Trumers Pils"/></a></div>
           <!--
           <div class="logo logo-3"><a href=""><img src="/z_logos/" alt=""></a></div>
           -->
