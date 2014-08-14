@@ -163,6 +163,7 @@
           <div class="logo logo-3"><a href="http://www.somarts.org/"><img src="/z_logos/somarts.png" alt="SOMArts"/></a></div>
           <div class="logo logo-3"><a href="http://purityorganic.com/"><img src="/z_logos/purity.png" alt="Purity Organic"/></a></div>
           <div class="logo logo-3"><a href="http://www.townsqd.com/"><img src="/z_logos/townsquared.png" alt="Townsquared"/></a></div>
+          <div class="logo logo-3"><a href="http://www.trumer-international.com/"><img src="/z_logos/trumer_pils.png" alt="Trumers Pils"/></a></div>
           <!-- <div class="logo logo-3"><a href="http://teamproevent.com/"><img src="/z_logos/proevent.png" alt="Team Pro Event"/></a></div> -->
           <!-- <div class="logo logo-3"><a href="http://purityorganic.com/"><img src="/z_logos/purity.png" alt="Purity Organic"/></a></div> -->
           <!-- <div class="logo logo-3"><a href="https://www.sfcooking.com/"><img src="/z_logos/san_francisco_cooking_school.png" alt="San Francisco Cooking School"/></a></div> -->
