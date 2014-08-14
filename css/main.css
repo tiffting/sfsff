@@ -120,6 +120,7 @@ ul.text li {margin: 0 0 5px;}
 #content > .navigation.standard_nav ul li.friday_night {display: none;}
 #content > .navigation.standard_nav ul li.press_kit    {display: none;}
 #content > .navigation.standard_nav ul li.raffle       {display: none;}
+#content > .navigation.standard_nav ul li.map          {display: none;}
 #content > .navigation.standard_nav ul li.social{position:absolute; left: 0; bottom:-55px; overflow:hidden; padding: 0;}
 #content > .navigation.standard_nav ul li.social a{margin-left:26px;text-indent:0; background-image:none; float:left; display:block; width:auto;}
 #content > .navigation.standard_nav ul li.social a:first-child{margin-left:0;}
@@ -178,6 +179,7 @@ ul.text li {margin: 0 0 5px;}
 #content > .navigation.full_nav ul li a#mission_neighbors             { width:193px; height:99px; background-image:url(../images/home_nav/mission_neighbors.png);}
 #content > .navigation.full_nav ul li.friday_night a                  { width:314px; height:100px; background-image:url(../images/home_nav/friday_night.png);} 
 #content > .navigation.full_nav ul li.raffle a                        { width: 270px; height:132px; background-image:url(../images/home_nav/raffle.png);} 
+#content > .navigation.full_nav ul li.map a                           {color: white; font-family: chunk-1; font-size: 2rem; text-indent: 0;}
 
 #content > .navigation.full_nav ul li a#nav_about:hover                      {background-position:0 -161px;}
 #content > .navigation.full_nav ul li a#nav_eat_and_drink:hover              {background-position:0 -347px;}
@@ -201,6 +203,7 @@ ul.text li {margin: 0 0 5px;}
 #content > .navigation.full_nav ul li a#nav_get_involved       {left: 680px; top: 320px; z-index:58;}
 #content > .navigation.full_nav ul li.friday_night a 		       {left: 460px; top: 541px; z-index:51;}
 #content > .navigation.full_nav ul li.raffle a          		   {left: 200px; top: 530px; z-index:52;}
+#content > .navigation.full_nav ul li.map a                    {left: 500px; top: 670px;}
 #content > .navigation.full_nav ul li a#mission_neighbors      {left: 700px; top: 190px; z-index:57;}
 #content > .navigation.full_nav ul li a#nav_passports          {left:     0; top: 552px; z-index:54;}
 #content > .navigation.full_nav ul li a#nav_merchandise        {left: 161px; top: 572px; z-index:55;}

@@ -32,6 +32,9 @@
   <li class="mission_neighbors<?= $page_id == "mission_neighbors" ? ' active' : '' ?>">
     <a id="mission_neighbors" href="mission_neighbors.php">Mission Neighbors</a>
   </li>
+  <li class="map">
+    <a href="/z_downloads/2014_sfsff_festival-map.pdf">Download SFSFF map</a>
+  </li>
   <li class="social">
     <a class="twitter" href="http://twitter.com/streetfoodsf"><img src="images/home_nav/t.png" /></a>
     <a class="facebook" href="https://www.facebook.com/pages/San-Francisco-Street-Food-Festival/108586905834574"><img src="images/home_nav/fb.png" /></a>
